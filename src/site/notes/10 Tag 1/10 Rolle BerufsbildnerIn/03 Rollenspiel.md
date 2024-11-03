@@ -78,9 +78,7 @@
 > | Bleibt der/die Berufsbildner/in ruhig und professionell?            |                                             |
 > | Werden klare Erwartungen und mögliche Konsequenzen kommuniziert?    |                                             |
 
-**Materialkarte für den/die Lernende/n:**
-
-> [!note]- Material Karte 1: Regelmässiges Zuspätkommen
+> [!bug]- Material Karte 1: Regelmässiges Zuspätkommen
 >
 > **Rolle Lernende/r:**
 >
@@ -109,8 +107,6 @@
 > | Fragt der/die Berufsbildner/in nach möglichen Ursachen?               |                                             |
 > | Bietet der/die Berufsbildner/in konkrete Unterstützung oder Trainings an? |                                         |
 > | Wie fördert der/die Berufsbildner/in das Selbstvertrauen des/der Lernenden? |                                         |
-
-**Materialkarte für den/die Lernende/n:**
 
 > [!bug]- **Material Karte 2: Wiederholte Fehler**
 >
@@ -142,8 +138,6 @@
 > | Fördert der/die Berufsbildner/in die Kommunikation und Konfliktlösung? |                                           |
 > | Werden gemeinsame Lösungen erarbeitet?                              |                                             |
 
-**Materialkarte für den/die Lernende/n:**
-
 > [!bug]- **Material Karte 3: Konflikt mit einem Kollegen**
 >
 > **Rolle Lernende/r:**
@@ -173,8 +167,6 @@
 > | Zeigt der/die Berufsbildner/in Verständnis für die Gefühle des/der Lernenden? |                                       |
 > | Werden die Erwartungen und Anforderungen klar kommuniziert?           |                                             |
 > | Wie geht der/die Berufsbildner/in mit dem unreifen Verhalten um?      |                                             |
-
-**Materialkarte für den/die Lernende/n:**
 
 > [!bug]- **Material Karte 4: Verweigerung von Routineaufgaben**
 >

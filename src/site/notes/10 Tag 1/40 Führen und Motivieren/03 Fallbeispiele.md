@@ -8,7 +8,7 @@ Hier ist die angepasste Formulierung des Auftrags:
 
 ### Auftrag - Fallbeispiele: Lösungsansätze entwickeln und veranschaulichen
 
->[!abstract] In diesem Auftrag analysieren Sie praxisnahe Fallbeispiele und entwickeln gemeinsam Lösungsansätze zur Förderung der Motivation von Lernenden. Diskutieren Sie innerhalb Ihrer Gruppe verschiedene Strategien und Maßnahmen, die im jeweiligen Fall hilfreich sein könnten. Visualisieren Sie Ihre Ergebnisse strukturiert auf dem Miro-Board und verknüpfen Sie die Problemfelder mit passenden Motivationsfaktoren, um die Zusammenhänge klar aufzuzeigen.
+>[!abstract] In diesem Auftrag analysieren Sie praxisnahe Fallbeispiele und entwickeln gemeinsam Lösungsansätze zur Förderung der [[90 Handbuch/Glossar/Motivation\|Motivation]] von Lernenden. Diskutieren Sie innerhalb Ihrer Gruppe verschiedene Strategien und Massnahmen, die im jeweiligen Fall hilfreich sein könnten. Visualisieren Sie Ihre Ergebnisse strukturiert auf dem Miro-Board und verknüpfen Sie die Problemfelder mit passenden Motivationsfaktoren, um die Zusammenhänge klar aufzuzeigen.
 >>[!success] Lernziele
 >>Das Ziel des Auftrags ist, dass Sie...
 >>* ...praxisbezogene Fallbeispiele analysieren und passende Lösungsansätze entwickeln können.
@@ -19,13 +19,13 @@ Hier ist die angepasste Formulierung des Auftrags:
 1. **Bildung von Gruppen (5 Gruppen):** Teilen Sie sich in fünf Gruppen auf, wobei jede Gruppe ein eigenes Fallbeispiel bearbeitet.
 2. **Zuweisung der Fallbeispiele:** Jede Gruppe erhält ein ausführliches Fallbeispiel und bearbeitet dieses eigenständig.
 3. **Analyse des Fallbeispiels (ca. 15 Minuten):** Lesen Sie das Fallbeispiel aufmerksam und analysieren Sie die Situation. Notieren Sie die identifizierten **Problemfelder** der lernenden Person (z.B. Motivationsprobleme, Überforderung, persönliche Herausforderungen).
-4. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 20 Minuten):** Entwickeln Sie gemeinsam Motivationsfaktoren und Lösungsansätze, die die Motivation der lernenden Person gezielt fördern könnten. Begründen Sie Ihre Vorschläge und überlegen Sie, wie die Maßnahmen auf das jeweilige Problemfeld wirken könnten.
+4. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 20 Minuten):** Entwickeln Sie gemeinsam Motivationsfaktoren und Lösungsansätze, die die Motivation der lernenden Person gezielt fördern könnten. Begründen Sie Ihre Vorschläge und überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld wirken könnten.
    *Hinweis:* Gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.
 5. **Visualisierung auf dem Miro-Board (ca. 10 Minuten):**  
    - Notieren Sie die **Problemfelder** auf blauen Post-its (linke Spalte) und die dazugehörigen **Motivationsfaktoren** auf gelben Post-its (rechte Spalte).
    - Verknüpfen Sie die Post-its durch **Verbundpfeile** und beschriften Sie die Pfeile kurz, um die Zusammenhänge zwischen Problemfeldern und Motivationsfaktoren zu verdeutlichen. Ein Problemfeld kann mit mehreren Motivationsfaktoren verbunden sein.
 6. **Präsentation der Ergebnisse (ca. 5 Minuten pro Gruppe):** Jede Gruppe stellt ihren Fall und ihre Ergebnisse im Plenum vor. Erklären Sie die identifizierten Problemfelder und die Verknüpfung mit den Motivationsfaktoren sowie die vorgeschlagenen Lösungsansätze.
-7. **Feedback und Reflektion im Plenum:** Im Anschluss an die Präsentation hat jede Gruppe die Möglichkeit, Feedback und weitere Ideen von den anderen Teilnehmern zu erhalten. Fassen Sie abschließend die wichtigsten allgemeinen Erkenntnisse zusammen.
+7. **Feedback und Reflektion im Plenum:** Im Anschluss an die Präsentation hat jede Gruppe die Möglichkeit, Feedback und weitere Ideen von den anderen Teilnehmern zu erhalten. Fassen Sie abschliessend die wichtigsten allgemeinen Erkenntnisse zusammen.
 
 >[!Warning] **Hinweise zur Bearbeitung:**
 >
