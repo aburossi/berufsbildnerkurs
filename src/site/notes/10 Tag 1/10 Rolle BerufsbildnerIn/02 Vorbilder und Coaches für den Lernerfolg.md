@@ -21,7 +21,7 @@
 >>- Welche **Herausforderungen** sehen Sie in Bezug auf die drei Ansätze und wie könnten Sie diese **meistern**?
 
 >[!quote]- Miro-Board
-><iframe src="https://miro.com/app/live-embed/uXjVO-xG58E=/?moveToViewport=-215.5,-223.5,3383,1761.5&canvasScale=0.515625" frameBorder="0" width="100%" height="600" allowFullScreen live-embed></iframe>
+><iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 1. **Abstimmung (ca. 5 Minuten)**  
     Nach der Diskussion überfliegen alle Teilnehmenden die Post-its der anderen Gruppenbereiche. Anschliessend geben Sie Ihre Stimmen für die besten Ansätze ab. Nutzen Sie das Polling-Tool von Miro, um Ihre Favoriten zu wählen. Jeder Teilnehmende hat **eine bestimmte Anzahl von Stimmen**, die er auf die Post-its der verschiedenen Gruppen verteilen kann.
