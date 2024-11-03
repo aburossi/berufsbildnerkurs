@@ -2,13 +2,9 @@
 {"dg-publish":true,"permalink":"/00 Allgemeine Infos/01 Daten und Termine/"}
 ---
 
-[merkblatt-204-legasthenie-dyskalkulie.pdf](https://s3-ch-bern-1.obj.begasoft.ch/sdbb-drupal-backend-bbi-prod/s3fs-public/imported_files/merkblatt-204-legasthenie-dyskalkulie.pdf)
+## Stundentafel
+<iframe src="https://bbwch-my.sharepoint.com/:b:/g/personal/pietro_rossi_bbw_ch/EY8Pbq1B03VFoaNvqmUdnSMBDgpRVcHHEsBAixw7-A_6jg?e=2UOyc0" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+## Miro-Board
+[Zutrittslink](http://aburossi.ch/mirobbk)
 
-<iframe src="https://s3-ch-bern-1.obj.begasoft.ch/sdbb-drupal-backend-bbi-prod/s3fs-public/imported_files/merkblatt-204-legasthenie-dyskalkulie.pdf#page=3" width="700" height="1000" ></iframe>
 
-
-![[handbuch-betriebliche-grundbildung-teil-A.pdf#page=23|handbuch-betriebliche-grundbildung-teil-A, page 23]]
-
-![hh](https://s3-ch-bern-1.obj.begasoft.ch/sdbb-drupal-backend-bbi-prod/s3fs-public/imported_files/merkblatt-204-legasthenie-dyskalkulie.pdf)
-
-<iframe src="[merkblatt-204-legasthenie-dyskalkulie.pdf](https://s3-ch-bern-1.obj.begasoft.ch/sdbb-drupal-backend-bbi-prod/s3fs-public/imported_files/merkblatt-204-legasthenie-dyskalkulie.pdf)" width="700" height="1000" ></iframe>
