@@ -11,7 +11,7 @@
 >* Diese **Adoleszenz** ist geprägt von **körperlichen und psychischen Veränderungen**, der Suche nach der eigenen Identität und dem Wunsch nach Unabhängigkeit.
 >* Als Berufsbildner spielen Sie eine wichtige Rolle in dieser Entwicklungsphase und können die Lernenden durch **Verständnis, klare Regeln und gezielte Förderung** unterstützen.
 >>[!question]- Diskussion Adoleszenz: Herausforderungen und Chancen im Berufsalltag
->>Die Adoleszenz ist eine **spannende, aber auch herausfordernde Zeit**, sowohl für die Jugendlichen selbst als auch für ihr Umfeld.  Diskutieren Sie in Ihrer Gruppe die folgenden Fragen:
+>>Die [[90 Handbuch/Glossar/Adoleszenz\|Adoleszenz]] ist eine **spannende, aber auch herausfordernde Zeit**, sowohl für die Jugendlichen selbst als auch für ihr Umfeld.  Diskutieren Sie in Ihrer Gruppe die folgenden Fragen:
 >>* Welche **typischen Verhaltensweisen** von Jugendlichen in diesem Alter sind Ihnen im Berufsalltag begegnet?
 >>* Welche **Chancen** bietet diese Entwicklungsphase für die Ausbildung?
 >>* Wo sehen Sie die grössten **Herausforderungen**?

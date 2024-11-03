@@ -27,8 +27,11 @@
 >>- **Besprechen Sie in Ihrer Gruppe, wie Sie die Motivation der Lernenden fördern und sie für die Ausbildung begeistern können.**
 >>- **Besprechen Sie in Ihrer Gruppe, wie Sie Konflikte mit Lernenden konstruktiv lösen können.**
 
-
-
-
 >[!quote]- Miro-Board
 >{placeholder for the miro-iframe}
+
+---
+## Glossar
+[[90 Handbuch/Glossar/Entwicklungspsychologie\|Entwicklungspsychologie]]
+[[90 Handbuch/Glossar/Kognitive Entwicklung\|Kognitive Entwicklung]]
+[[90 Handbuch/Glossar/Reifeprozess\|Reifeprozess]]

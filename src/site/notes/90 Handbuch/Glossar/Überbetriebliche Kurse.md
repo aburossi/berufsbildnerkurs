@@ -6,14 +6,14 @@
 - **Überbetriebliche Kurse (üK)** ergänzen die Ausbildung im **Lehrbetrieb** und der **Berufsfachschule** und vermitteln **grundlegende praktische Fertigkeiten**.
 - Die **[[90 Handbuch/Glossar/Bildungsverordnung\|Bildungsverordnung]]** des jeweiligen Berufs legt fest, ob ein üK erforderlich ist und welche Inhalte vermittelt werden sollen.
 - Die Kurse finden in **überbetrieblichen Kurszentren** statt und werden von den **[[90 Handbuch/Glossar/Organisationen der Arbeitswelt\|Organisationen der Arbeitswelt]] (OdA)** organisiert und finanziert.
-- **Kompetenznachweise (üK-KN)** dokumentieren die Leistungen der Lernenden und können in einigen Berufen in die **Erfahrungsnote** einfließen.
+- **Kompetenznachweise** dokumentieren die Leistungen der Lernenden und können in einigen Berufen in die **Erfahrungsnote** einfliessen.
 - Der Besuch der üK ist **obligatorisch** und kostenfrei für die Lernenden; die Finanzierung erfolgt durch **Kursgelder** der Lehrbetriebe und öffentliche Mittel.
 
 # ❗Warum es wichtig ist?
 - **Ergänzt praktische Kompetenzen**: Die üK vermitteln Fertigkeiten, die im Lehrbetrieb eventuell nicht ausreichend abgedeckt werden können.
 - **Sichert Ausbildungsqualität**: Durch standardisierte Inhalte wird sichergestellt, dass Lernende **berufsrelevante Kernkompetenzen** erlernen.
 - **Fördert Vernetzung**: üK bringen Lernende aus verschiedenen Betrieben zusammen, was den **Erfahrungsaustausch und Teamarbeit** fördert.
-- **Trägt zur Prüfungsleistung bei**: Die in den üK erworbenen Kompetenzen sind oft prüfungsrelevant und fließen in die **Qualifikationsverfahren (QV)** ein.
+- **Trägt zur Prüfungsleistung bei**: Die in den üK erworbenen Kompetenzen sind oft prüfungsrelevant und fliessen in die **Qualifikationsverfahren (QV)** ein.
 - **Entlastet kleinere Betriebe**: Besonders für Betriebe, die nicht alle Ausbildungsinhalte selbst vermitteln können, sind üK ein wichtiger Baustein.
 
 # ⛏Wie es funktioniert?
