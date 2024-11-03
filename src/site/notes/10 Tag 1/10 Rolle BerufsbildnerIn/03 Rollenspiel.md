@@ -5,7 +5,6 @@
 ### Auftrag Rollenspiel "Herausfordernde Situationen im Berufsalltag"
 
 >[!abstract] In diesem Rollenspiel schlüpfen Sie in die Rolle eines Berufsbildners/einer Berufsbildnerin und üben den Umgang mit herausfordernden Situationen im Berufsalltag. Sie lernen, wie Sie mit **Empathie, Klarheit** und **Lösungsorientierung** auf schwierige Situationen reagieren können, um die Lernenden optimal zu unterstützen und gleichzeitig Ihre eigenen Grenzen zu wahren.
-
 >>[!success] Lernziele
 >>Das Ziel des Auftrags ist, dass…
 >>* ...Sie **verschiedene Strategien und Verhaltensweisen** im Umgang mit herausfordernden Situationen erproben und reflektieren können.
