@@ -3,8 +3,13 @@
 ---
 
 ## Stundentafel
-<iframe src="https://bbwch-my.sharepoint.com/:b:/g/personal/pietro_rossi_bbw_ch/EY8Pbq1B03VFoaNvqmUdnSMBDgpRVcHHEsBAixw7-A_6jg?e=2UOyc0" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1p-99ScPpQAz9HI6YxDsEyyfr_pHhelMR/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Miro-Board
+
 [Zutrittslink](http://aburossi.ch/mirobbk)
 
+## Links
 
+[Das offizielle schweizerische Informationsportal der Berufs-, Studien- und Laufbahnberatung - berufsberatung.ch](https://www.berufsberatung.ch/dyn/show/1418)
+[Das offizielle schweizerische Portal der Berufsbildung | berufsbildung.ch](https://www.berufsbildung.ch/de)
