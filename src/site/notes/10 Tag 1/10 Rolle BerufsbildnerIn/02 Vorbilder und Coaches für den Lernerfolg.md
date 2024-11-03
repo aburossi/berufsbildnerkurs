@@ -5,7 +5,7 @@
 <iframe src="https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
 
 >[!note] Überfliegen Sie die Seiten 252-253 im Handbuch. Merken Sie sich die **vier Merkmale eines positiven Vorbilds**.
-> **Diskutieren Sie in Ihrer Gruppe, inwiefern die drei vorgestellten theoretischen Ansätze (Berufsbildner/innen als Vorbilder, Berufsbildner/innen als Coaches, Massgebender Führungsstil) miteinander zusammenhängen und sich gegenseitig ergänzen.**
+> Diskutieren Sie in Ihrer Gruppe, inwiefern die drei vorgestellten theoretischen Ansätze (Berufsbildner/innen als Vorbilder, Berufsbildner/innen als Coaches, Massgebender Führungsstil) miteinander zusammenhängen und sich gegenseitig ergänzen.
 >---
 >#### Ablauf
 >1. In Ihrer Gruppe finden Sie auf dem Miro-Board drei beschriftete Bereiche mit den folgenden Überschriften:
@@ -30,4 +30,4 @@
     Nach der Abstimmung werden die Ergebnisse visualisiert. Die Ansätze, die die meisten Stimmen erhalten haben, werden als „Best Practices“ hervorgehoben. Diese kommentiere ich im Plenum und bespreche, warum bestimmte Ideen als besonders wertvoll angesehen wurden und wie sie in der Praxis angewendet werden können.
 
 ## Weiter
-[[10 Tag 1/10 Rolle BerufsbildnerIn/material/03 Vorbilder und Coaches für den Lernerfolg\|03 Vorbilder und Coaches für den Lernerfolg]]
+[[10 Tag 1/10 Rolle BerufsbildnerIn/03 Rollenspiel\|03 Rollenspiel]]
