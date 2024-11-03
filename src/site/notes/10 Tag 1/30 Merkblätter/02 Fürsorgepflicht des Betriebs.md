@@ -3,7 +3,7 @@
 ---
 
 ## Das Wichtigste in Kürze
-<iframe src="https://aburossi.github.io/prezi/BBK/merkblaetter/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
+<iframe src="https://aburossi.github.io/prezi/BBK/merkblaetter/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
 
 ### Podcast-Reihe „Gleiche Chancen und korrekter Umgang“ 
 [je eine unterseite pro podcast]
