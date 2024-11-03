@@ -16,7 +16,7 @@
 *Für alle Fragen rund um Lehrstellen, Berufe, Aus- und Weiterbildungen*
 [Das offizielle schweizerische Portal der Berufsbildung | berufsbildung.ch](https://www.berufsbildung.ch/de)
 [SDBB | CSFO - Shop - Berufsbildung](https://shop.sdbb.ch/berufsbildung-1.html)
-3Das Schweizerisches Dienstleistungszentrum Berufsbildung bietet Materialien rund um die Berufslehre*
+*Das Schweizerisches Dienstleistungszentrum Berufsbildung bietet Materialien rund um die Berufslehre*
 [Mittelschul- und Berufsbildungsamt | Kanton Zürich](https://www.zh.ch/de/bildungsdirektion/mittelschul-berufsbildungsamt.html)
 [Berufslehre | Kanton Zürich](https://www.zh.ch/de/bildung/berufslehre.html)
 *Informationen rund um die Berufslehre vom Kanton Zürich*
