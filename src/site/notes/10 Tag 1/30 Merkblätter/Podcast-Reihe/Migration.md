@@ -24,6 +24,7 @@ Dieser Folge widmet sich einem besonders wichtigen Thema für angehende Berufsbi
 
 **Links & Ressourcen:**
 
+- [Merkblatt 205 "Migration" zur Integration von Migranten in die Berufsbildung](https://www.berufsbildung.ch/de/dokumente/merkblatt-205-migration)
 - Staatssekretariat für Migration (SEM): www.sem.admin.ch
 - Berufsberatung Schweiz: [www.berufsberatung.ch](http://www.berufsberatung.ch)
-- Merkblatt 205 "Migration" zur Integration von Migranten in die Berufsbildung
+
