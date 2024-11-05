@@ -29,8 +29,8 @@
 
 ---
 
->[!quote]- Miro-Board Übung
-><iframe src="https://miro.com/app/live-embed/uXjVL6H7G6P=/?moveToViewport=-250,-300,3500,1900" frameBorder="0" width="100%" height="600" allowFullScreen live-embed></iframe>
+> [!quote]- **Miro-Board**
+> <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 **Miro-Übung:**  
 - Nutzen Sie das Miro-Board, um Ihre **Lebenskurven** zu zeichnen:

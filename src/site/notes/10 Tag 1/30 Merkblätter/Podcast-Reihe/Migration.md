@@ -4,7 +4,7 @@
 
 **Migration und Integration in der Berufsbildung: Wichtige Einblicke für angehende Berufsbildner**
 
-Dieser Folge widmet sich einem besonders wichtigen Thema für angehende Berufsbildner: der Integration von Migranten in die berufliche Grundbildung. Sie erfahren, wie sie junge Menschen aus verschiedenen Herkunftsländern erfolgreich in den Ausbildungsalltag integrieren können. Dabei gehen wir nicht nur auf die rechtlichen Rahmenbedingungen ein, sondern teilen auch praxisnahe Tipps zur Schaffung einer Willkommenskultur. Im Fokus steht das Merkblatt 205, das eine wertvolle Ressource für den Berufsalltag darstellt. Gemeinsam beleuchten wir die verschiedenen Aufenthaltsbewilligungen und was diese für die Ausbildungsmöglichkeiten der Lernenden bedeuten.
+Dieser Folge widmet sich einem besonders wichtigen Thema für angehende Berufsbildner: der Integration von Migranten in die berufliche Grundbildung. Sie erfahren, wie sie junge Menschen aus verschiedenen Herkunftsländern erfolgreich in den Ausbildungsalltag integrieren können. Dabei geht der Podcast nicht nur auf die rechtlichen Rahmenbedingungen ein, sondern teilt auch praxisnahe Tipps zur Schaffung einer Willkommenskultur. Der Podcast beleuchtet die verschiedenen Aufenthaltsbewilligungen und was diese für die Ausbildungsmöglichkeiten der Lernenden bedeuten.
 
 <audio controls>
     <source src="https://raw.githubusercontent.com/bbk-bbw/audio/main/podcast/BBK_MB_Migration.mp3" type="audio/mpeg">

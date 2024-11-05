@@ -18,14 +18,13 @@ Hier ist die angepasste Formulierung des Auftrags:
 
 1. **Bildung von Gruppen (5 Gruppen):** Teilen Sie sich in fünf Gruppen auf, wobei jede Gruppe ein eigenes Fallbeispiel bearbeitet.
 2. **Zuweisung der Fallbeispiele:** Jede Gruppe erhält ein ausführliches Fallbeispiel und bearbeitet dieses eigenständig.
-3. **Analyse des Fallbeispiels (ca. 15 Minuten):** Lesen Sie das Fallbeispiel aufmerksam und analysieren Sie die Situation. Notieren Sie die identifizierten **Problemfelder** der lernenden Person (z.B. Motivationsprobleme, Überforderung, persönliche Herausforderungen).
-4. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 20 Minuten):** Entwickeln Sie gemeinsam Motivationsfaktoren und Lösungsansätze, die die Motivation der lernenden Person gezielt fördern könnten. Begründen Sie Ihre Vorschläge und überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld wirken könnten.
+3. **Analyse des Fallbeispiels (ca. 10 Minuten):** Lesen Sie das Fallbeispiel aufmerksam und analysieren Sie die Situation. Notieren Sie die identifizierten **Problemfelder** der lernenden Person (z.B. Motivationsprobleme, Überforderung, persönliche Herausforderungen).
+4. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 10 Minuten):** Entwickeln Sie gemeinsam **Motivationsfaktoren und Lösungsansätze**, die die Motivation der lernenden Person gezielt fördern könnten. Begründen Sie Ihre Vorschläge und überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld wirken könnten.
    *Hinweis:* Gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.
-5. **Visualisierung auf dem Miro-Board (ca. 10 Minuten):**  
+5. **Visualisierung auf dem Miro-Board (ca. 5 Minuten):**  
    - Notieren Sie die **Problemfelder** auf blauen Post-its (linke Spalte) und die dazugehörigen **Motivationsfaktoren** auf gelben Post-its (rechte Spalte).
    - Verknüpfen Sie die Post-its durch **Verbundpfeile** und beschriften Sie die Pfeile kurz, um die Zusammenhänge zwischen Problemfeldern und Motivationsfaktoren zu verdeutlichen. Ein Problemfeld kann mit mehreren Motivationsfaktoren verbunden sein.
-6. **Präsentation der Ergebnisse (ca. 5 Minuten pro Gruppe):** Jede Gruppe stellt ihren Fall und ihre Ergebnisse im Plenum vor. Erklären Sie die identifizierten Problemfelder und die Verknüpfung mit den Motivationsfaktoren sowie die vorgeschlagenen Lösungsansätze.
-7. **Feedback und Reflektion im Plenum:** Im Anschluss an die Präsentation hat jede Gruppe die Möglichkeit, Feedback und weitere Ideen von den anderen Teilnehmern zu erhalten. Fassen Sie abschliessend die wichtigsten allgemeinen Erkenntnisse zusammen.
+6. **Präsentation der Ergebnisse (ca. 2 Minuten pro Gruppe):** Jede Gruppe stellt ihren Fall und ihre Ergebnisse im Plenum vor. Erklären Sie die identifizierten Problemfelder und die Verknüpfung mit den Motivationsfaktoren sowie die vorgeschlagenen Lösungsansätze.
 
 >[!Warning] **Hinweise zur Bearbeitung:**
 >

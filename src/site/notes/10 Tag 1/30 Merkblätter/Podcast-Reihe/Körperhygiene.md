@@ -8,10 +8,8 @@ Dieser Episode vertieft ein oft übersehenes, aber extrem wichtiges Thema in der
 
 Von praktischen Tipps zum respektvollen Ansprechen von Hygienethemen bis hin zu Dresscode-Empfehlungen: Diese Folge gibt Einblicke, wie man heikle Gespräche führt und Verständnis auf beiden Seiten fördert. Lasst euch inspirieren, wie man klare Kommunikation und Fingerspitzengefühl einsetzen kann, um ein harmonisches Miteinander zu schaffen.
 
-<audio controls>
-    <source src="https://raw.githubusercontent.com/bbk-bbw/audio/main/podcast/BBK_MB_Körperhygiene.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
+>[!tip] Podcast Körperhygiene und Dresscode 
+><audio controls><source src="https://raw.githubusercontent.com/bbk-bbw/audio/main/podcast/BBK_MB_Körperhygiene.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 ---
 

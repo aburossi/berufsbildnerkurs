@@ -35,8 +35,8 @@
 >[!warning]- Umgang mit sensiblen Themen
 >Denken Sie daran, dass es beim Thema „Gleiche Chancen und korrekter Umgang“ wichtig ist, **Respekt und Sensibilität** im Austausch zu bewahren. Unterschiedliche Perspektiven sind willkommen und können eine wertvolle Erweiterung des eigenen Verständnisses sein.
 
->[!quote]- Miro-Board Übung
-><iframe src="https://miro.com/app/live-embed/uXjVL6F8L5H=/?moveToViewport=-350,-400,3700,2100" frameBorder="0" width="100%" height="600" allowFullScreen live-embed></iframe>
+> [!quote]- **Miro-Board**
+> <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 **Miro-Übung:**  
 - Die Themenbereiche sind auf dem Miro-Board durch eigene Sektionen für jedes Thema gekennzeichnet.
