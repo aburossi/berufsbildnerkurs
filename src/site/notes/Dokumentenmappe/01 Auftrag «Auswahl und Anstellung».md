@@ -10,9 +10,9 @@
 - Sozialform: «Einzelarbeit» und «Arbeit zusammen mit Ausbildungsverantwortlichen im Betrieb»
 - Zeit: 2 Stunden = 120 Minuten
 - abzugebende Produkte:
-	(1) Anforderungsprofil von infrage kommenden Lernenden
-	(2) Darstellung des Anstellungsprozesses inkl. Beobachtungsmöglichkeiten der Anforderungen aus dem Anforderungsprofil
-	(3) Ablaufplan der Schnupperlehre
+	- Anforderungsprofil von infrage kommenden Lernenden
+	- Darstellung des Anstellungsprozesses inkl. Beobachtungsmöglichkeiten der Anforderungen aus dem Anforderungsprofil
+	- Ablaufplan der Schnupperlehre
 
 ### Verlangte Kompetenzen und Lernziele (gemäss Kursvorgabe):
 
@@ -24,23 +24,17 @@
 
 ### Ablauf und Aufgaben
 
-1. Lesen Sie im Ordner «Berufliche Grundbildung» den Teil A/2. Auswahl und Anstellung die Unterkapiteln 2.1 Anforderungsprofil und 2.2 Selektion.
-2. Erstellen Sie ein **Anforderungsprofil** für Ihren Betrieb mithilfe der Checkliste.
-
+1. Lesen Sie im Ordner [[90 Handbuch/Handbuch Teil A\|Handbuch Teil A]] den Teil A2 Auswahl und Anstellung die **Unterkapiteln 2.1 Anforderungsprofil und 2.2 Selektion**.
+2. Erstellen Sie ein **Anforderungsprofil** für Ihren Betrieb mithilfe der Checkliste, der schulischen Anforderungen.
+3. Kommentieren Sie die **schulischen Anforderungen** mit **konkreten Beispiele** von Berufssituationen, in dem diese Anforderung erwünscht sind.
+4. Reflektieren Sie wie Sie wichtige Kompetenzen der Kandidaten im Auswahlprozess beobachten können.
+5. Erstellen Sie einen konkreten **Ablaufplan der Schnupperlehre** Ihren Beruf.
 ### Hilfsmittel
 
-- Ordner «Berufliche Grundbildung»
-- Ordner (siehe aufgeführte Seiten)
+- Ordner [[90 Handbuch/Handbuch Teil A\|Handbuch Teil A]]
 - Webseite Berufsbildung.ch mit [Merkblätter](https://www.berufsbildung.ch/de/search?type=document&media_langcode=de&document_type=ab2c1326-d649-423e-86ea-251238836841), [Checklisten](https://www.berufsbildung.ch/de/search?type=document&media_langcode=de&document_type=5e3a7084-baf0-4d94-95e2-51a896945098), [Formulare](https://www.berufsbildung.ch/de/search?type=document&media_langcode=de&document_type=09db9584-6cea-40ef-a627-579cd9382b7f)
-
 - [Home - Anforderungsprofile.ch](https://www.anforderungsprofile.ch/)
 - eigene Materialien aus dem Betrieb
 
-![Pasted image 20241105123651.png](/img/user/Pasted%20image%2020241105123651.png)
-
-![Pasted image 20241105123809.png](/img/user/Pasted%20image%2020241105123809.png)
----
-![Pasted image 20241105123759.png](/img/user/Pasted%20image%2020241105123759.png)
----
-![Pasted image 20241105123825.png](/img/user/Pasted%20image%2020241105123825.png)---
-![Pasted image 20241105123855.png](/img/user/Pasted%20image%2020241105123855.png)
+## Dokumentenmappe
+<iframe src="https://bbwch-my.sharepoint.com/personal/pietro_rossi_bbw_ch/_layouts/15/Doc.aspx?sourcedoc={09810e26-7716-4a05-bc0c-15bcb7d9c0c7}&amp;action=embedview&amp;wdStartOn=3" width="100" height="600px" frameborder="0">Dies ist ein eingebettetes <a target="_blank" href="https://office.com">Microsoft Office</a>-Dokument, unterstützt von <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
