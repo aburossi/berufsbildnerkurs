@@ -2,34 +2,32 @@
 {"dg-publish":true,"permalink":"/10 Tag 1/10 Rolle BerufsbildnerIn/01 Meine Rolle als Berufsbildner/"}
 ---
 
-## Berufsbildner/innen -  Vorbilder und Coaches für den Lernerfolg
+## Berufsbildner/innen - Vorbilder und Coaches für den Lernerfolg
 
 >[!abstract] Einführung
->Stellen Sie sich vor: Ein neuer Lernender betritt zum ersten Mal Ihren Arbeitsplatz. Aufgeregt und vielleicht auch etwas unsicher blickt er Sie erwartungsvoll an. In diesem Moment beginnt nicht nur seine Ausbildung, sondern auch Ihre wichtige Rolle als **Vorbild** und **Coach**. Ihre Begeisterung für den Beruf, Ihre **Empathie** und Ihr individueller **Führungsstil** werden die Lernatmosphäre und den Lernerfolg massgeblich beeinflussen. 
+>Stellen Sie sich vor, ein neuer Lernender betritt zum ersten Mal Ihren Arbeitsplatz. Er ist motiviert und neugierig, aber noch etwas unsicher und sucht Orientierung. Genau hier beginnt Ihre Rolle als **Vorbild und Coach**. Ihre Begeisterung für den Beruf und Ihr Verhalten im Alltag werden für den Lernenden entscheidend sein, denn Sie prägen seine **berufliche Identität** und seine **Lernbereitschaft**.
 >
->**Fragen:**
->* Wie können Sie vom ersten Tag an eine positive und motivierende Lernumgebung schaffen? 
->* Welche Ihrer persönlichen Stärken und Erfahrungen können Sie in die Ausbildung einbringen? 
->* Welche Rolle spielt Ihr eigenes Verhalten für die Entwicklung des Lernenden?
->>[!question]- Diskussion:  Vorbildwirkung im Berufsalltag
->In kleinen Gruppen (oder in Einzelreflexion):  Diskutieren Sie, welche alltäglichen Situationen die **Vorbildfunktion** von Berufsbildnern besonders deutlich machen.  
->>* Welche Verhaltensweisen wirken sich positiv auf die Lernenden aus? 
->>* Wo liegen potenzielle Stolperfallen? 
->>* Wie können Sie sicherstellen, dass Sie Ihren Lernenden ein positives Vorbild sind – auch in stressigen Situationen? 
+>* Als Berufsbildner/in begleiten Sie junge Erwachsene auf ihrem Weg in die Berufswelt und unterstützen sie bei ihrer persönlichen und beruflichen Entwicklung.
+>* Die **Vorbildfunktion** spielt dabei eine zentrale Rolle, da Lernende oft Ihre Verhaltensweisen und Werte übernehmen.
+>* Ein gutes Verhältnis und eine unterstützende Lernumgebung sind wichtig, damit der/die Lernende Vertrauen entwickelt und sich wohlfühlt.
+>>[!question]- Diskussion: Vorbildwirkung im Berufsalltag
+>>Die Rolle als Berufsbildner/in fordert nicht nur fachliche Kompetenz, sondern auch persönliche Stärke. Diskutieren Sie die folgenden Fragen in Ihrer Gruppe:
+>>* Welche Ihrer täglichen Verhaltensweisen und Einstellungen beeinflussen die Lernenden besonders?
+>>* Welche Herausforderungen haben Sie in Ihrer Vorbildfunktion erlebt?
+>>* Wie stellen Sie sicher, auch in schwierigen Momenten ein positives Vorbild für die Lernenden zu sein?
 
 > [!success]- Lernziele
-> In dieser Einheit lernen wir die vielschichtigen Rollen von Berufsbildnern/innen kennen.  
-> **Das Ziel dieses Moduls ist, dass...**
->* ...Sie die Bedeutung Ihrer Vorbildfunktion für die Lernenden erkennen und reflektieren.
->* ...Sie die Prinzipien des Coachings verstehen und  Methoden anwenden können, um die Lernenden individuell zu fördern. 
->* ...Sie einen partnerschaftlichen und vertrauensvollen Führungsstil entwickeln, der ein positives Lernklima schafft.
+>In diesem Modul beschäftigen wir uns mit der **Vorbilderrolle** und der Bedeutung des Coachings für die Entwicklung von Lernenden. Wir betrachten, wie Ihre Einstellung und Verhaltensweisen die Lernenden beeinflussen, und erarbeiten Strategien zur individuellen Förderung. Das Ziel dieses Moduls ist, dass…
+>* Sie die Bedeutung Ihrer **Vorbildfunktion** verstehen und reflektieren.
+>* Sie **Coaching-Methoden** anwenden können, um die Lernenden individuell zu fördern und zu unterstützen.
+>* Sie einen **positiven Führungsstil** entwickeln, der eine offene und motivierende Lernatmosphäre schafft.
 
 >[!abstract]- Fazit
->* **Authentizität und Begeisterung:**  Lernende spüren, ob Sie für Ihren Beruf brennen!  Ihre eigene Begeisterung wirkt ansteckend und motiviert.
->* **Empathie und Respekt:**  Versetzen Sie sich in die Lage Ihrer Lernenden und begegnen Sie ihnen auf Augenhöhe. 
->* **Aktives Coaching:**  Unterstützen Sie die Lernenden  durch gezielte Fragen,  geben Sie konstruktives Feedback und  schaffen Sie Raum für Eigeninitiative.
->* **Gemeinsam wachsen:**  Die Ausbildungszeit ist auch für Sie als Berufsbildner/in eine Chance, sich weiterzuentwickeln und von den Erfahrungen der Lernenden zu profitieren. 
+>* **Vorbild sein und authentisch bleiben:** Jugendliche reagieren positiv auf authentische Vorbilder. Ihre Begeisterung und Authentizität wirken motivierend.
+>* **Respekt und Geduld:** Lernen und Entwicklung brauchen Zeit. Zeigen Sie Verständnis für die Herausforderungen, die Lernende in ihrer Ausbildungszeit erleben.
+>* **Coaching und Feedback:** Unterstützen Sie die Lernenden durch gezieltes Coaching und konstruktives Feedback, das Raum für Eigeninitiative und Selbstständigkeit lässt.
+>* **Gemeinsames Wachstum:** Die Ausbildungszeit ist eine Chance für beide Seiten – nutzen Sie die Gelegenheit, voneinander zu lernen und gemeinsam zu wachsen.
 
 ---
 ## Weiter
-[[10 Tag 1/10 Rolle BerufsbildnerIn/02 Vorbilder und Coaches für den Lernerfolg\|02 Vorbilder und Coaches für den Lernerfolg]] 
+[[10 Tag 1/10 Rolle BerufsbildnerIn/02 Vorbilder und Coaches für den Lernerfolg\|02 Vorbilder und Coaches für den Lernerfolg]]
