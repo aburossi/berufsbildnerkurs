@@ -7,9 +7,9 @@
 
 ## Miro-Board
 
-[Zutrittslink](http://aburossi.ch/mirobbk)
 >[!info]
 >Sie werden angeleitet ein **Miro-Konto** zu eröffnen, das für die Zusammenarbeit auf das Miro-Board notwendig ist. Die BBW bietet **Zugang zu Miro-Education kostenlos** an.
+>👉 [Zutrittslink](http://aburossi.ch/mirobbk)
 
 ## Links
 [Das offizielle schweizerische Informationsportal der Berufs-, Studien- und Laufbahnberatung - berufsberatung.ch](https://www.berufsberatung.ch/dyn/show/1418)

@@ -13,14 +13,19 @@
 > > * ...Ihre **Erkenntnisse visuell** auf dem Miro-Board teilen und im Austausch mit anderen vertiefen.
 
 ---
+## Themen
+- [[10 Tag 1/30 Merkblätter/Podcast-Reihe/01 Gleichstellung - Sexuelle Belästigung\|01 Gleichstellung - Sexuelle Belästigung]]
+- [[10 Tag 1/30 Merkblätter/Podcast-Reihe/01 Krankheit und Unfall\|01 Krankheit und Unfall]]
+- [[10 Tag 1/30 Merkblätter/Podcast-Reihe/01 Nachteilausgleich - Legasthenie und Diskalkulie\|01 Nachteilausgleich - Legasthenie und Diskalkulie]]
+- [[10 Tag 1/30 Merkblätter/Podcast-Reihe/01 Persönlichkeits- und Datensschutz\|01 Persönlichkeits- und Datensschutz]]
 
 #### Ablauf
 
-1. **Individuelle Auswahl und Vorbereitung (10 Minuten):**
+1. **Individuelle Auswahl und Vorbereitung (20 Minuten):**
    - Wählen Sie ein **Thema** aus der Liste der verfügbaren Podcasts aus, das für Ihre Rolle als Berufsbildner/in besonders relevant ist.
    - Hören Sie den Podcast aufmerksam an und notieren Sie sich **wichtige Erkenntnisse und Empfehlungen**, die im Podcast vorgestellt werden.
    
-2. **Bearbeitung auf dem Miro-Board (15 Minuten):**
+2. **Bearbeitung auf dem Miro-Board (10 Minuten):**
    - Suchen Sie auf dem Miro-Board den Bereich, der Ihrem gewählten Thema entspricht.
    - Arbeiten Sie gemeinsam mit den anderen Teilnehmenden, die dasselbe Thema gewählt haben, an diesem Bereich.
    - Sammeln Sie Ihre **Erkenntnisse, Ideen und Empfehlungen** auf Post-its und ordnen Sie sie so an, dass sie für andere klar verständlich sind.
