@@ -14,10 +14,10 @@
 
 ---
 ## Themen
-- [[10 Tag 1/30 Merkblätter/Podcast-Reihe/01 Gleichstellung - Sexuelle Belästigung\|01 Gleichstellung - Sexuelle Belästigung]]
-- [[10 Tag 1/30 Merkblätter/Podcast-Reihe/01 Krankheit und Unfall\|01 Krankheit und Unfall]]
-- [[10 Tag 1/30 Merkblätter/Podcast-Reihe/01 Nachteilausgleich - Legasthenie und Diskalkulie\|01 Nachteilausgleich - Legasthenie und Diskalkulie]]
-- [[10 Tag 1/30 Merkblätter/Podcast-Reihe/01 Persönlichkeits- und Datensschutz\|01 Persönlichkeits- und Datensschutz]]
+- [[90 Ressourcen/Podcast-Reihe/01 Gleichstellung - Sexuelle Belästigung\|01 Gleichstellung - Sexuelle Belästigung]]
+- [[90 Ressourcen/Podcast-Reihe/01 Krankheit und Unfall\|01 Krankheit und Unfall]]
+- [[90 Ressourcen/Podcast-Reihe/01 Nachteilausgleich - Legasthenie und Diskalkulie\|01 Nachteilausgleich - Legasthenie und Diskalkulie]]
+- [[90 Ressourcen/Podcast-Reihe/01 Persönlichkeits- und Datensschutz\|01 Persönlichkeits- und Datensschutz]]
 
 #### Ablauf
 

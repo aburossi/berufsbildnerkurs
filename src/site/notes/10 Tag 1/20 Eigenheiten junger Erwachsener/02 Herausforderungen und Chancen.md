@@ -9,7 +9,7 @@
 ---
 ## Auftrag
 
->[!note] Überfliegen Sie die Seite(n) 267-268 im Handbuch. Merken Sie sich die **wichtigsten Aspekte des Reifeprozesses, des Spannungsfeldes zwischen Kindheit und Erwachsenenalter, der Ablösung von zu Hause und der Bedeutung des Experimentierens in der [[90 Handbuch/Glossar/Adoleszenz\|Adoleszenz]].**
+>[!note] Überfliegen Sie die Seite(n) 267-268 im Handbuch. Merken Sie sich die **wichtigsten Aspekte des Reifeprozesses, des Spannungsfeldes zwischen Kindheit und Erwachsenenalter, der Ablösung von zu Hause und der Bedeutung des Experimentierens in der [[90 Ressourcen/Glossar/Adoleszenz\|Adoleszenz]].**
 >Besprechen Sie in Ihrer Gruppe, welche Herausforderungen und Chancen die Eigenheiten der 15- bis 20-jährigen Lernenden für Ihre Ausbildungspraxis mit sich bringen.
 >---
 >#### Ablauf
@@ -21,20 +21,21 @@
 >- **Best Practices aus Ihrem Berufsfeld**
 >3. Während der Gruppenarbeit diskutieren Sie diese Themen und füllen die vorbereiteten Bereiche auf dem Miro-Board mit Stichpunkten oder kurzen Sätzen aus. Verwenden Sie die Post-its auf Miro, um Ihre wichtigsten Gedanken und Ideen festzuhalten. Halten Sie Ihre Notizen prägnant und auf den Punkt.
 >>[!question]- **Diskussionsfragen:**
->>- **Besprechen Sie in Ihrer Gruppe, wie Sie als Berufsbildner die Lernenden in dieser Entwicklungsphase optimal unterstützen können.**
->>- **Besprechen Sie in Ihrer Gruppe, wie Sie mit den Stimmungsschwankungen und dem unberechenbaren Verhalten von Jugendlichen umgehen.**
->>- **Besprechen Sie in Ihrer Gruppe, wie Sie den Lernenden klare Regeln und Grenzen setzen, ohne ihre Selbstständigkeit einzuschränken.**
->>- **Besprechen Sie in Ihrer Gruppe, wie Sie die Motivation der Lernenden fördern und sie für die Ausbildung begeistern können.**
->>- **Besprechen Sie in Ihrer Gruppe, wie Sie Konflikte mit Lernenden konstruktiv lösen können.**
+>>**Besprechen Sie in Ihrer Gruppe:**
+>>- **wie Sie als Berufsbildner die Lernenden in dieser Entwicklungsphase optimal unterstützen können.**
+>>- **wie Sie mit den Stimmungsschwankungen und dem unberechenbaren Verhalten von Jugendlichen umgehen.**
+>>- **wie Sie den Lernenden klare Regeln und Grenzen setzen, ohne ihre Selbstständigkeit einzuschränken.**
+>>- **wie Sie die Motivation der Lernenden fördern und sie für die Ausbildung begeistern können.**
+>>- **wie Sie Konflikte mit Lernenden konstruktiv lösen können.**
 
 >[!quote]- Miro-Board
->{placeholder for the miro-iframe}
+><iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ---
 ## Weiter
 [[10 Tag 1/20 Eigenheiten junger Erwachsener/03 Lebenskurven\|03 Lebenskurven]]
 
 ## Glossar
-[[90 Handbuch/Glossar/Entwicklungspsychologie\|Entwicklungspsychologie]]
-[[90 Handbuch/Glossar/Kognitive Entwicklung\|Kognitive Entwicklung]]
-[[90 Handbuch/Glossar/Reifeprozess\|Reifeprozess]]
+[[90 Ressourcen/Glossar/Entwicklungspsychologie\|Entwicklungspsychologie]]
+[[90 Ressourcen/Glossar/Kognitive Entwicklung\|Kognitive Entwicklung]]
+[[90 Ressourcen/Glossar/Reifeprozess\|Reifeprozess]]

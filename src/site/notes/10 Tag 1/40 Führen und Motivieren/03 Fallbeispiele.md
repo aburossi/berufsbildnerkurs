@@ -8,7 +8,7 @@ Hier ist die angepasste Formulierung des Auftrags:
 
 ### Auftrag - Fallbeispiele: Lösungsansätze entwickeln und veranschaulichen
 
->[!abstract] In diesem Auftrag analysieren Sie praxisnahe Fallbeispiele und entwickeln gemeinsam Lösungsansätze zur Förderung der [[90 Handbuch/Glossar/Motivation\|Motivation]] von Lernenden. Diskutieren Sie innerhalb Ihrer Gruppe verschiedene Strategien und Massnahmen, die im jeweiligen Fall hilfreich sein könnten. Visualisieren Sie Ihre Ergebnisse strukturiert auf dem Miro-Board und verknüpfen Sie die Problemfelder mit passenden Motivationsfaktoren, um die Zusammenhänge klar aufzuzeigen.
+>[!abstract] In diesem Auftrag analysieren Sie praxisnahe Fallbeispiele und entwickeln gemeinsam Lösungsansätze zur Förderung der [[90 Ressourcen/Glossar/Motivation\|Motivation]] von Lernenden. Diskutieren Sie innerhalb Ihrer Gruppe verschiedene Strategien und Massnahmen, die im jeweiligen Fall hilfreich sein könnten. Visualisieren Sie Ihre Ergebnisse strukturiert auf dem Miro-Board und verknüpfen Sie die Problemfelder mit passenden Motivationsfaktoren, um die Zusammenhänge klar aufzuzeigen.
 >>[!success] Lernziele
 >>Das Ziel des Auftrags ist, dass Sie...
 >>* ...praxisbezogene Fallbeispiele analysieren und passende Lösungsansätze entwickeln können.

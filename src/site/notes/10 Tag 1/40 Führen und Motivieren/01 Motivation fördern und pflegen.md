@@ -6,7 +6,7 @@
 
 >[!abstract] Einführung
 >Stellen Sie sich vor, eine neue Lernende beginnt ihre Ausbildung in Ihrem Betrieb. Sie ist voller **Enthusiasmus** und **Tatendrang**. Nach einigen Wochen jedoch lässt ihre **Motivation** merklich nach.  Die Aufgaben erscheinen ihr langweilig und sinnlos. Wie können Sie als Berufsbildner/-in dieser Entwicklung entgegenwirken und die Lernende wieder für ihre Ausbildung **begeistern**?
->* [[90 Handbuch/Glossar/Motivation\|Motivation]] ist nicht statisch, sondern verändert sich im Laufe der Zeit.
+>* [[90 Ressourcen/Glossar/Motivation\|Motivation]] ist nicht statisch, sondern verändert sich im Laufe der Zeit.
 >* Unterschiedliche Faktoren beeinflussen die Motivation.
 >* Als Berufsbildner/-in spielen Sie eine wichtige Rolle bei der Förderung der Motivation Ihrer Lernenden.
 >>[!question]- Diskussion Motivation: Schlüssel zum Lernerfolg

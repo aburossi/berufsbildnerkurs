@@ -27,7 +27,7 @@
     Nach der Diskussion überfliegen alle Teilnehmenden die Post-its der anderen Gruppenbereiche. Anschliessend geben Sie Ihre Stimmen für die besten Ansätze ab. Nutzen Sie das Polling-Tool von Miro, um Ihre Favoriten zu wählen. Jeder Teilnehmende hat **eine bestimmte Anzahl von Stimmen**, die er auf die Post-its der verschiedenen Gruppen verteilen kann.
     
 2. **Kommentierung der Ergebnisse (ca. 5 Minuten)**  
-    Nach der Abstimmung werden die Ergebnisse visualisiert. Die Ansätze, die die meisten Stimmen erhalten haben, werden als „Best Practices“ hervorgehoben. Diese kommentiere ich im Plenum und bespreche, warum bestimmte Ideen als besonders wertvoll angesehen wurden und wie sie in der Praxis angewendet werden können.
+    Nach der Abstimmung werden die Ergebnisse visualisiert. Die Ansätze, die die meisten Stimmen erhalten haben, werden als „Best Practices“ hervorgehoben. 
 
 ## Weiter
 [[10 Tag 1/10 Rolle BerufsbildnerIn/03 Rollenspiel\|03 Rollenspiel]]
