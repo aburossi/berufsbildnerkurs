@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/90 Ressourcen/Podcast-Reihe/01 Gleichstellung - Sexuelle Belästigung/"}
 ---
 
-**Gleichstellung und sexuelle Belästigung in der Berufsbildung**
+## Gleichstellung und sexuelle Belästigung
 
-In der ersten Episode wird das Thema Gleichstellung in der Berufsbildung und die wichtige Rolle, die Berufsbildner dabei spielen, beleuchtet. Das Gespräch zeigt, wie Gleichstellung nicht nur Frauen betrifft, sondern alle Geschlechter einschliesst. Es wird erklärt, warum Chancengleichheit für alle Lernenden essenziell ist und welche konkreten Massnahmen Berufsbildnerinnen und Berufsbildner ergreifen können, um ein respektvolles und förderliches Lernumfeld zu schaffen. 
-Von juristischen Grundlagen wie dem Bundesgesetz über die Gleichstellung bis hin zu praktischen Tipps wird auf wichtige Aspekte eingegangen, die Diskriminierung verhindern und Gleichstellung fördern. Die Episode bietet auch wertvolle Anregungen, wie man stereotype Denkmuster hinter sich lassen kann und Lernende ermutigt, Berufe jenseits der Geschlechterklischees zu wählen. 
+In der **ersten Episode** wird das Thema **Gleichstellung in der Berufsbildung** und die **wichtige Rolle**, die **Berufsbildner** dabei spielen, beleuchtet. Das Gespräch zeigt, wie **Gleichstellung** nicht nur **Frauen betrifft**, sondern **alle Geschlechter** einschliesst. Es wird erklärt, warum **Chancengleichheit für alle Lernenden essenziell** ist und welche **konkreten Massnahmen** Berufsbildnerinnen und Berufsbildner ergreifen können, um ein **respektvolles und förderliches Lernumfeld** zu schaffen.
 
-Die zweite Episode basiert auf dem Merkblatt 209 „Sexuelle Belästigung“. Es wird darauf eingegangen, warum es entscheidend ist, nicht nur die rechtlichen Rahmenbedingungen zu kennen, sondern auch Sensibilität für die vielfältigen Formen sexueller Belästigung zu entwickeln – von anzüglichen Bemerkungen bis hin zu subtilen Gesten. Die Episode bietet einen praxisnahen Leitfaden zur Unterstützung von Lernenden, von präventiven Massnahmen über den richtigen Umgang mit gemeldeten Vorfällen bis hin zu rechtlichen Optionen und Dokumentation. Ausserdem werden wichtige Präventionsstrategien diskutiert, die helfen, eine respektvolle und sichere Arbeitsumgebung zu fördern, in der sich alle wohl und sicher fühlen können.
+Von **juristischen Grundlagen** wie dem **Bundesgesetz über die Gleichstellung** bis hin zu **praktischen Tipps** wird auf wichtige Aspekte eingegangen, die **Diskriminierung verhindern** und **Gleichstellung fördern**. Die Episode bietet auch **wertvolle Anregungen**, wie man **stereotype Denkmuster** hinter sich lassen kann und **Lernende ermutigt**, Berufe jenseits der **Geschlechterklischees** zu wählen. 
+
+Die **zweite Episode** basiert auf dem **Merkblatt 209 „Sexuelle Belästigung“**. Es wird darauf eingegangen, warum es entscheidend ist, nicht nur die **rechtlichen Rahmenbedingungen** zu kennen, sondern auch **Sensibilität für die vielfältigen Formen sexueller Belästigung** zu entwickeln – von **anzüglichen Bemerkungen** bis hin zu **subtilen Gesten**. Die Episode bietet einen **praxisnahen Leitfaden** zur Unterstützung von **Lernenden**, von **präventiven Massnahmen** über den **richtigen Umgang mit gemeldeten Vorfällen** bis hin zu **rechtlichen Optionen** und **Dokumentation**. Ausserdem werden **wichtige Präventionsstrategien** diskutiert, die helfen, eine **respektvolle und sichere Arbeitsumgebung** zu fördern, in der sich **alle wohl und sicher** fühlen können.
 
 
 >[!tip] Podcast Gleichstellung 

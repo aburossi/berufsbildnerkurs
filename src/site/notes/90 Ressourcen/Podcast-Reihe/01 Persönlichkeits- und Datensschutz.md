@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/90 Ressourcen/Podcast-Reihe/01 Persönlichkeits- und Datensschutz/"}
 ---
 
-**Persönlichkeitsschutz und Datenschutz in der Berufsbildung**
+## Persönlichkeitsschutz und Datenschutz in der Berufsbildung
 
-In dieser Episode dreht sich alles um das wichtige Thema Persönlichkeitsschutz und Datenschutz, besonders im Kontext der Berufsbildung. Die Episode klärt darüber auf, welche Rechte die Lernenden im Rahmen des Persönlichkeitsschutzes haben und wie Arbeitgeber diese im Alltag respektieren müssen. Es werden auch wichtige Fragen beantwortet, wie zum Beispiel die Grenzen der Überwachung am Arbeitsplatz, die Rolle von Social Media und die notwendigen technischen und organisatorischen Massnahmen zur Datensicherheit. Die Diskussion geht weiter, um Einblicke in Themen wie die Grenzen bei der Internet- und E-Mail-Überwachung, den Umgang mit Bewerbungsunterlagen und Personalakten sowie den Einfluss von Social Media auf die Berufsausbildung zu geben.
+Diese **Episode** dreht sich um das wichtige Thema **Persönlichkeitsschutz und Datenschutz**, besonders im Kontext der **Berufsbildung**. Die Episode klärt darüber auf, welche **Rechte die Lernenden** im Rahmen des **Persönlichkeitsschutzes** haben und wie **Arbeitgeber diese im Alltag respektieren** müssen. Es werden auch wichtige Fragen beantwortet, wie zum Beispiel die **Grenzen der Überwachung am Arbeitsplatz**, die **Rolle von Social Media** und die **notwendigen technischen und organisatorischen Maßnahmen zur Datensicherheit**.
+
+Die **Diskussion** geht weiter, um Einblicke in Themen wie die **Grenzen bei der Internet- und E-Mail-Überwachung**, den **Umgang mit Bewerbungsunterlagen und Personalakten** sowie den **Einfluss von Social Media** auf die **Berufsausbildung** zu geben.
 
 
 >[!tip] Podcast Persönlichkeits- und Datenschutz 

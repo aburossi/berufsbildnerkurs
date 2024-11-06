@@ -3,19 +3,19 @@
 ---
 
 ## Nachteilausgleich - Legasthenie & Diskalkulie
-Beide Episoden behandeln Themen in Zusammenhang mit dem Nachteilausgleich und wie junge Menschen mit Lernschwierigkeiten wie Legasthenie und Dyskalkulie oder mit Behinderungen erfolgreich in der beruflichen Grundbildung unterstützt werden können. Die beiden Episoden bieten praxisnahe Tipps und inspirierende Erfolgsgeschichten, die zeigen, wie durch gezielte Förderung und gerechte Chancen beeindruckende Karrieren möglich werden.
+Beide **Episoden** behandeln Themen in Zusammenhang mit dem **Nachteilausgleich** und wie **junge Menschen mit Lernschwierigkeiten** wie **Legasthenie** und **Dyskalkulie** oder mit **Behinderungen erfolgreich** in der **beruflichen Grundbildung** unterstützt werden können. Die beiden Episoden bieten **praxisnahe Tipps** und **inspirierende Erfolgsgeschichten**, die zeigen, wie durch **gezielte Förderung** und **gerechte Chancen** **beeindruckende Karrieren** möglich werden.
 
 >[!tip] Podcast Nachteilausgleich
 ><audio controls><source src="https://raw.githubusercontent.com/bbk-bbw/audio/main/podcast/BBK_MB_Nachteilausgleichl.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 >>[!info]- **Kapitelübersicht Nachteilausgleich:**
 >>[00:00] - Einführung in den Nachteilsausgleich und die rechtlichen Grundlagen  
->>[01:00] - Was ist Nachteilsausgleich? Kein Standardansatz, sondern maßgeschneiderte Lösungen  
+>>[01:00] - Was ist Nachteilsausgleich? Kein Standardansatz, sondern massgeschneiderte Lösungen  
 >>[02:00] - Rolle der Berufsbildner: Proaktive Zusammenarbeit mit dem Berufsbildungsamt  
 >>[03:00] - Praktische Beispiele für Nachteilsausgleich, z. B. Hilfsmittel und angepasste Materialien  
 >>[04:00] - Wichtigkeit des Dialogs: Die Bedürfnisse der Lernenden verstehen  
 >>[05:00] - Grenzen des Nachteilsausgleichs: Wenn die Ausbildungsziele gefährdet wären  
 >>[06:00] - Zusätzliche Ressourcen: SBBK-Empfehlung Nr. 7 und weitere Materialien  
->>[07:00] - Bericht über Nachteilsausgleich und konkrete Maßnahmen für verschiedene Beeinträchtigungen  
+>>[07:00] - Bericht über Nachteilsausgleich und konkrete Massnahmen für verschiedene Beeinträchtigungen  
 
 >[!tip] Podcast Legasthenie - Diskalkulie
 ><audio controls><source src="https://raw.githubusercontent.com/bbk-bbw/audio/main/podcast/BBK_MB_Legasthenie.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>

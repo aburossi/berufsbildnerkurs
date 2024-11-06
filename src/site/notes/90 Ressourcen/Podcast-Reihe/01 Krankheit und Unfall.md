@@ -4,16 +4,18 @@
 
 ## Krankheit und Unfall
 
-Diese Episode widmet sich dem Umgang mit Krankheit und Unfall während der Ausbildung. Was passiert, wenn ein Lernender plötzlich ausfällt? Welche rechtlichen und organisatorischen Schritte sind erforderlich, um sicherzustellen, dass der Lernende die notwendige Unterstützung erhält und der Lehrbetrieb seiner Verantwortung nachkommt? Mit dem Merkblatt 203 als Leitfaden führt dieser Deep Dive Schritt für Schritt durch die wichtigsten Fragen – von Versicherungsanforderungen über gesetzliche Vorgaben bis hin zur richtigen Lohnfortzahlung.
+## **Krankheit und Unfall**
 
-Die Episode beleuchtet die Pflichten von Berufsbildnern und zeigt auf, wie sie sich in Situationen wie Krankheit oder Unfall ihrer Lernenden optimal vorbereiten können. Zudem gibt es praktische Tipps, wie Lernende sensibilisiert und geschützt werden können. Eine wertvolle Informationsquelle für alle, die sich auf diese Verantwortungen in der Ausbildung vorbereiten.
+Diese **Episode** widmet sich dem **Umgang mit Krankheit und Unfall** während der **Ausbildung**. Was passiert, wenn ein **Lernender plötzlich ausfällt**? Welche **rechtlichen und organisatorischen Schritte** sind erforderlich, um sicherzustellen, dass der **Lernende die notwendige Unterstützung** erhält und der **Lehrbetrieb seiner Verantwortung** nachkommt? Mit dem **Merkblatt 203** als **Leitfaden** führt dieser **Deep Dive Schritt für Schritt** durch die wichtigsten Fragen – von **Versicherungsanforderungen** über **gesetzliche Vorgaben** bis hin zur **richtigen Lohnfortzahlung**.
+
+Die Episode beleuchtet die **Pflichten von Berufsbildnern** und zeigt auf, wie sie sich in Situationen wie **Krankheit oder Unfall ihrer Lernenden** optimal vorbereiten können. Zudem gibt es **praktische Tipps**, wie **Lernende sensibilisiert und geschützt** werden können. Eine **wertvolle Informationsquelle** für alle, die sich auf diese **Verantwortungen in der Ausbildung** vorbereiten.
 
 >[!tip] Podcast Krankheit und Unfall 
 ><audio controls><source src="https://raw.githubusercontent.com/bbk-bbw/audio/main/podcast/BBK_MB_Krankheit_Unfall.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 >>[!info]- **Kapitelübersicht Krankheit und Unfall:**
 >>
 >>[00:00] - Einführung ins Thema: Krankheit und Unfall – eine Herausforderung für Berufsbildner
->>[01:00] - Grundlagen der Verantwortung: Prävention und gesetzliche Verpflichtungen gemäß Merkblatt 203
+>>[01:00] - Grundlagen der Verantwortung: Prävention und gesetzliche Verpflichtungen gemäss Merkblatt 203
 >>[02:00] - Die Rolle der Kranken- und Unfallversicherung: Wer zahlt wann und was?
 >>[03:00] - Nichtberufsunfälle und Meldepflichten: Was ist bei Unfällen in der Freizeit zu beachten?
 >>[04:00] - Krankentaggeldversicherung: Wann sie einspringt und wie die Kostenaufteilung erfolgt
@@ -21,7 +23,7 @@ Die Episode beleuchtet die Pflichten von Berufsbildnern und zeigt auf, wie sie s
 >>[07:00] - Regionale Unterschiede: Die Basler, Berner und Zürcher Skalen zur Lohnfortzahlung
 >>[10:00] - Verlängerung der Lehrzeit: Möglichkeiten und Voraussetzungen bei längerem Krankheits- oder Unfallausfall
 >>[11:00] - Versicherungsschutz nach Lehrende: Wie lange die Deckung besteht und was bei Austritt zu beachten ist
->>[14:00] - Präventionsmaßnahmen im Betrieb: Wie Berufsbildner und Lernende gemeinsam Unfälle vermeiden
+>>[14:00] - Präventionsmassnahmen im Betrieb: Wie Berufsbildner und Lernende gemeinsam Unfälle vermeiden
 >>[16:00] - Verantwortungsübernahme durch den Lehrbetrieb: Konsequenzen bei Vernachlässigung der Sorgfaltspflicht
 
 >[! tip] **Links & Ressourcen:**
