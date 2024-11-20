@@ -16,7 +16,7 @@
 #### Ablauf
 
 1. **Information sammeln (10 Minuten):**
-    - Lesen Sie den Text über den «[[Lehrlingsladen Volg.pdf]]».
+    - Lesen Sie den Text über den «[[Lehrlingsladen Volg.png]]».
     - Lesen Sie die Seiten 240-241 im Ordner als Leitfaden für die IPERKA-Methode.
 
 2. **Planung des Lernendenprojekts (30 Minuten):**
