@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/20 Tag 2/40 Ausbildungsschritte & Projektarbeit/01 Von der Aufgabe zum Projekt/"}
 ---
 
-
 ## Projektarbeit
 
 >[!abstract] Einführung
@@ -18,14 +17,12 @@
 >>* Welche Herausforderungen sehen Sie bei der Umsetzung von Projektarbeit in Ihrem Betrieb?
 >>* Welche Rolle spielt die Dokumentation bei der Projektarbeit?
 
-
 > [!success]- Lernziele
 >In dieser Einheit beschäftigen wir uns mit der **Projektarbeit** in der beruflichen Grundbildung. Wir lernen die Unterschiede zwischen **Routine** und **Projekt** kennen und erarbeiten die **6-Schritte-Methode** zur Projektplanung.  
 >Das Ziel dieses Moduls ist, dass…
 >* …Sie die Bedeutung der Projektarbeit für die Lernenden verstehen und diese Ihren Lernenden vermitteln können.
 >* …Sie die 6-Schritte-Methode anwenden und Ihre Lernenden in der Projektplanung unterstützen können.
 >* …Sie Ihre Rolle als Coach im Projektprozess verstehen und wahrnehmen können.
-
 
 >[!abstract]- Fazit
 >* **Kompetenzentwicklung:** Projektarbeit fördert Schlüsselkompetenzen wie Selbstständigkeit, Teamfähigkeit und Problemlösungskompetenz.
@@ -34,6 +31,7 @@
 >* **Individuelle Förderung:**  Projektarbeit ermöglicht die individuelle Förderung der Lernenden und berücksichtigt unterschiedliche Lernniveaus.
 >* **Reflexion und Feedback:**  Die Reflexion des Projektablaufs und regelmässiges Feedback sind wichtige Bestandteile des Lernprozesses.
 
+<iframe width="100%" height="615" src="https://www.youtube.com/embed/IOl0wWS3uiM?si=9e5I32VmcFe3nwWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Weiter
 [[20 Tag 2/40 Ausbildungsschritte & Projektarbeit/02 Die Projektarbeit\|02 Die Projektarbeit]]
 

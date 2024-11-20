@@ -31,14 +31,5 @@
 
 ---
 
-> [!quote]- **Miro-Board**
-> 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-<iframe width="100%" height="632" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
-
-</div></div>
-
+>[!quote]- Miro-Board
+><iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

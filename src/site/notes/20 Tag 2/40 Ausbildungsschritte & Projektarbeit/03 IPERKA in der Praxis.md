@@ -16,21 +16,17 @@
 #### Ablauf
 
 1. **Information sammeln (10 Minuten):**
-    
-    - Informieren Sie sich über den «Lehrlingsladen Volg».
-    - Lesen Sie die Seiten 239 bis 242 im Ordner als Leitfaden für die IPERKA-Methode.
+    - Lesen Sie den Text über den «[[Lehrlingsladen Volg.pdf]]».
+    - Lesen Sie die Seiten 240-241 im Ordner als Leitfaden für die IPERKA-Methode.
 
 2. **Planung des Lernendenprojekts (30 Minuten):**
-    
     - Wenden Sie die IPERKA-Methode an, um ein konkretes Lernendenprojekt zu planen.
     - Definieren Sie für jeden Schritt (Informieren, Planen, Entscheiden, Realisieren, Kontrollieren, Auswerten) die Tätigkeiten und Teilziele der Lernenden und Ihre Rolle als Berufsbildner.
-    - Überlegen Sie, wie die 4Ks in jedem IPERKA-Schritt berücksichtigt und gefördert werden können.
+    - Überlegen Sie, wie die 4Ks (Kreativität, Kritisches Denken, Kommunikation, Kollaboration) in jedem IPERKA-Schritt berücksichtigt und gefördert werden können.
 
 4. **Gruppenarbeit (15 Minuten):**
-    
     - Tauschen Sie Ihre Projektplanungen aus und diskutieren Sie, wie die 4Ks integriert wurden.
 5. **Diskussion (10 Minuten):**
-    
     - Einzelne Teilnehmer präsentieren ihre Projektplanung im Plenum.
     - Die anderen Gruppen geben Feedback zu den geplanten Massnahmen und zur Förderung der intrinsischen Motivation.
 
