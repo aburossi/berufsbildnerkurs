@@ -6,7 +6,7 @@
 ### Auftrag – Planen eines Lernendenprojekts mit IPERKA 
 
 > [!abstract] In diesem Auftrag planen Sie ein konkretes Lernendenprojekt unter Anwendung der IPERKA-Methode und unter Berücksichtigung der 4Ks (Kreativität, Kritisches Denken, Kommunikation und Kollaboration). Sie erstellen eine detaillierte Projektplanung, um die Handlungskompetenzen Ihrer Lernenden zu stärken.
-
+> 
 > > [!success] Lernziele Das Ziel des Auftrags ist, dass Sie...
 > > 
 > > - ...die IPERKA-Methode zur Projektplanung anwenden können.
@@ -16,10 +16,21 @@
 #### Ablauf
 
 1. **Information sammeln (10 Minuten):**
-    - Lesen Sie den Text über den «[[Lehrlingsladen Volg.png]]».
-    - Lesen Sie die Seiten 240-241 im Ordner als Leitfaden für die IPERKA-Methode.
+    - Lesen Sie den Text über den «[Lehrlingsladen Volg](https://drive.google.com/file/d/103KGR4QmxiE8-aeKX2oT8A292NSd5KFq/view?usp=sharing)».
+
+>[!question] Reflexionsfragen
+>- **Persönliche Entwicklung**
+>    - Welche Kompetenzen haben die Lernenden im Lehrlingsladen Volg laut dem Artikel besonders gestärkt?
+ >   - Warum sind diese Kompetenzen auch für zukünftige Berufe außerhalb des Detailhandels wertvoll?
+ >- **Selbstständigkeit und Verantwortung**
+>      - Wie hat die Übernahme der Filialleitung den Lernenden geholfen, ihre Selbstständigkeit und ihr Verantwortungsbewusstsein zu entwickeln?
+>    - Welche Herausforderungen wurden dabei erwähnt, und wie wurden diese bewältigt?
+> - **Motivation und intrinsische Werte**
+>	- Wie hat der Lehrlingsladen dazu beigetragen, die Motivation der Lernenden zu fördern?
+>	- Welche Elemente des Projekts könnten darauf abzielen, die intrinsische Motivation der Teilnehmenden zu stärken?
 
 2. **Planung des Lernendenprojekts (30 Minuten):**
+    - Überfliegen Sie die Seiten 240-241 im Ordner als Leitfaden für die IPERKA-Methode.
     - Wenden Sie die IPERKA-Methode an, um ein konkretes Lernendenprojekt zu planen.
     - Definieren Sie für jeden Schritt (Informieren, Planen, Entscheiden, Realisieren, Kontrollieren, Auswerten) die Tätigkeiten und Teilziele der Lernenden und Ihre Rolle als Berufsbildner.
     - Überlegen Sie, wie die 4Ks (Kreativität, Kritisches Denken, Kommunikation, Kollaboration) in jedem IPERKA-Schritt berücksichtigt und gefördert werden können.
@@ -29,11 +40,6 @@
 5. **Diskussion (10 Minuten):**
     - Einzelne Teilnehmer präsentieren ihre Projektplanung im Plenum.
     - Die anderen Gruppen geben Feedback zu den geplanten Massnahmen und zur Förderung der intrinsischen Motivation.
-
-> [!note]- Material
-> 
-> - **Lehrlingsladen Volg:** Informationen zum Konzept und zur Umsetzung.
-> - **IPERKA-Methode:** Leitfaden auf den Seiten 239 bis 242 im Ordner.
 
 
 > [!warning]- Hinweise **Achten Sie bei der Projektplanung auf folgende Punkte:**
