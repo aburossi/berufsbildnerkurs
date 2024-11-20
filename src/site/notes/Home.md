@@ -13,7 +13,8 @@ Navigieren Sie links durch die Einheiten des Kurses.
 | [[10 Tag 1/20 Eigenheiten junger Erwachsener/01 Die Eigenheiten der Jugendlichen\|01 Die Eigenheiten der Jugendlichen]]     | [[20 Tag 2/20 Führen und Motivieren/01 Motivation fördern und pflegen\|01 Motivation fördern und pflegen]] |           |
 | [[10 Tag 1/30 Merkblätter/01 Gleiche Chancen und korrekter Umgang\|01 Gleiche Chancen und korrekter Umgang]] | [[20 Tag 2/30 Wissen & Können vermitteln/01 Instruieren im Betrieb\|01 Instruieren im Betrieb]]         |           |
 | [[20 Tag 2/20 Führen und Motivieren/01 Motivation fördern und pflegen\|01 Motivation fördern und pflegen]]       | [[20 Tag 2/40 Projektarbeit/01 Von der Aufgabe zum Projekt\|01 Von der Aufgabe zum Projekt]]    |           |
-|                                             |                                       |           |
+
+---
 
 | *Dokumentation* (Asynchroner Tag)                |
 | ------------------------------------------------ |
