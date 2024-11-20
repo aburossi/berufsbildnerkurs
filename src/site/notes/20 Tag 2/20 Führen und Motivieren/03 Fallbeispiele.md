@@ -12,11 +12,13 @@
 
 #### Ablauf
 
-1. **Bildung von Gruppen (5 Gruppen):** Teilen Sie sich in fünf Gruppen auf, wobei jede Gruppe ein eigenes Fallbeispiel bearbeitet.
-2. **Zuweisung der Fallbeispiele:** Jede Gruppe erhält ein ausführliches Fallbeispiel und bearbeitet dieses eigenständig.
-3. **Analyse des Fallbeispiels (ca. 10 Minuten):** Lesen Sie das Fallbeispiel aufmerksam und analysieren Sie die Situation. Notieren Sie die identifizierten **Problemfelder** der lernenden Person (z.B. Motivationsprobleme, Überforderung, persönliche Herausforderungen).
-4. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 10 Minuten):** Entwickeln Sie gemeinsam **Motivationsfaktoren und Lösungsansätze**, die die Motivation der lernenden Person gezielt fördern könnten. Begründen Sie Ihre Vorschläge und überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld wirken könnten.
-   *Hinweis:* Gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.
+1. **Bildung von Gruppen:** 
+   Jede Gruppe erhält ein ausführliches Fallbeispiel und bearbeitet dieses eigenständig..
+2. **Analyse des Fallbeispiels (ca. 10 Minuten):** 
+   Lesen Sie das Fallbeispiel aufmerksam und analysieren Sie die Situation. Notieren Sie die identifizierten **Problemfelder** der lernenden Person (z.B. Motivationsprobleme, Überforderung, persönliche Herausforderungen).
+5. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 10 Minuten):** 
+   Entwickeln Sie gemeinsam **Motivationsfaktoren und Lösungsansätze**, die die Motivation der lernenden Person gezielt fördern könnten. Begründen Sie Ihre Vorschläge und überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld wirken könnten.
+   *Hinweis:* In der Praxis gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.
 5. **Visualisierung auf dem Miro-Board (ca. 5 Minuten):**  
    - Notieren Sie die **Problemfelder** auf blauen Post-its (linke Spalte) und die dazugehörigen **Motivationsfaktoren** auf gelben Post-its (rechte Spalte).
    - Verknüpfen Sie die Post-its durch **Verbundpfeile** und beschriften Sie die Pfeile kurz, um die Zusammenhänge zwischen Problemfeldern und Motivationsfaktoren zu verdeutlichen. Ein Problemfeld kann mit mehreren Motivationsfaktoren verbunden sein.

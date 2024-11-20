@@ -31,7 +31,6 @@
 >* **Individuelle Förderung:**  Projektarbeit ermöglicht die individuelle Förderung der Lernenden und berücksichtigt unterschiedliche Lernniveaus.
 >* **Reflexion und Feedback:**  Die Reflexion des Projektablaufs und regelmässiges Feedback sind wichtige Bestandteile des Lernprozesses.
 
-<iframe width="100%" height="615" src="https://www.youtube.com/embed/IOl0wWS3uiM?si=9e5I32VmcFe3nwWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Weiter
 [[20 Tag 2/40 Projektarbeit/02 Die Projektarbeit\|02 Die Projektarbeit]]
 
