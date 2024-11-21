@@ -17,7 +17,7 @@
 >1. **Vorbereitung (5 Minuten):**
 >
  >  - Überlegen Sie sich eine Tätigkeit aus Ihrer eigenen Praxis, die Ihre Lernenden ausführen müssen.
->   - Schreiben Sie die wichtigsten Schritte für die Instruktion dieser Tätigkeit auf dem Miro-Board unter **Anwendung der Instruktionsmethode in Ihrer Praxis** auf.
+>   - Schreiben Sie die wichtigsten Schritte für die Instruktion dieser Tätigkeit auf dem Miro-Board unter **[Anwendung der Instruktionsmethode in Ihrer Praxis](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607670520343&cot=14)** auf.
 >
 >2. **Gruppenarbeit (4er-Gruppen):**
 >
@@ -32,7 +32,7 @@
 ---
 
 >[!quote]- Miro-Board
-><iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVOZZZZZ=/?moveToViewport=-7076,-5840,14566,7810&embedId=1122334455" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+><iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ---
 

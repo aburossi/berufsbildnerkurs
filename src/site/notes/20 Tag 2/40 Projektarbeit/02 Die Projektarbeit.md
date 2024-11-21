@@ -25,8 +25,10 @@
 
 
 >[!quote]- Miro-Board
->{placeholder for the miro-iframe}
+><iframe width="100%" height="600" src="https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607761092200&cot=14" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
 ---
 
+## Weiter
+[[20 Tag 2/40 Projektarbeit/03 IPERKA in der Praxis\|03 IPERKA in der Praxis]]

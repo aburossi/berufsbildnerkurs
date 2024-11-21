@@ -13,13 +13,13 @@
 #### Ablauf
 
 1. **Bildung von Gruppen:** 
-   Jede Gruppe erhält ein ausführliches Fallbeispiel und bearbeitet dieses eigenständig..
+   Jede Gruppe erhält ein ausführliches Fallbeispiel und bearbeitet dieses eigenständig.
 2. **Analyse des Fallbeispiels (ca. 10 Minuten):** 
    Lesen Sie das Fallbeispiel aufmerksam und analysieren Sie die Situation. Notieren Sie die identifizierten **Problemfelder** der lernenden Person (z.B. Motivationsprobleme, Überforderung, persönliche Herausforderungen).
 5. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 10 Minuten):** 
    Entwickeln Sie gemeinsam **Motivationsfaktoren und Lösungsansätze**, die die Motivation der lernenden Person gezielt fördern könnten. Begründen Sie Ihre Vorschläge und überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld wirken könnten.
-   *Hinweis:* In der Praxis gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.
-5. **Visualisierung auf dem Miro-Board (ca. 5 Minuten):**  
+   *Hinweis: In der Praxis gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.*
+5. **Visualisierung auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607605482292&cot=14) (ca. 5 Minuten):**  
    - Notieren Sie die **Problemfelder** auf blauen Post-its (linke Spalte) und die dazugehörigen **Motivationsfaktoren** auf gelben Post-its (rechte Spalte).
    - Verknüpfen Sie die Post-its durch **Verbundpfeile** und beschriften Sie die Pfeile kurz, um die Zusammenhänge zwischen Problemfeldern und Motivationsfaktoren zu verdeutlichen. Ein Problemfeld kann mit mehreren Motivationsfaktoren verbunden sein.
 6. **Präsentation der Ergebnisse (ca. 2 Minuten pro Gruppe):** Jede Gruppe stellt ihren Fall und ihre Ergebnisse im Plenum vor. Erklären Sie die identifizierten Problemfelder und die Verknüpfung mit den Motivationsfaktoren sowie die vorgeschlagenen Lösungsansätze.
@@ -77,7 +77,7 @@
 >---
 
 >[!quote]- Miro-Board
-><iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+><iframe src="https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607605482292&cot=14" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
 
 ---
 

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/20 Tag 2/40 Projektarbeit/04 IPERKA-Beispiel/"}
 ---
 
-
 ## Geschenkbox
 <iframe src="https://drive.google.com/file/d/10AFRsDZbthDVOA4sLtb1nF4FbV3ZuOOc/preview" width="100%" height="680" allow="autoplay"></iframe>
 
 
+#### Zurück zu [[20 Tag 2/40 Projektarbeit/03 IPERKA in der Praxis\|03 IPERKA in der Praxis]]
 ## Zuordnung der 4-Ks
 ### **1. Informieren**
 
@@ -59,3 +59,5 @@
 - **Kritisches Denken**: Die Lernenden analysieren das Projekt systematisch, reflektieren über den Erfolg und identifizieren Verbesserungspotenziale.
 - **Kommunikation**: Sie teilen ihre Ergebnisse und Erfahrungen mit anderen und präsentieren die Ergebnisse klar und strukturiert.
 - **Kollaboration**: Die Auswertung erfolgt gemeinsam mit der Berufsbildnerin und dem Team, wobei alle Perspektiven berücksichtigt werden.
+
+#### Zurück zu [[20 Tag 2/40 Projektarbeit/03 IPERKA in der Praxis\|03 IPERKA in der Praxis]]

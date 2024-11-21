@@ -2,14 +2,13 @@
 {"dg-publish":true,"permalink":"/20 Tag 2/30 Wissen & Können vermitteln/03 Ausbildungsschritten/"}
 ---
 
-## Auftrag 2
+## Ausbildungsschritten
 
 >[!note] **Überfliegen Sie die Seiten 243-245 im Handbuch. Machen Sie sich mit den Schritten der **Ausbildungsplanung** und der Bedeutung der **Reflexion der Ausbildungspraxis** vertraut.**
 >
->Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Miro-Board fest.
->
+>Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen**.
 >---
-
+>
 >>[!Question] **Reflexionsfragen:**
 >>
 >>1. **Wichtige Schritte der Ausbildungsplanung:**
@@ -20,3 +19,6 @@
 >>
 >>3. **Reflexion der Ausbildungspraxis:**
 >>   - **Frage:** Welche Methoden der Reflexion der Ausbildungspraxis wenden Sie an? Wie stellen Sie sicher, dass die Reflexion zu konkreten Verbesserungen führt?
+
+## Weiter
+[[20 Tag 2/30 Wissen & Können vermitteln/04 Praxisübung\|04 Praxisübung]]

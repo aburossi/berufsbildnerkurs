@@ -16,11 +16,12 @@
 #### Ablauf
 
 1. **Information sammeln (10 Minuten):**
-    - Lesen Sie den Text über den «[Lehrlingsladen Volg](https://drive.google.com/file/d/103KGR4QmxiE8-aeKX2oT8A292NSd5KFq/view?usp=sharing)».
+    - Lesen Sie den Text über den «[Lehrlingsladen Volg](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607713883129&cot=14)». 
+      [Externer Link](https://drive.google.com/file/d/103KGR4QmxiE8-aeKX2oT8A292NSd5KFq/view?usp=sharing)
 >[!question] Reflexionsfragen
 >- **Persönliche Entwicklung**
 >    - Welche Kompetenzen haben die Lernenden im Lehrlingsladen Volg laut dem Artikel besonders gestärkt?
- >   - Warum sind diese Kompetenzen auch für zukünftige Berufe außerhalb des Detailhandels wertvoll?
+ >   - Warum sind diese Kompetenzen auch für zukünftige Berufe ausserhalb des Detailhandels wertvoll?
  >- **Selbstständigkeit und Verantwortung**
 >      - Wie hat die Übernahme der Filialleitung den Lernenden geholfen, ihre Selbstständigkeit und ihr Verantwortungsbewusstsein zu entwickeln?
 >    - Welche Herausforderungen wurden dabei erwähnt, und wie wurden diese bewältigt?
@@ -51,4 +52,4 @@
 
 > [!quote]- Miro-Board
 > 
-> <iframe width="100%" height="632" src="https://miro.com/app/live-embed/o9J_lERN3MU=/?moveToViewport=-1540,-1522,1627,1177&embedId=424039572137" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+> <iframe width="100%" height="600" src="https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607714445864&cot=14" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

@@ -21,7 +21,7 @@
    >>   - **Frage:** Wählen Sie einen der im Lehrmittel genannten **Motivationsfaktoren** aus. Wie können Sie diesen konkret in Ihrem Berufsalltag umsetzen, und welche Ergebnisse erhoffen Sie sich davon?
 
 **Ergebnisse festhalten:**
-   Auf dem Miro-Board finden Sie **drei beschriftete Bereiche**, die den Reflexionsfragen entsprechen:
+   Auf dem Miro-Board finden Sie **[drei beschriftete Bereiche](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607605482273&cot=14)**, die den Reflexionsfragen entsprechen:
 
    - **Situationen, die Ihre eigene Motivation beeinflussen**
    - **Aufträge zur Einbeziehung von Lernenden**
@@ -33,3 +33,6 @@
 
 >[!quote]- Miro-Board
 ><iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+## Weiter
+[[20 Tag 2/20 Führen und Motivieren/03 Fallbeispiele\|03 Fallbeispiele]]

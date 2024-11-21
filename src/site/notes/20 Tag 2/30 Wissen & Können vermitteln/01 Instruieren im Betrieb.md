@@ -29,8 +29,8 @@
 >* **Planung ist der Schlüssel:**  Eine systematische Ausbildungsplanung sorgt für Struktur und Transparenz im Lernprozess.
 >* **Lernziele definieren:** Klare Lernziele helfen den Lernenden, ihren Fortschritt zu verfolgen und motiviert zu bleiben.
 >* **Individuelle Begleitung:**  Begleiten und unterstützen Sie Ihre Lernenden individuell bei der Umsetzung der Ausbildungsschritte.
->* **Feedback geben:**  Regelmäßiges Feedback hilft den Lernenden, ihre Stärken und Schwächen zu erkennen und sich weiterzuentwickeln.
+>* **Feedback geben:**  Regelmässiges Feedback hilft den Lernenden, ihre Stärken und Schwächen zu erkennen und sich weiterzuentwickeln.
 
 ---
 ## Weiter
-[[Archiv/B5.1/02\|Archiv/B5.1/02]]
+[[20 Tag 2/30 Wissen & Können vermitteln/02 Instruktionsmethoden\|02 Instruktionsmethoden]]
