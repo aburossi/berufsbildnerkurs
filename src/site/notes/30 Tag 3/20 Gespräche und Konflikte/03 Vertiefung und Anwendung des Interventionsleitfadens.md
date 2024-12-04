@@ -20,19 +20,20 @@
  
  1. **[[30 Tag 3/20 Gespräche und Konflikte/Interventionsleitfaden\|Interventionsleitfaden]] lesen**
  2. **Fallbeispiele bearbeiten (10 Minuten):**
-  - Laden Sie die [[Interventionsleitfaden_Fälle.pdf]] herunter
-  - Lesen Sie in Ihrer Gruppe die Fallbeispiele durch.
+  - Laden Sie die PDF-Datei aus Ihrem Miro-Board Bereich herunter.
+  - Lesen Sie ihres Fallbeispiels durch.
  
  3. **Gesprächsbausteine formulieren (20 Minuten):**
-Entwickeln Sie gemeinsam passende Sätze für folgende Gesprächsphasen:
+Entwickeln Sie passende Sätze für folgende Gesprächsphasen:
 - **Einstieg:** Wie leiten Sie das Gespräch ein?
 - **Situationsbeschreibung:** Wie schildern Sie die beobachteten Verhaltensweisen?
 - **Empathie und Verständnis:** Wie zeigen Sie Verständnis und bauen Vertrauen auf?
 - **Auswirkungen aufzeigen:** Wie machen Sie die Konsequenzen des Verhaltens deutlich?
 
-4. **Ergebnisse festhalten (10 Minuten):**
+4. **Ergebnisse besprechen (10 Minuten):**
 - Halten Sie Ihre Formulierungen im PDF-Dokument fest.
--  Ein Gruppenmitglied lädt die Datei auf dem Miro-Board hoch.
+- Laden Sie die Datei im Miro-Board hoch
+- Stellen Sie Ihre Gesprächsbauchsteine den anderen Gruppenmitgliedern vor und besprechen Sie deren Wirksamkeit. 
 
 >[!warning]- **Achten Sie bei der Formulierung auf:**
  > 
