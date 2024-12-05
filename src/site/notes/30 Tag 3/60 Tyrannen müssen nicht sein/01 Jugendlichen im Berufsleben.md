@@ -43,7 +43,7 @@
 >
 >Seit der Jahrtausendwende werden jedoch **Kleinkinder** oft behandelt, als wären sie **Erwachsene**. Dies führt zu Herausforderungen, da Kinder in diesem Alter noch nicht die kognitive Reife besitzen, um komplexe Entscheidungen zu treffen.
 >
-**Auswirkungen:**
+>**Auswirkungen:**
 >
 >- **Überforderung** des Kindes durch zu viel Verantwortung.
 >- **Unklare Rollenverteilung** zwischen Eltern und Kind.
