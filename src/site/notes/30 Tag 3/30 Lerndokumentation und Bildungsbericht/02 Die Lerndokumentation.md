@@ -10,8 +10,8 @@
 >---
 >#### Ablauf
 >1. In Ihrer Gruppe finden Sie auf dem Miro-Board vier beschriftete Bereiche mit den folgenden Überschriften:
->- **Beispiele aus meiner Ausbildungspraxis**
->- **Wie vermittle ich dem Lernende Sinn und Zweck der Lerndokumentation**
+>- **Beispiele aus unser Ausbildungspraxis**
+>- **Wie vermittlen wir dem Lernende Sinn und Zweck der Lerndokumentation**
 >- **Best Practices für die Motivation für die Lerndokumentation**
 >2. Führen Sie eine Diskussion zu diesen Bereichen in Ihrer Gruppe. 
 >- Schreiben Sie während der Diskussion zu jedem dieser Themen Ihre wichtigsten Gedanken, Beispiele oder Ansätze als **Stichworte oder kurze Sätze auf die bereitgestellten Post-its**.
@@ -26,6 +26,3 @@
 
 1. **Abstimmung (ca. 5 Minuten)**  
     Nach der Diskussion überfliegen alle Teilnehmenden die Post-its der anderen Gruppenbereiche. Anschliessend geben Sie Ihre Stimmen für die besten Ansätze ab. Nutzen Sie das Polling-Tool von Miro, um Ihre Favoriten zu wählen. Jeder Teilnehmende hat **eine bestimmte Anzahl von Stimmen**, die er auf die Post-its der verschiedenen Gruppen verteilen kann.
-    
-2. **Kommentierung der Ergebnisse (ca. 5 Minuten)**  
-    Nach der Abstimmung werden die Ergebnisse visualisiert. Die Ansätze, die die meisten Stimmen erhalten haben, werden als „Best Practices“ hervorgehoben. Diese kommentiere ich im Plenum und bespreche, warum bestimmte Ideen als besonders wertvoll angesehen wurden und wie sie in der Praxis angewendet werden können.

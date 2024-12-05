@@ -15,31 +15,28 @@
 > > * Sie können den Interventionsleitfaden in konkreten Situationen anwenden.
 > > * Sie sind in der Lage, passende Gesprächsformulierungen zu entwickeln.
 > > * Sie reflektieren über die Wirkung Ihrer Kommunikation auf Lernende.
-
- ### Ablauf
+### Ablauf
  
->[!abstract] 1.[[30 Tag 3/20 Gespräche und Konflikte/Interventionsleitfaden\|Interventionsleitfaden]] lesen
+>[!abstract] 1. [[30 Tag 3/20 Gespräche und Konflikte/Interventionsleitfaden\|Interventionsleitfaden]] lesen
 
 >[!note] 2. Fallbeispiele bearbeiten (10 Minuten)
  >- Laden Sie die PDF-Datei aus Ihrem Bereich des [Miro-Boards](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764609494606673&cot=10) herunter.
  >- Lesen Sie ihres Fallbeispiels durch.
  
- 3. **Gesprächsbausteine formulieren (20 Minuten):**
-
->[!question] Entwickeln Sie passende Sätze für folgende Gesprächsphasen:
+ >[!question] 3. **Gesprächsbausteine formulieren (10 Minuten):**
+>Entwickeln Sie passende Sätze für folgende Gesprächsphasen:
 >- **Einstieg:** Wie leiten Sie das Gespräch ein?
 >- **Situationsbeschreibung:** Wie schildern Sie die beobachteten Verhaltensweisen?
 >- **Empathie und Verständnis:** Wie zeigen Sie Verständnis und bauen Vertrauen auf?
 >- **Auswirkungen aufzeigen:** Wie machen Sie die Konsequenzen des Verhaltens deutlich?
 
-4. **Ergebnisse besprechen (10 Minuten):**
 
->[!note] Auftrag
+>[!note] 4. **Ergebnisse besprechen (10 Minuten):**
 >- Halten Sie Ihre Formulierungen im PDF-Dokument fest.
 >- Laden Sie die Datei im Miro-Board hoch
 >- Stellen Sie Ihre Gesprächsbauchsteine den anderen Gruppenmitgliedern vor und besprechen Sie deren Wirksamkeit. 
 
->[!warning]- **Achten Sie bei der Formulierung auf:**
+>[!warning] **Achten Sie bei der Formulierung auf:**
  > 
  > - **Ich-Botschaften verwenden:** Sprechen Sie aus Ihrer Perspektive, um Vorwürfe zu vermeiden.
  > - **Konkret bleiben:** Nennen Sie spezifische Beobachtungen statt allgemeiner Aussagen.
@@ -55,12 +52,4 @@
 > 
 > <iframe width="100%" height="600" src="https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607714445864&cot=14" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 > 
-
----
- 
-> **Auftrag:**
-> 
-> * In Ihrer Gruppe formulieren Sie für Ihr Fallbeispiel passende Sätze zu den vier Gesprächsphasen.
-> * Speichern Sie im PDF-Dokument Ihre Formulierungen.
-> * Ein Gruppenmitglied lädt die Datei auf dem Miro-Board hoch.
 
