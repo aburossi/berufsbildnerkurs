@@ -49,7 +49,7 @@
 >- **Unklare Rollenverteilung** zwischen Eltern und Kind.
 >- Schwierigkeiten im **Umgang mit Autorität** und **Regeln** im Ausbildungsumfeld.
 >
-**Beispiel:** Ein Lernender, der es gewohnt ist, auf Augenhöhe mit Erwachsenen zu verhandeln, könnte Anweisungen seines Ausbilders ständig in Frage stellen und nicht akzeptieren.
+>**Beispiel:** Ein Lernender, der es gewohnt ist, auf Augenhöhe mit Erwachsenen zu verhandeln, könnte Anweisungen seines Ausbilders ständig in Frage stellen und nicht akzeptieren.
 
 >[!info]- Projektion
 >
