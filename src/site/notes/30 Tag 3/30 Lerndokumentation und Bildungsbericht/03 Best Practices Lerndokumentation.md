@@ -20,7 +20,7 @@
 
 1. **Überfliegen der Checkliste auf Seite 145 im Handbuch:**
     
-    - Besprechen Sie in der Gruppe, wie Sie die Punkte der Checkliste mit Ihren Lernenden in **Beruf** umsetzen. **Wie haben Sie es während der Lehre gemacht? Wie wird es jetzt im Betrieb gehandhabt?
+    - Besprechen Sie in der Gruppe, wie Sie die Punkte der Checkliste mit Ihren Lernenden in **Beruf** umsetzen. **Wie haben Sie es während der Lehre gemacht? Wie wird es jetzt im Betrieb gehandhabt?**
 2. **Visualisierung der Best Practices (ca. 10 Minuten):**
     
     - Schreiben Sie **die wichtigsten Tipps**, die für Lernende in Ihrem Beruf besonders relevant und nützlich sind, auf Miro-Post-its.

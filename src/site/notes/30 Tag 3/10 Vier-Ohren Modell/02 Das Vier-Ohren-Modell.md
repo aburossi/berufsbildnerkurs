@@ -43,4 +43,4 @@ Das **Vier-Ohren-Modell** von Schulz von Thun beschreibt, dass jede Nachricht vi
 > Analysieren Sie diese Situationen mithilfe des Vier-Ohren-Modells. Welche Botschaften könnten auf den verschiedenen Ebenen gesendet und empfangen worden sein?
 
 ## Weiter
-[[03 Auftrag zum Vier-Ohren-Modell\|03 Auftrag zum Vier-Ohren-Modell]]
+[[30 Tag 3/10 Vier-Ohren Modell/03 Anwendung Vier-Ohren-Modell\|03 Anwendung Vier-Ohren-Modell]]

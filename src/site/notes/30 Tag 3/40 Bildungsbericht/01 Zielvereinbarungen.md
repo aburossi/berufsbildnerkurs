@@ -7,7 +7,7 @@
 
 >[!abstract] Einführung
 >Stellen Sie sich vor, Sie führen ein Gespräch mit einem Ihrer Lernenden über seine Fortschritte. Gemeinsam wollen Sie Ziele für die nächste Phase der Ausbildung festlegen. Doch die Formulierung der Ziele bleibt vage, und die Umsetzung fällt schwer. Wie können Sie sicherstellen, dass Ziele **klar**, **umsetzbar** und **motivierend** formuliert werden? 
->* [[Zielvereinbarungen\|Zielvereinbarungen]] schaffen Orientierung und fördern die Entwicklung.
+>* Zielvereinbarungen schaffen Orientierung und fördern die Entwicklung.
 >* Unterschiedliche Methoden helfen dabei, klare und realistische Ziele zu setzen.
 >* Als Berufsbildner/-in spielen Sie eine zentrale Rolle bei der Gestaltung wirksamer Zielvereinbarungen.
 >>[!question]- Diskussion Zielvereinbarungen: Der Weg zur Klarheit

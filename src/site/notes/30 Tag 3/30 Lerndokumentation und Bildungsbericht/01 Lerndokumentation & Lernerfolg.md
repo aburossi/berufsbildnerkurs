@@ -3,13 +3,13 @@
 ---
 
 >[!abstract] Einführung
->Stellen Sie sich vor: Ein neuer Lehrling beginnt seine Ausbildung in Ihrem Betrieb. Sie möchten sicherstellen, dass er seine Lernerfahrungen optimal reflektieren und dokumentieren kann. Gleichzeitig soll die Dokumentation Ihnen als Berufsbildner eine Grundlage für gezieltes Feedback und die Förderung der Lernentwicklung bieten.
+>Stellen Sie sich vor: Ein neuer Lehrling beginnt seine Ausbildung in Ihrem Betrieb. **Sie möchten sicherstellen, dass er seine Lernerfahrungen optimal reflektieren und dokumentieren kann**. Gleichzeitig soll die Dokumentation Ihnen als Berufsbildner eine **Grundlage für gezieltes Feedback und die Förderung der Lernentwicklung** bieten.
 >
 >> [!question]- Diskussion Lerndokumentation:  Mehrwert für Lernende und Berufsbildner
 >>Die Lerndokumentation ist mehr als nur eine Pflichtübung. Sie bietet sowohl den Lernenden als auch den Berufsbildnern wertvolle Einblicke in den Lernprozess und hilft, die Ausbildungszeit effektiver zu gestalten. Tauschen Sie sich kurz mit Ihren Nachbarn (oder reflektieren Sie alleine) über die folgenden Fragen aus:
->>* Welchen Nutzen sehen Sie in der Lerndokumentation aus Sicht der Lernenden?
->>* Welchen Mehrwert bietet die Lerndokumentation für Sie als Berufsbildner?
->>* Welche Erfahrungen haben Sie bereits mit der Lerndokumentation gemacht – positive wie negative?
+>>* Welchen **Nutzen** sehen Sie in der Lerndokumentation **aus Sicht der Lernenden**?
+>>* Welchen **Mehrwert** bietet die Lerndokumentation für **Sie als Berufsbildner**?
+>>* Welche **Erfahrungen** haben Sie bereits mit der Lerndokumentation gemacht – **positive wie negative**?
 
 > [!success]- Lernziele
 >In dieser Einheit setzen wir uns mit der **Lerndokumentation** als zentralen Bestandteil der Bildungsarbeit auseinander. Sie lernen, wie Sie die Lerndokumentation als Werkzeug zur Förderung der Selbstreflexion und Lernentwicklung Ihrer Lernenden einsetzen können. 

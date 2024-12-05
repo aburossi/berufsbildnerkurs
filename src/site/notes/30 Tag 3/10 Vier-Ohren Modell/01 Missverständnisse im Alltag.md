@@ -26,4 +26,4 @@
 > * **Persönliche Entwicklung:** Die Reflexion des eigenen Kommunikationsverhaltens fördert die persönliche und berufliche Weiterentwicklung.
 
 ## Weiter
-[[02 Das Vier-Ohren-Modell im Detail\|02 Das Vier-Ohren-Modell im Detail]]
+[[30 Tag 3/10 Vier-Ohren Modell/02 Das Vier-Ohren-Modell\|02 Das Vier-Ohren-Modell]]

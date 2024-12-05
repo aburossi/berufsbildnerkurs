@@ -18,7 +18,7 @@
 
  ### Ablauf
  
- 1. **[[30 Tag 3/20 Gespräche und Konflikte/Interventionsleitfaden\|Interventionsleitfaden]] lesen**
+ 1. **[[30 Tag 3/20 Gespräche und Konflikte/Interventionsleitfaden#Interventionsleitfaden\|Interventionsleitfaden#Interventionsleitfaden]] lesen**
  2. **Fallbeispiele bearbeiten (10 Minuten):**
   - Laden Sie die PDF-Datei aus Ihrem Miro-Board Bereich herunter.
   - Lesen Sie ihres Fallbeispiels durch.

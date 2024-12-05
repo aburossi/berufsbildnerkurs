@@ -6,7 +6,7 @@
 
 > [!info] **Interventionsleitfaden**
 > 
-> Der **Interventionsleitfaden** bietet eine strukturierte Vorgehensweise für Gespräche mit Lernenden, insbesondere in herausfordernden Situationen. Er hilft dabei, Gespräche zielgerichtet zu planen und durchzuführen, um gemeinsam Lösungen zu erarbeiten.
+> Der **[[30 Tag 3/20 Gespräche und Konflikte/Interventionsleitfaden#Interventionsleitfaden\|Interventionsleitfaden#Interventionsleitfaden]]** bietet eine strukturierte Vorgehensweise für Gespräche mit Lernenden, insbesondere in herausfordernden Situationen. Er hilft dabei, Gespräche zielgerichtet zu planen und durchzuführen, um gemeinsam Lösungen zu erarbeiten.
 
 >[!tip]- Tipps für die Gesprächsvorbereitung
 > * **Information sammeln:** Verschaffen Sie sich einen Überblick über die Situation. Informieren Sie sich bei Bedarf bei Kollegen oder Lehrpersonen.

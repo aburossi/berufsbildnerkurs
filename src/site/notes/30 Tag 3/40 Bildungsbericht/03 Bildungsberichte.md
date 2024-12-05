@@ -16,10 +16,10 @@
 >- Lernen, wie man ein Beurteilungsgespräch vorbereitet und strukturiert.
 >- Erfahren, welche Unterlagen und Schritte für eine objektive Beurteilung notwendig sind.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VHiotHBtpzw?si=4R0li65oCRFYVyIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/VHiotHBtpzw?si=4R0li65oCRFYVyIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >[!question]- **Diskussion**
->Tauschen Sie sich mit Ihrem Nachbarn oder in der Gruppe über die folgenden Fragen aus und notieren Sie die Ergebnisse auf dem Miro-Board:
+>Tauschen Sie sich mit Ihrem Nachbarn oder in der Gruppe über die folgenden Fragen aus:
 >
 >1. **Wichtigkeit des Bildungsberichts:**  
 >   Warum ist der Bildungsbericht ein zentrales Werkzeug in der Ausbildung? Welche Vorteile bietet er für Lernende und Berufsbildende?
@@ -41,10 +41,10 @@
 >- Erlernen eines strukturierten Gesprächsverlaufs zur Bewertung von Kompetenzen.
 >- Entwickeln von Fähigkeiten zur gemeinsamen Zielsetzung und Besprechung von Lösungen.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wG_ZUUjQI1k?si=HxmiEnYZDEGlgX-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/wG_ZUUjQI1k?si=HxmiEnYZDEGlgX-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >[!question]- **Diskussion**
->Tauschen Sie sich mit Ihrem Nachbarn oder in der Gruppe über die folgenden Fragen aus und notieren Sie die Ergebnisse auf dem Miro-Board:
+>Tauschen Sie sich mit Ihrem Nachbarn oder in der Gruppe über die folgenden Fragen aus:
 >
 >1. **Selbst- und Fremdeinschätzung:**  
 >   Welche Rolle spielt die Selbstbeurteilung der Lernenden im Beurteilungsprozess? Wie kann sie die Gesprächsführung verbessern?
