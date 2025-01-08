@@ -3,7 +3,7 @@
 ---
 
 # Auftrag «Fokus Pubertät»
->[!info] Dokumentenmappe
+>[!info]- Dokumentenmappe
 ><iframe src="https://bbwch-my.sharepoint.com/personal/pietro_rossi_bbw_ch/_layouts/15/Doc.aspx?sourcedoc={09810e26-7716-4a05-bc0c-15bcb7d9c0c7}&amp;action=embedview&amp;wdStartOn=22" width="100%" height="600px" frameborder="0">Dies ist ein eingebettetes <a target="_blank" href="https://office.com">Microsoft Office</a>-Dokument, unterstützt von <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 ### Rahmenbedingungen:
 - Sozialform: «Einzelarbeit»
