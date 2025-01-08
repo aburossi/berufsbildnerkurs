@@ -12,4 +12,6 @@ Es ist den TeilnehmerInnen freigestellt, wo und wann sie an den Aufträgen arbei
 ### Kontaktdaten Kursleiter: 
 Pietro Rossi, 076 592 61 14, pietro.rossi@bbw.ch
 ### Abgabe der Produkte:
-- Form: entweder elektronisch ([Download Word-Datei](https://bbwch-my.sharepoint.com/:w:/g/personal/pietro_rossi_bbw_ch/ESYOgQkWdwVKvAwVvLfZwMcBXtxHTz4tJNiqHvsGZKMV7A?e=U3ZGfC)) oder auf Papier
+- Form: entweder elektronisch oder auf Papier
+- 👉 [Download Dokumentenmappe Word-Datei](https://bbwch-my.sharepoint.com/:w:/g/personal/pietro_rossi_bbw_ch/ESYOgQkWdwVKvAwVvLfZwMcBXtxHTz4tJNiqHvsGZKMV7A?e=U3ZGfC)
+
