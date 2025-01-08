@@ -16,8 +16,6 @@ Navigieren Sie links durch die Einheiten des Kurses.
 | [[10 Tag 1/30 Merkblätter/00 Merkblätter - Übersicht\|00 Merkblätter - Übersicht]]                                                                                   |           |                |
 |                                                                                                                  |           | [[90 Ressourcen/Evaluation\|Evaluation]] |
 
-
-
 ---
 
 | *Dokumentation* (Asynchroner Tag)                |
