@@ -34,7 +34,7 @@
 6. **Feedbackrunde:**
    - Nach drei Rollenspiele geben sich die Teilnehmer Feedback (10') basierend auf den Beobachtungskriterien.
    - **Rollenspieler/innen** reflektieren ihre Erfahrungen und diskutieren alternative Handlungsmöglichkeiten.
-   - Jede Gruppe füllt auf dem Miro-Board für jede Situation einen Bereich mit je einem Post-it zu **Herausforderungen**, **Strategien** und **Verhaltensweisen** aus.
+   - Jede Gruppe füllt auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965273&cot=14) für jede Situation einen Bereich mit je einem Post-it zu **Herausforderungen**, **Strategien Berufsbildner*in*** und **Verhaltensweisen Lernende** aus.
 
 7. **Plenumsdiskussion:**
    - Gemeinsam reflektieren wir:

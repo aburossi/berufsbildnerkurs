@@ -26,7 +26,7 @@
    - Hören Sie den Podcast aufmerksam an und notieren Sie sich **wichtige Erkenntnisse und Empfehlungen**, die im Podcast vorgestellt werden.
    
 2. **Bearbeitung auf dem Miro-Board (10 Minuten):**
-   - Suchen Sie auf dem Miro-Board den Bereich, der Ihrem gewählten Thema entspricht.
+   - Suchen Sie auf dem [Miro-Board den Bereich](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764606014111389&cot=14), der Ihrem gewählten Thema entspricht.
    - Arbeiten Sie gemeinsam mit den anderen Teilnehmenden, die dasselbe Thema gewählt haben, an diesem Bereich.
    - Sammeln Sie Ihre **Erkenntnisse, Ideen und Empfehlungen** auf Post-its und ordnen Sie sie so an, dass sie für andere klar verständlich sind.
    - Strukturieren Sie die Post-its in Kategorien wie **Schlüsselideen**, **Herausforderungen** und **Empfehlungen**, um eine übersichtliche Darstellung zu ermöglichen.
@@ -40,8 +40,6 @@
 >[!warning]- Umgang mit sensiblen Themen
 >Denken Sie daran, dass es beim Thema „Gleiche Chancen und korrekter Umgang“ wichtig ist, **Respekt und Sensibilität** im Austausch zu bewahren. Unterschiedliche Perspektiven sind willkommen und können eine wertvolle Erweiterung des eigenen Verständnisses sein.
 
-> [!quote]- **Miro-Board**
-> <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 **Miro-Übung:**  
 - Die Themenbereiche sind auf dem Miro-Board durch eigene Sektionen für jedes Thema gekennzeichnet.

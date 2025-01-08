@@ -33,7 +33,7 @@
 > <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 **Miro-Übung:**  
-- Nutzen Sie das Miro-Board, um Ihre **Lebenskurven** zu zeichnen:
+- Suchen Sie Ihrem Bereich auf das [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965297&cot=14), um Ihre **Lebenskurven** zu zeichnen:
    - Zeichnen Sie Ihre **allgemeine Lebenskurve**.
    - Zeichnen Sie Ihre **Lebenskurve in der Ausbildung**.
    - Markieren Sie wichtige Ereignisse und Erfahrungen auf den Kurven.

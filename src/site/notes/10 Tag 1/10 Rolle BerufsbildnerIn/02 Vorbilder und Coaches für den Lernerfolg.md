@@ -28,7 +28,7 @@
 > > 
 > > - **Frage:** Welche **Herausforderungen** sehen Sie in Bezug auf die drei Ansätze und wie könnten Sie diese **meistern**?
 
-**Ergebnisse festhalten:** Auf dem Miro-Board finden Sie **[vier beschriftete Bereiche]()**, die den Reflexionsfragen entsprechen:
+**Ergebnisse festhalten:** Auf dem Miro-Board finden Sie **[vier beschriftete Bereiche](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965271&cot=14)**, die den Reflexionsfragen entsprechen:
 
 - **Positives Vorbild**
 - **Coaching-Methoden**
