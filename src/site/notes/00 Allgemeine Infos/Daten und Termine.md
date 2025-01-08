@@ -5,11 +5,11 @@
 ## Stundentafel
 <iframe src="https://drive.google.com/file/d/1p-99ScPpQAz9HI6YxDsEyyfr_pHhelMR/preview" width="100%" height="480" allow="autoplay"></iframe>
 
-## Miro-Board
+## Miro-Board Zutrittslink
 
 >[!info]
 >Sie werden angeleitet ein **Miro-Konto** zu eröffnen, das für die Zusammenarbeit auf das Miro-Board notwendig ist. Die BBW bietet **Zugang zu Miro-Education kostenlos** an.
->👉 [Zutrittslink](http://aburossi.ch/mirobbk)
+>👉 [Zutrittslink](https://miro.com/welcomeonboard/Y2ZKZm9FOER5U0pFajlGU3F2WFU4T2FHd09kNG1JeXZ0TU0rbTFVUWZFTWdud0krcFRnODR6eUhIU3ZEdXQ1NkJFbHdUUWpNVUQ4ZDBZMmpXN1E5U0RyRDFlN1I2c3NLeFI4N0hubHVkUE54NHFoMEJYNVY4SXdSYWpINVRYYy8hZQ==?share_link_id=4901457602)
 
 ## Links
 [Das offizielle schweizerische Informationsportal der Berufs-, Studien- und Laufbahnberatung - berufsberatung.ch](https://www.berufsberatung.ch/dyn/show/1418)
