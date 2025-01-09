@@ -15,14 +15,14 @@
 - [ ] *Für alle Fragen rund um Lehrstellen, Berufe, Aus- und Weiterbildungen.*
 
 [Das offizielle schweizerische Portal der Berufsbildung | berufsbildung.ch](https://www.berufsbildung.ch/de)
-- [ ] Angebot an wichtigen Arbeitsinstrumenten für die Praxis der Berufsbildung
+- [ ] *Angebot an wichtigen Arbeitsinstrumenten für die Praxis der Berufsbildung.*
 
 [SDBB | CSFO - Shop - Berufsbildung](https://shop.sdbb.ch/berufsbildung-1.html)
 - [ ] *Das Schweizerisches Dienstleistungszentrum Berufsbildung bietet Materialien rund um die Berufslehre.*
 
 [Mittelschul- und Berufsbildungsamt | Kanton Zürich](https://www.zh.ch/de/bildungsdirektion/mittelschul-berufsbildungsamt.html)
-- [ ] Für Lehrbetriebe in Kanton Zürich
-- [ ] Für andere Kantone 👉 [Kantonale Anlaufstellen](https://www.berufsbildung.ch/de/kantonale-anlaufstellen)
+- [ ] *Für Lehrbetriebe in Kanton Zürich*
+- [ ] *Für andere Kantone 👉 [Kantonale Anlaufstellen](https://www.berufsbildung.ch/de/kantonale-anlaufstellen)*
 
 [Berufslehre | Kanton Zürich](https://www.zh.ch/de/bildung/berufslehre.html)
 - [ ] *Informationen rund um die Berufslehre vom Kanton Zürich.*

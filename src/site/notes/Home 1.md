@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Home 1/","tags":["gardenEntry"]}
 ---
 
-# Berufsbildnerkurs BBW
+# Kurs für BerufsbildnerInnen
 
 ## Willkommen an der Berufsbildungsschule Winterthur!
 ![welcome.webp](/img/user/welcome.webp)
