@@ -3,7 +3,7 @@
 ---
 
 # Kurs für BerufsbildnerInnen
-![welcome.webp|400](/img/user/welcome.webp)
+![welcome.webp|600](/img/user/welcome.webp)
 ## Willkommen an der Berufsbildungsschule Winterthur!
 
 Navigieren Sie links durch die Einheiten des Kurses. 
