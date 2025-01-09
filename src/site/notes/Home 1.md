@@ -5,7 +5,7 @@
 # Kurs für BerufsbildnerInnen
 
 ## Willkommen an der Berufsbildungsschule Winterthur!
-![welcome.webp](/img/user/welcome.webp)
+![welcome.webp|600](/img/user/welcome.webp)
 Navigieren Sie links durch die Einheiten des Kurses. 
 ### [[00 Allgemeine Infos/Daten und Termine\|Daten und Termine]]
 
