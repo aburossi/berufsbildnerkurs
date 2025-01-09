@@ -10,7 +10,7 @@
 #### Ablauf
 
 1. **Einzelarbeit (10 Minuten):**
-   - Zeichnen Sie auf dem Miro-Board Ihre **persönliche Lebenskurve** sowie Ihre **Lebenskurve in der Ausbildung**.
+   - Zeichnen Sie auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965297&cot=14) Ihre **persönliche Lebenskurve** sowie Ihre **Lebenskurve in der Ausbildung**.
    - Markieren Sie besondere **Erfahrungen und Ereignisse**, die für Sie prägend waren.
    - Reflektieren Sie darüber, wie Sie mit diesen Situationen umgegangen sind.
 
@@ -22,15 +22,10 @@
 >* **Welche Werte und Ziele** waren uns wichtig und wie haben wir sie umgesetzt?
 >* **Wie sind wir mit Herausforderungen** umgegangen?
 
-3. **Austausch in der Gruppe (10 Minuten):**
-   - Teilen Sie in Ihrer Gruppe einige Ihrer Erkenntnisse.
-   - Diskutieren Sie Gemeinsamkeiten und Unterschiede in Ihren Erfahrungen.
-   - Überlegen Sie gemeinsam, wie diese Reflexion Ihre zukünftige Ausbildungspraxis beeinflussen kann.
+3. **Austausch in Plenum (10 Minuten):**
+   - Diskussion über Gemeinsamkeiten und Unterschiede in den persönlichen Erfahrungen.
 
 ---
-
-> [!quote]- **Miro-Board**
-> <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 **Miro-Übung:**  
 - Suchen Sie Ihrem Bereich auf das [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965297&cot=14), um Ihre **Lebenskurven** zu zeichnen:
