@@ -4,6 +4,7 @@
 
 ## Das Wichtigste in Kürze
 <iframe src="https://aburossi.github.io/prezi/BBK/preziwissen/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
+[Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/preziwissen)
 
 > [!note] **Überfliegen**
 >
