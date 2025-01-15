@@ -27,7 +27,8 @@
 >3. **Reflexion und Austausch:**
 >
 >   - Diskutieren Sie in der Gruppe über die unterschiedlichen Vorstellungen und Ansätze der Instruktion in den verschiedenen Berufen oder Lernbetrieben.
->
 
+---
 
-
+## Weiter
+[[20 Tag 2/30 Wissen & Können vermitteln/04 Fazit Wissen & Können vermitteln\|04 Fazit Wissen & Können vermitteln]]

@@ -74,3 +74,7 @@
 >- Berücksichtigen Sie, wie Sie positive Feedbackkultur fördern können.
 
 
+---
+
+## Weiter
+[[20 Tag 2/20 Führen und Motivieren/04 Fazit Führen und Motivieren\|04 Fazit Führen und Motivieren]]

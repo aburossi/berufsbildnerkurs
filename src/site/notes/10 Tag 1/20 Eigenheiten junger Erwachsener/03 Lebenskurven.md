@@ -32,3 +32,8 @@
    - Zeichnen Sie Ihre **allgemeine Lebenskurve**.
    - Zeichnen Sie Ihre **Lebenskurve in der Ausbildung**.
    - Markieren Sie wichtige Ereignisse und Erfahrungen auf den Kurven.
+
+---
+
+## Weiter
+[[10 Tag 1/20 Eigenheiten junger Erwachsener/04 Fazit Eigenheiten junger Erwachsenen\|04 Fazit Eigenheiten junger Erwachsenen]]

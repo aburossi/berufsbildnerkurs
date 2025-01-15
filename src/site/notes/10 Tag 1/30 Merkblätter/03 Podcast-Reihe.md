@@ -45,3 +45,7 @@
 - Die Themenbereiche sind auf dem Miro-Board durch eigene Sektionen für jedes Thema gekennzeichnet.
 - Platzieren Sie Ihre Post-its unter dem entsprechenden Thema und ordnen Sie sie nach den Kategorien **Schlüsselideen**, **Herausforderungen** und **Empfehlungen** an.
 - Nutzen Sie verschiedene Farben für die Kategorien, um eine klare Struktur zu schaffen und das Lesen zu erleichtern.
+---
+
+## Weiter
+[[10 Tag 1/30 Merkblätter/04 Fazit Merkblätter\|04 Fazit Merkblätter]]

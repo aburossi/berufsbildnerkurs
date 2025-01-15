@@ -210,3 +210,6 @@ Zum Abschluss diskutieren wir gemeinsam:
 > <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ---
+
+## Weiter
+[[10 Tag 1/10 Rolle BerufsbildnerIn/04 Fazit Rolle Berufsbildnerin\|04 Fazit Rolle Berufsbildnerin]]

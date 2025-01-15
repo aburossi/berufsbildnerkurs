@@ -16,8 +16,7 @@
 #### Ablauf
 
 1. **Information sammeln (10 Minuten):**
-    - Lesen Sie den Text über den «[Lehrlingsladen Volg](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607713883129&cot=14)». 
-      [Externer Link](https://drive.google.com/file/d/103KGR4QmxiE8-aeKX2oT8A292NSd5KFq/view?usp=sharing)
+    - Lesen Sie auf dem Miro-Board den Text über den «[Lehrlingsladen Volg](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764613285576079&cot=14)». [PDF-Externer Link](https://drive.google.com/file/d/103KGR4QmxiE8-aeKX2oT8A292NSd5KFq/view?usp=sharing)
 >[!question] Reflexionsfragen
 >- **Persönliche Entwicklung**
 >    - Welche Kompetenzen haben die Lernenden im Lehrlingsladen Volg laut dem Artikel besonders gestärkt?
@@ -30,12 +29,12 @@
 >	- Welche Elemente des Projekts könnten darauf abzielen, die intrinsische Motivation der Teilnehmenden zu stärken?
 
 2. **Planung des Lernendenprojekts (30 Minuten):**
-    - Überfliegen Sie die Seiten 240-241 im Ordner als Leitfaden für die IPERKA-Methode und wenden Sie die IPERKA-Methode an, um ein konkretes Lernendenprojekt zu planen.
+    - Überfliegen Sie die **Seiten 240-241** im Ordner als **Leitfaden für die IPERKA-Methode** und wenden Sie die IPERKA-Methode an, um ein **konkretes Lernendenprojekt zu planen**.
     - Laden Sie das [Arbeitsblatt](https://drive.google.com/file/d/108PqDPs40lI8V705PZxyMYoZBFbSIgWN/view?usp=sharing) herunter und entwerfen Sie für jeden Schritt (Informieren, Planen, Entscheiden, Realisieren, Kontrollieren, Auswerten) die Tätigkeiten und Teilziele der Lernenden und Ihre Rolle als Berufsbildner. 
-    - Überlegen Sie, wie die 4Ks (Kreativität, Kritisches Denken, Kommunikation, Kollaboration) in jedem IPERKA-Schritt berücksichtigt und gefördert werden können. Schauen Sie im [[20 Tag 2/40 Projektarbeit/04 IPERKA-Beispiel\|04 IPERKA-Beispiel]] nach, wie die 4Ks in jedem Schritt gefördert werden können
+    - Überlegen Sie, wie die 4Ks (Kreativität, Kritisches Denken, Kommunikation, Kollaboration) in jedem IPERKA-Schritt berücksichtigt und gefördert werden können. Schauen Sie im [[20 Tag 2/40 Projektarbeit/05 IPERKA-Beispiel\|05 IPERKA-Beispiel]] nach, wie die 4Ks in jedem Schritt gefördert werden können
 
 3. **Gruppenarbeit (15 Minuten):**
-    - Laden Sie Ihre Projektplanungen auf dem Miro-Board hoch und tauschen Sie sich in der Gruppen über die geplanten IPERKA-Aufträge aus
+    - Laden Sie Ihre Projektplanungen als PDF auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764613289187966&cot=14) hoch und tauschen Sie sich in der Gruppen über die geplanten IPERKA-Aufträge aus
     - Diskutieren Sie, wie die 4Ks integriert wurden.
 4. **Diskussion (10 Minuten):**
     - Einzelne Teilnehmer präsentieren ihre Projektplanung im Plenum.
@@ -53,3 +52,8 @@
 > [!quote]- Miro-Board
 > 
 > <iframe width="100%" height="600" src="https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764607714445864&cot=14" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+---
+
+## Weiter
+[[20 Tag 2/40 Projektarbeit/04 Fazit Projektarbeit\|04 Fazit Projektarbeit]]
