@@ -24,13 +24,6 @@
 >* …Sie die Bedeutung der **Ausbildungsplanung** verstehen und die einzelnen Schritte im Prozess nachvollziehen können.
 >* …Sie **Ausbildungsschritte planen** und Lernende bei der Umsetzung begleiten und unterstützen können.
 
->[!abstract]- Fazit
->* **Methodenvielfalt:**  Nutzen Sie verschiedene Instruktionsmethoden, um den unterschiedlichen Lerntypen gerecht zu werden.
->* **Planung ist der Schlüssel:**  Eine systematische Ausbildungsplanung sorgt für Struktur und Transparenz im Lernprozess.
->* **Lernziele definieren:** Klare Lernziele helfen den Lernenden, ihren Fortschritt zu verfolgen und motiviert zu bleiben.
->* **Individuelle Begleitung:**  Begleiten und unterstützen Sie Ihre Lernenden individuell bei der Umsetzung der Ausbildungsschritte.
->* **Feedback geben:**  Regelmässiges Feedback hilft den Lernenden, ihre Stärken und Schwächen zu erkennen und sich weiterzuentwickeln.
-
 ---
 ## Weiter
 [[20 Tag 2/30 Wissen & Können vermitteln/02 Instruktionsmethoden\|02 Instruktionsmethoden]]

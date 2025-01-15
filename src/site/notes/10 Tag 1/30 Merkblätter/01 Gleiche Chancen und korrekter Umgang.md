@@ -22,13 +22,6 @@
 >* …Sie **Massnahmen** zur **Prävention** von **Chancenungleichheiten** und **Belästigungen** ableiten und im Berufsalltag umsetzen können.
 >* …Sie wissen, wie Sie bei **Problemen** im Zusammenhang mit den Themen der Merkblattreihe **kompetent vorgehen** und **Lernende unterstützen** können.
 
->[!abstract]- Fazit
->* Die **Fürsorgepflicht** des Lehrbetriebs und der Berufsbildner*innen ist gesetzlich verankert.
->* Ein **Klima des Vertrauens** und ein **respektvoller Umgang** sind die Basis für eine erfolgreiche Ausbildung.
->* **Frühzeitiges Erkennen** und **angemessenes Reagieren** auf Probleme können Lernende vor negativen Folgen schützen.
->* Die Merkblattreihe «Gleiche Chancen und korrekter Umgang» bietet Ihnen **konkrete Handlungsempfehlungen** für den Umgang mit schwierigen Situationen.
->* **Offene Kommunikation** und die **aktive Auseinandersetzung** mit den Themen der Merkblattreihe sind essentiell für eine erfolgreiche und chancengerechte Ausbildung.
-
 ---
 ## Weiter
 [[10 Tag 1/30 Merkblätter/02 Fürsorgepflicht des Betriebs\|02 Fürsorgepflicht des Betriebs]]

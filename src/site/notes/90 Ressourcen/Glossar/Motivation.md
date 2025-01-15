@@ -2,20 +2,20 @@
 {"dg-publish":true,"permalink":"/90 Ressourcen/Glossar/Motivation/"}
 ---
 
-# 🔍Was ist es?
+# 🔍Was ist Motivation?
 - **Motivation** ist eine innere **Antriebskraft**, die Menschen dazu bewegt, **Ziele zu setzen und aktiv zu verfolgen**. Sie ist entscheidend für das Lernen und die Arbeitseinstellung.
 - In der **beruflichen Bildung** ist Motivation ein Teil der **Sozialkompetenz** und spiegelt sich in **Begeisterung** und **Engagement** wider.
 - Es gibt zwei Arten von Motivation: **intrinsische Motivation** (innere Anreize wie persönliches Interesse) und **extrinsische Motivation** (äussere Anreize wie Belohnungen).
 - Für **Lernende und Berufsbildner** spielt Motivation eine Schlüsselrolle bei der Erreichung der Ausbildungsziele und beim Erhalt von **Leistungsbereitschaft**.
 
-# ❗Warum es wichtig ist?
+# ❗Warum Motivation wichtig ist?
 - **Erhöht Lernbereitschaft**: Motivation führt dazu, dass Lernende **aktiv am Lernprozess teilnehmen** und sich für neue Inhalte begeistern.
 - **Fördert Selbstständigkeit**: Motivierte Lernende setzen sich **eigene Ziele** und entwickeln eine **zielgerichtete Arbeitsweise**.
 - **Verbessert Teamarbeit**: Motivierte Personen arbeiten oft besser in **Teams**, da sie **Begeisterung und Engagement** teilen.
 - **Steigert Problemlösungsfähigkeiten**: Hohe Motivation begünstigt eine **kreative Herangehensweise** und **Ausdauer** bei Herausforderungen.
 - **Fördert positive Arbeitsatmosphäre**: In einem motivierten Umfeld herrscht oft eine **positive Stimmung**, was zu einer **höheren Produktivität** führt.
 
-# ⛏Wie es funktioniert?
+# ⛏Wie funktioniert Motivation?
 - **Intrinsische Motivation**: Wird durch **Interesse an der Tätigkeit selbst** angetrieben; Lernende, die sich intrinsisch motiviert fühlen, arbeiten oft **aus eigenem Antrieb** an ihren Aufgaben.
 - **Extrinsische Motivation**: Kommt von **äusseren Anreizen** wie Anerkennung, Noten oder finanziellen Belohnungen und ist oft situationsabhängig.
 - **Aufbau von Motivation**: Berufsbildner können die Motivation durch **positive Rückmeldungen**, **herausfordernde Aufgaben** und ein **förderliches Lernumfeld** stärken.
