@@ -3,7 +3,7 @@
 ---
 
 ## Fokus Pubertät
-<iframe src="https://aburossi.github.io/prezi/BBK/prezifokus/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+<iframe src="https://aburossi.github.io/prezi/BBK/prezifokus/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen></iframe>
 
 [Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/prezifokus)
 
