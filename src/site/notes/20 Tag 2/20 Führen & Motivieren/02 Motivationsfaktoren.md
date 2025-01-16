@@ -7,7 +7,7 @@
 
 [Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/fuehrenundmotivieren)
 
->[!note] **Überfliegen** Sie die **Seiten 158-159 im Handbuch**. Machen Sie sich mit den verschiedenen **==Motivationsfaktoren==** und der **==Checkliste** «**Motivation fördern und pflegen**==» vertraut.
+>[!note] **Überfliegen** Sie die **Seiten 158-159 im Handbuch**. Machen Sie sich mit den verschiedenen **==Motivationsfaktoren==** und der ==**Checkliste** «**Motivation fördern und pflegen**»== vertraut.
 >**Besprechen Sie in Ihrer Gruppe die folgenden Reflexionsfragen und halten Sie Ihre Ergebnisse auf dem Miro-Board fest.**
 >---
 >#### Ablauf
