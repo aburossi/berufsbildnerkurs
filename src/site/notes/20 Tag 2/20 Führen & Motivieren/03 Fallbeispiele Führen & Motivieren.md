@@ -4,7 +4,7 @@
 
 ### Auftrag - Fallbeispiele: Lösungsansätze entwickeln und veranschaulichen
 
->[!abstract] In diesem Auftrag analysieren Sie praxisnahe Fallbeispiele und entwickeln gemeinsam Lösungsansätze zur Förderung der [[90 Ressourcen/Glossar/Motivation\|Motivation]] von Lernenden. Diskutieren Sie innerhalb Ihrer Gruppe verschiedene Strategien und Massnahmen, die im jeweiligen Fall hilfreich sein könnten. Visualisieren Sie Ihre Ergebnisse strukturiert auf dem Miro-Board und verknüpfen Sie die Problemfelder mit passenden Motivationsfaktoren, um die Zusammenhänge klar aufzuzeigen.
+>[!abstract] In diesem Auftrag analysieren Sie **praxisnahe Fallbeispiele** und **entwickeln gemeinsam Lösungsansätze zur Förderung der [[90 Ressourcen/Glossar/Motivation\|Motivation]]** von Lernenden. **Diskutieren** Sie innerhalb Ihrer Gruppe **verschiedene Strategien und Massnahmen**, die im jeweiligen Fall hilfreich sein könnten.
 >>[!success] Lernziele
 >>Das Ziel des Auftrags ist, dass Sie...
 >>* ...praxisbezogene Fallbeispiele analysieren und passende Lösungsansätze entwickeln können.
@@ -18,15 +18,17 @@
    - Lesen Sie das Fallbeispiel aufmerksam und analysieren Sie die Situation. Notieren Sie die identifizierten **Problemfelder** der lernenden Person (z.B. Motivationsprobleme, Überforderung, persönliche Herausforderungen).
    - Schreiben Sie die **Problemfelder** auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764613280707074&cot=14) auf blauen Post-its (linke Spalte) (ca. 5 Minuten)
 3. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 10 Minuten):** 
-   Entwickeln Sie gemeinsam **Motivationsfaktoren und Lösungsansätze**, die die Motivation der lernenden Person gezielt fördern könnten. Begründen Sie Ihre Vorschläge und überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld wirken könnten. Halten Sie die Ergebnisse auf gelben Post-its (rechte Spalte) auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764613280707074&cot=14) fest.
+   - Entwickeln Sie gemeinsam **Motivationsfaktoren und Lösungsansätze**, die die Motivation der lernenden Person gezielt fördern könnten. 
+   - **Begründen Sie Ihre Vorschläge** und **überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld** wirken könnten. 
+   - Halten Sie die Ergebnisse auf **gelben Post-its** (rechte Spalte) auf dem **[Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764613280707074&cot=14)** fest.
    *Hinweis: In der Praxis gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.*
-4. Verknüpfen Sie die Post-its durch **Verbundpfeile** und beschriften Sie die Pfeile kurz, um die Zusammenhänge zwischen Problemfeldern und Motivationsfaktoren zu verdeutlichen. Ein Problemfeld kann mit mehreren Motivationsfaktoren oder andere Problemfelder verbunden sein.
+4. **Verknüpfen Sie die Post-its durch **Verbundpfeile** und beschriften Sie die Pfeile kurz, um die **Zusammenhänge zwischen Problemfeldern und Motivationsfaktoren zu verdeutlichen**. Ein Problemfeld kann mit mehreren Motivationsfaktoren oder andere Problemfelder verbunden sein.
 5. **Präsentation der Ergebnisse (ca. 2 Minuten pro Gruppe):** Jede Gruppe stellt ihren Fall und ihre Ergebnisse im Plenum vor. Erklären Sie die identifizierten Problemfelder und die Verknüpfung mit den Motivationsfaktoren sowie die vorgeschlagenen Lösungsansätze.
 
 >[!Warning] **Hinweise zur Bearbeitung:**
->- Nutzen Sie die im Handbuch vorgestellten Strategien zur Motivation von Lernenden und denken Sie daran, dass Motivation individuell gefördert werden sollte.
->- Diskutieren Sie verschiedene Ansätze innerhalb Ihrer Gruppe und einigen Sie sich auf die bestmöglichen Vorschläge.
->- Verwenden Sie das Miro-Board, um Ihre Diskussion strukturiert und übersichtlich festzuhalten.
+>- Nutzen Sie die im **Handbuch** vorgestellten **Strategien zur Motivation von Lernenden**.
+>- Teilen Sie **verschiedene Ideen** innerhalb Ihrer Gruppe, wie **Sie mit der Situation im Betrieb umgehen würden**.
+
 
 >[!note]- Material **Fallbeispiel 1: Die unmotivierte Kauffrau**
 >Sarah ist eine Lernende im 2. Lehrjahr als Kauffrau in einem mittelgrossen Unternehmen. Seit einigen Wochen zeigt sie eine starke Unlust. Sie erledigt ihre Aufgaben nur noch widerwillig, wirkt oft abwesend und macht vermehrt Fehler. Ihre Kollegen berichten, dass sie sich zurückzieht und wenig kommuniziert. Im Gespräch mit ihrer Berufsbildnerin gibt Sarah an, dass sie keine Motivation mehr hat und den Beruf wechseln möchte. Sie fühlt sich unterfordert und gelangweilt von den immer gleichen Aufgaben und sieht keinen Sinn mehr in ihrer Tätigkeit. Ausserdem erwähnt sie persönliche Probleme zu Hause, die sie zusätzlich belasten.
