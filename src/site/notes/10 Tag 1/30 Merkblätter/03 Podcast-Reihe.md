@@ -26,7 +26,7 @@
    - Hören Sie den Podcast aufmerksam an und notieren Sie sich **wichtige Erkenntnisse und Empfehlungen**, die im Podcast vorgestellt werden.
    
 2. **Bearbeitung auf dem Miro-Board (10 Minuten):**
-   - Suchen Sie auf dem [Miro-Board den Bereich](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764606014111389&cot=14), der Ihrem gewählten Thema entspricht.
+   - Suchen Sie auf dem [Miro-Board den Bereich](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764613274960583&cot=14), der Ihrem gewählten Thema entspricht.
    - Arbeiten Sie gemeinsam mit den anderen Teilnehmenden, die dasselbe Thema gewählt haben, an diesem Bereich.
    - Sammeln Sie Ihre **Erkenntnisse, Ideen und Empfehlungen** auf Post-its und ordnen Sie sie so an, dass sie für andere klar verständlich sind.
    - Strukturieren Sie die Post-its in Kategorien wie **Schlüsselideen**, **Herausforderungen** und **Empfehlungen**, um eine übersichtliche Darstellung zu ermöglichen.
