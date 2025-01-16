@@ -23,13 +23,13 @@
 >    - Schreiben Sie während der Diskussion zu jedem dieser Themen Ihre wichtigsten Gedanken, Beispiele oder Ansätze als **Stichworte oder kurze Sätze auf Post-its**.
 >> [!Questions]- **Diskussionsfragen:**
 >>1. **Anwendung von Instruktionsmethoden in Ihrem Betrieb:**
->>- **Frage:** Welche Instruktionsmethoden werden in Ihrem Betrieb angewendet? Nennen Sie konkrete Beispiele, bei denen die Instruktionsmethode und die 6-Schritte-Methode zum Einsatz kamen.
+>>- **Frage:** Welche Instruktionsmethoden werden in Ihrem Betrieb angewendet? Nennen Sie konkrete Beispiele, bei denen die Instruktionsmethode und die 6-Schritte-Methode zum Einsatz kommen.
 >>
 >>2. **Herausforderungen bei der Anwendung:**
 >>- **Frage:** Welche Herausforderungen sehen Sie bei der Anwendung der verschiedenen Instruktionsmethoden in Ihrem Betrieb? Wie gehen Sie mit diesen Herausforderungen um?
 >>
 >> 3. **Förderung des autonomen Lernens:**
->>- **Frage:** Wie können Sie das selbstständige Lernen Ihrer Lernenden fördern? Welche Maßnahmen könnten Sie ergreifen, um die Selbstständigkeit und Eigeninitiative zu stärken?
+>>- **Frage:** Wie können Sie das selbstständige Lernen Ihrer Lernenden fördern? Welche Massnahmen könnten Sie ergreifen, um die Selbstständigkeit und Eigeninitiative zu stärken?
 >
 > **Ergebnisse festhalten:**
 >
