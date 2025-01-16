@@ -12,10 +12,11 @@
 >---
 >#### Ablauf
 >1. Überfliegen Sie die Seiten 246-250 im Handbuch und machen Sie sich mit den **wichtigsten Aspekten der Projektarbeit** vertraut. Denken Sie dabei an Ihren eigenen Berufs- oder Praxisbezug und an passende Beispiele.
->2. In Ihrer Gruppe finden Sie auf dem Miro-Board zwei beschriftete Bereiche:
->- **Herausforderungen und Lösungen bei der Projektarbeit:**  Notieren Sie typische Herausforderungen wie Zeitmanagement, Ressourcenknappheit oder fachliche Anforderungen.
+>2. In Ihrer Gruppe finden Sie auf dem Miro-Board drei beschriftete Bereiche:
+>- **Projektideen**: Notieren Sie für Ihren Beruf eine oder mehreren Projektideen
+>- **Herausforderungen und Lösungen bei der Projektarbeit:**  Notieren Sie typische Herausforderungen.
 >- **Erfolgsfaktoren aus diesen Beispielen:**  Halten Sie in diesem Bereich Best Practices oder Empfehlungen fest, die sich aus Ihren Erfahrungen oder den behandelten Beispielen ergeben.
->3. Bearbeiten Sie während der Gruppenarbeit die vorbereiteten Bereiche auf dem Miro-Board mit Stichworten oder kurzen Sätzen. Verwenden Sie die Post-its auf Miro, um Ihre wichtigsten Gedanken und Ideen festzuhalten. Formulieren Sie Ihre Notizen prägnant und auf den Punkt gebracht.
+>4. Bearbeiten Sie während der Gruppenarbeit die vorbereiteten Bereiche auf dem Miro-Board mit Stichworten oder kurzen Sätzen. Verwenden Sie die Post-its auf Miro, um Ihre wichtigsten Gedanken und Ideen festzuhalten. Formulieren Sie Ihre Notizen prägnant und auf den Punkt gebracht.
 >
 >>[!Questions]- Diskussionsfragen:
 >>- Wie können Sie die Lernenden bei der **Auswahl** eines geeigneten **Projektthemas** unterstützen?
