@@ -5,9 +5,7 @@
 # Kurs für BerufsbildnerInnen
 ![welcome.webp|600](/img/user/welcome.webp)
 ## Willkommen an der Berufsbildungsschule Winterthur!
-
 Navigieren Sie links durch die Einheiten des Kurses. 
-
 >[!info] Internet-Zugang
 >Netz: BBW-Guest
 >Benutzername: Berufsbildnerkurs
