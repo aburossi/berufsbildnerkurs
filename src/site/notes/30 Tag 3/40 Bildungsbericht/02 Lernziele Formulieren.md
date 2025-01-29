@@ -30,7 +30,7 @@
 >>   - Achtet darauf, dass jedes verbesserte Ziel den Kriterien der jeweiligen Methode entspricht.
 
 **Ergebnisse festhalten:**  
-Die überarbeiteten Ziele werden auf **Post-its** geschrieben und auf dem vorhandenen Miro-Board in den entsprechenden Bereichen angeheftet.  
+Die Ziele werden auf **Post-its** direkt auf dem vorhandenen Miro-Board in den entsprechenden Bereichen überarbeitet.  
 
 ---
 
