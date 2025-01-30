@@ -3,6 +3,7 @@
 ---
 
 ### Übersicht Vier-Ohren-Modell
-- [ ] [[30 Tag 3/10 Vier-Ohren Modell/01 Missverständnisse im Alltag\|01 Missverständnisse im Alltag]]
-- [ ] [[30 Tag 3/10 Vier-Ohren Modell/02 Das Vier-Ohren-Modell\|02 Das Vier-Ohren-Modell]]
-- [ ] [[30 Tag 3/10 Vier-Ohren Modell/03 Anwendung Vier-Ohren-Modell\|03 Anwendung Vier-Ohren-Modell]]
+- [ ] [[30 Tag 3/20 Gespräche&Konflikte/01 Berufliche Gespräche\|01 Berufliche Gespräche]]
+- [ ] [[30 Tag 3/20 Gespräche&Konflikte/02 Der Interventionsleitfaden als Methode\|02 Der Interventionsleitfaden als Methode]]
+- [ ] [[30 Tag 3/20 Gespräche&Konflikte/03 Anwendung des Interventionsleitfadens\|03 Anwendung des Interventionsleitfadens]]
+- [ ] [[30 Tag 3/20 Gespräche&Konflikte/04 Fazit Gespräche&Konflikte\|04 Fazit Gespräche&Konflikte]]
