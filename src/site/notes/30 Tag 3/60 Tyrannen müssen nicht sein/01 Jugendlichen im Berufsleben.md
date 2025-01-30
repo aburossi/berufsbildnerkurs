@@ -21,7 +21,7 @@
 > - **Strategien** entwickeln können, um auf entsprechende Verhaltensweisen professionell zu reagieren.
 > - **Individuelle Unterstützungsmassnahmen** für Lernende planen und umsetzen können.
 
->[!question]- **Teil I**
+>[!question]- Teil I - **Die Beziehungsstörungen**
 > 
 >**Lesen Sie die Kapitel:**
 > 
@@ -73,9 +73,18 @@
 - **Welche Beobachtungen haben Sie in Ihrem Berufsalltag gemacht, die auf solche Beziehungsstörungen hindeuten könnten?**
 - **Wie haben Sie bisher darauf reagiert, und welche Strategien waren erfolgreich?**
 
-<iframe width="100%" height="515" src="https://www.srf.ch/play/embed?urn=urn:srf:video:68ed7367-7f2b-4b3f-8964-8a577c077af7&startTime=201&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+<iframe
+  width="100%"
+  height="515"
+  src="https://www.youtube.com/embed/pDnYtbF3bGw?start=202&end=693"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
->[!question]- **Teil II** Gruppenarbeit
+>[!question]- Teil II **Gruppenarbeit**
 >
 >Wir teilen uns in vier Gruppen auf. Jede Gruppe erhält einen der folgenden Texte:
 >
