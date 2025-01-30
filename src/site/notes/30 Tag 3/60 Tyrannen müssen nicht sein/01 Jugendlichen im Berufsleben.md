@@ -28,10 +28,10 @@
 >1. Einführung
 >2. Beziehungsstörungen
 >
->[!question] Reflexionsfragen
->- **Welche Beziehungsstörung erinnert Sie an eine bekannte Familie oder Person?**
-> - **Erkennen Sie eine dieser Beziehungsstörungen bei Ihrem Lernenden oder Ihrer Lernenden?**
-> - **Wie könnte sich diese Beziehungsstörung auf das Verhalten im Ausbildungsalltag auswirken?**
+>>[!question] Reflexionsfragen
+>>- **Welche Beziehungsstörung erinnert Sie an eine bekannte Familie oder Person?**
+>> - **Erkennen Sie eine dieser Beziehungsstörungen bei Ihrem Lernenden oder Ihrer Lernenden?**
+>> - **Wie könnte sich diese Beziehungsstörung auf das Verhalten im Ausbildungsalltag auswirken?**
 ## Beziehungsstörungen im Detail
 
 >[!info]- Partnerschaftlichkeit
