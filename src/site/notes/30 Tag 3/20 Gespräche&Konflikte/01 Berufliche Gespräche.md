@@ -19,12 +19,7 @@
 > * Sie können die Vorteile einer guten Gesprächsvorbereitung benennen.
 > * Sie reflektieren über Ihre Rolle als Gesprächsführende und Coach.
 
->[!abstract]- **Fazit**
-> * **Effektive Kommunikation:** Strukturierte Gespräche fördern das Verständnis und die Klarheit zwischen Berufsbildenden und Lernenden.
-> * **Konfliktlösung:** Ein klarer Leitfaden hilft, Probleme frühzeitig zu erkennen und anzugehen.
-> * **Vertrauen aufbauen:** Durch professionelle Gesprächsführung wird das Vertrauensverhältnis gestärkt.
-> * **Entwicklung fördern:** Zielgerichtete Gespräche unterstützen die persönliche und berufliche Entwicklung der Lernenden.
-> * **Nachhaltigkeit:** Regelmässige und strukturierte Gespräche tragen zu langfristigem Lernerfolg bei.
+
 
 ## Weiter
 [[30 Tag 3/20 Gespräche&Konflikte/02 Der Interventionsleitfaden als Methode\|02 Der Interventionsleitfaden als Methode]]

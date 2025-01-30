@@ -19,11 +19,5 @@
 > * …Sie bewusster kommunizieren und potenzielle Missverständnisse vermeiden können.
 > * …Sie die Erkenntnisse des Modells in Ihrer Rolle als Berufsbildner anwenden können.
 
-> [!abstract]- Fazit
-> * **Bewusste Kommunikation:** Das Vier-Ohren-Modell sensibilisiert für die verschiedenen Ebenen einer Nachricht.
-> * **Vermeidung von Missverständnissen:** Durch das Verständnis der vier Seiten können Konflikte reduziert werden.
-> * **Professionelles Feedback:** Das Modell unterstützt dabei, Feedback klarer und konstruktiver zu gestalten.
-> * **Persönliche Entwicklung:** Die Reflexion des eigenen Kommunikationsverhaltens fördert die persönliche und berufliche Weiterentwicklung.
-
 ## Weiter
 [[30 Tag 3/10 Vier-Ohren Modell/02 Das Vier-Ohren-Modell\|02 Das Vier-Ohren-Modell]]

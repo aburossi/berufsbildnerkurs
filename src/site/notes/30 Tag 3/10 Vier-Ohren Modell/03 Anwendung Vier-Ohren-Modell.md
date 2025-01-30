@@ -48,3 +48,5 @@
 
 ---
 
+## Weiter
+[[30 Tag 3/10 Vier-Ohren Modell/04 Fazit Vier-Ohren Modell\|04 Fazit Vier-Ohren Modell]]
