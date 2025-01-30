@@ -107,4 +107,4 @@ Die Gespräche beginnen mit einem informellen, persönlichen Gespräch, werden d
 >>3. **Auswirkungen** (Wie wirkt das auf mich, auf andere?)
 >>4. **Meine Wünsche / Empfehlungen / Erwartungen / Forderungen**
 
-## Zurück zu [[30 Tag 3/20 Gespräche&Konflikte/03 Anwendung des Interventionsleitfadens#Anwendung des Interventionsleitfadens\|03 Anwendung des Interventionsleitfadens#Anwendung des Interventionsleitfadens]]
+## Zurück zu [[30 Tag 3/20 Gespräche&Konflikte/03 Anwendung des Interventionsleitfadens\|03 Anwendung des Interventionsleitfadens]]
