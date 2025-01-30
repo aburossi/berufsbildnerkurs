@@ -32,4 +32,4 @@
 > **Hinweis:** Je nach Fortschritt können mehrere Gespräche notwendig sein. Bei ausbleibender Verbesserung sollten weitere Schritte in Betracht gezogen werden.
 
 ## Weiter
-[[30 Tag 3/20 Gespräche&Konflikte/03 Vertiefung und Anwendung des Interventionsleitfadens\|03 Vertiefung und Anwendung des Interventionsleitfadens]]
+[[30 Tag 3/20 Gespräche&Konflikte/03 Anwendung des Interventionsleitfadens\|03 Anwendung des Interventionsleitfadens]]

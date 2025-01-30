@@ -4,10 +4,10 @@
 
 ## Das Vier-Ohren-Modell im Detail
 
-> [!abstract]- Kommunikation und Feedback
+> [!abstract] Kommunikation und Feedback
 > **Feedback** ist eine persönliche Rückmeldung über **die Auswirkungen von Gesprächen, Diskussionen oder gemeinsamen Erlebnissen**. Es ist **keine Beurteilung von Personen**, sondern eine **Beschreibung der eigenen Eindrücke und Empfindungen**. Ein erfolgreiches Feedback erfordert, dass die Regeln bekannt sind und der Feedbackgeber sich der Subjektivität seiner Wahrnehmung bewusst ist.
-
-![Pasted image 20241204191742.png](/img/user/Pasted%20image%2020241204191742.png)
+>>[!info]- Sender-Empfänger-Modell
+>>![Pasted image 20241204191742.png](/img/user/Pasted%20image%2020241204191742.png)
 
 >[!quote] Paul Watzlawick zur Kommunikation
 >
@@ -29,6 +29,8 @@ Das **Vier-Ohren-Modell** von Schulz von Thun beschreibt, dass jede Nachricht vi
 4. **Appell**: Was ich bei dir erreichen möchte.
 
 ### Alltagssituationen
+**Reflexion:**
+> Analysieren Sie diese Situationen mithilfe des Vier-Ohren-Modells. **Welche Botschaften** könnten auf den verschiedenen Ebenen **gesendet** und **empfangen** worden sein?
 
 >[!example]- **Beispiel 1** 
 >Eine Mutter betritt das unordentliche Zimmer ihrer 15-jährigen Tochter, schüttelt den Kopf und verlässt kommentarlos das Zimmer.
@@ -38,9 +40,5 @@ Das **Vier-Ohren-Modell** von Schulz von Thun beschreibt, dass jede Nachricht vi
 
 >[!example]- **Beispiel 3**
 >Ein Paar sitzt im Auto. Die Frau fährt 90 km/h und der Mann sagt zu ihr: „Man darf hier 100 fahren."
-
-**Reflexion:**
-> Analysieren Sie diese Situationen mithilfe des Vier-Ohren-Modells. Welche Botschaften könnten auf den verschiedenen Ebenen gesendet und empfangen worden sein?
-
 ## Weiter
 [[30 Tag 3/10 Vier-Ohren Modell/03 Anwendung Vier-Ohren-Modell\|03 Anwendung Vier-Ohren-Modell]]
