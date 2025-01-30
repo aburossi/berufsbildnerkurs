@@ -3,7 +3,7 @@
 ---
 
 >[!abstract] **Die Lerndokumentation**
->Stellen Sie sich vor: Ein neuer Lehrling beginnt seine Ausbildung in Ihrem Betrieb. Mit der **Lerndokumentation** möchte man sicherstellen, dass er seine **Lernerfahrungen optimal reflektieren und dokumentieren** kann. Gleichzeitig soll die Dokumentation Ihnen als Berufsbildner eine **Grundlage für gezieltes Feedback und die Förderung der Lernentwicklung** bieten.
+>Ein neuer Lehrling beginnt seine Ausbildung in Ihrem Betrieb. Mit der **Lerndokumentation** möchte man sicherstellen, dass er seine **Lernerfahrungen optimal reflektieren und dokumentieren** kann. Gleichzeitig soll die Dokumentation Ihnen als Berufsbildner eine **Grundlage für gezieltes Feedback und die Förderung der Lernentwicklung** bieten.
 
 >[!note] **Video: Die Bedeutung der Lerndokumentation**
 >Dieses Video stellt die Lerndokumentation als zentrales Werkzeug für die berufliche Ausbildung vor. Es zeigt, wie Lernende ihre Fortschritte reflektieren und dokumentieren können und wie Berufsbildner die Dokumentation als Grundlage für die Begleitung und Förderung nutzen können.  

@@ -2,16 +2,15 @@
 {"dg-publish":true,"permalink":"/30 Tag 3/40 Bildungsbericht/04 Bildungsberichte verbessern/"}
 ---
 
-
 ## Vertiefung: Bildungsberichte analysieren und bewerten
 
 >[!info] **Aufgabe: Analyse und Verbesserung eines Bildungsberichts**
->In dieser Übung analysieren Sie die Formulierungen eines Bildungsberichts kritisch und überarbeiten diese. Ziel ist es, präzise und nachvollziehbare Beurteilungen vorzunehmen, passende Bewertungen (A, B, C oder D) zu vergeben und Ziele sowie Massnahmen nach den SMART-Kriterien zu formulieren.  
-
->[!success] **Lernziele:**
->- Kritisches Bewerten von Formulierungen in Bildungsberichten anhand klarer Kriterien.  
->- Erarbeiten präziser und konstruktiver Beurteilungen in Gruppenarbeit.  
->- Entwickeln konkreter, überprüfbarer Ziele und Massnahmen basierend auf den Bewertungen.  
+>In dieser Übung **analysieren Sie die Formulierungen eines Bildungsberichts** kritisch und überarbeiten diese. Ziel ist es, präzise und nachvollziehbare Beurteilungen vorzunehmen, passende Bewertungen (A, B, C oder D) zu vergeben und Ziele sowie Massnahmen nach den SMART-Kriterien zu formulieren.  
+>
+>>[!success] **Lernziele:**
+>>- Kritisches Bewerten von Formulierungen in Bildungsberichten anhand klarer Kriterien.  
+>>- Erarbeiten präziser und konstruktiver Beurteilungen in Gruppenarbeit.  
+>>- Entwickeln konkreter, überprüfbarer Ziele und Massnahmen basierend auf den Bewertungen.  
 
 **Hilfsmittel:**  
 - S. 129-30. im Ordner («Bildungsbericht»).
@@ -19,10 +18,10 @@
 
 >[!checklist] **Arbeitsschritte:**
 >1. **Vorbereitung:**  
->   - Überfliegen Sie die S. 129ff. im Ordner zum Thema Bildungsbericht, um sich mit den Anforderungen vertraut zu machen.  
+>   - Überfliegen Sie die **S. 129ff. im Handbuch** zum Thema Bildungsbericht, um **sich mit den Anforderungen vertraut zu machen**.  
 >
 >2. **Analyse:**  
->   - Studieren Sie die bestehenden Formulierungen im Bildungsbericht.  
+>   - Studieren Sie die bestehenden Formulierungen im zugeteilten Bildungsbericht.  
 >   - Besprechen Sie in Ihrer Gruppe, wie die Formulierungen überarbeitet werden sollten, um den folgenden Kriterien zu entsprechen:  
 >     - **Zu kurz und unspezifisch:** Aussagen wie "gut" oder "entspricht den Anforderungen" sollten präzisiert werden.  
 >     - **Mangelnde Konkretisierung:** Ergänzen Sie konkrete Beispiele für Leistungen oder Verhaltensweisen.  
@@ -31,10 +30,10 @@
 >     - **Einseitige positive Beurteilung:** Zeigen Sie Entwicklungspotenziale auf, auch bei guten Leistungen.  
 >
 >3. **Bewertung:**  
->   - Diskutieren Sie in Ihrer Gruppe, welche Bewertung (A, B, C oder D) Sie auf Basis der überarbeiteten Formulierungen der lernenden Person geben würden.  
+>   - **Diskutieren** Sie in Ihrer Gruppe, welche **Bewertung (A, B, C oder D)** Sie auf Basis der überarbeiteten Formulierungen der lernenden Person geben würden.  
 >
 >4. **Zielsetzung:**  
->   - Formulieren Sie unter Punkt 9 «Ziele und Massnahmen» konkrete und überprüfbare Ziele nach den SMART-Kriterien (Spezifisch, Messbar, Erreichbar, Relevant, Zeitgebunden).  
+>   - **Formulieren** Sie unter **Punkt 9 «Ziele und Massnahmen» konkrete und überprüfbare Ziele** nach den **SMART-Kriterien** (Spezifisch, Messbar, Erreichbar, Relevant, Zeitgebunden).  
 >   - Orientieren Sie sich dabei an Ihrer Bewertung und den identifizierten Entwicklungsfeldern.  
 >
 >5. **Dokumentation:**  
@@ -50,7 +49,3 @@
 >4. Wie haben Sie die SMART-Kriterien auf die formulierten Ziele angewandt?  
 >5. Was nehmen Sie aus dieser Übung für Ihre zukünftige Arbeit mit Bildungsberichten mit?  
 
----
-
->[!quote]- Hilfsmittel
->Nutzen Sie die S. 129ff. im Ordner, um sicherzustellen, dass Ihre Überarbeitungen, Bewertungen und Ziele den Anforderungen eines Bildungsberichts entsprechen.

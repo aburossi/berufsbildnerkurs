@@ -30,14 +30,9 @@
 >>   - Achtet darauf, dass jedes verbesserte Ziel den Kriterien der jeweiligen Methode entspricht.
 
 **Ergebnisse festhalten:**  
-Die Ziele werden auf **Post-its** direkt auf dem vorhandenen Miro-Board in den entsprechenden Bereichen überarbeitet.  
-
----
-
->[!quote]- Miro-Board
-><iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+Die Ziele werden auf **Post-its** direkt auf dem vorhandenen [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764615030238466&cot=14) in den entsprechenden Bereichen überarbeitet.  
 
 ---
 
 ## Weiter
-[[03 Praktische Anwendung\|03 Praktische Anwendung]]
+[[30 Tag 3/40 Bildungsbericht/03 Bildungsberichte\|03 Bildungsberichte]]

@@ -23,14 +23,10 @@
     - Besprechen Sie in der Gruppe, wie Sie die Punkte der Checkliste mit Ihren Lernenden in **Beruf** umsetzen. **Wie haben Sie es während der Lehre gemacht? Wie wird es jetzt im Betrieb gehandhabt?**
 2. **Visualisierung der Best Practices (ca. 10 Minuten):**
     
-    - Schreiben Sie **die wichtigsten Tipps**, die für Lernende in Ihrem Beruf besonders relevant und nützlich sind, auf Miro-Post-its.
-    - Platzieren Sie die Post-its in den Bereiche auf dem Miro-Board:
+    - Schreiben Sie **die wichtigsten Tipps**, die für Lernende in Ihrem Beruf besonders relevant und nützlich sind, auf Post-its auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764615030238463&cot=14).
+    - Platzieren Sie die Post-its in den entsprechenden Bereiche.
 
 3. **Ergebnis: Sammlung von berufsspezifischen Checkpunkten:**
     
     - Auf dem Miro-Board entsteht eine **Sammlung von Checkpunkten**, die an die unterschiedlichen beruflichen Kontexte der Teilnehmenden angepasst sind. Diese Sammlung dient Ihnen und den anderen als **Inspiration für die Erstellung einer eigenen Checkliste**, die an die Bedürfnisse der Lernenden in Ihrem jeweiligen Beruf angepasst ist.
 
----
-
->[!quote]- Miro-Board
-><iframe width="100%" height="632" src="https://miro.com/app/live-embed/uXjVLSVkoek=/?moveToViewport=-1540,-1522,1627,1177&embedId=424039572136" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
