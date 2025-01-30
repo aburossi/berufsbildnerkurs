@@ -42,4 +42,4 @@
 ---
 
 ## Weiter
-[[02 Weitere Schritte: Methoden der Lerndokumentation\|02 Weitere Schritte: Methoden der Lerndokumentation]]
+[[30 Tag 3/30 Lerndokumentation und Bildungsbericht/02 Die Lerndokumentation\|02 Die Lerndokumentation]]

@@ -26,3 +26,6 @@
 
 **Abstimmung (ca. 5 Minuten)**  
     Nach der Diskussion überfliegen alle Teilnehmenden die Post-its der anderen Gruppenbereiche. Anschliessend geben Sie Ihre Stimmen für die besten Ansätze ab. Nutzen Sie das Polling-Tool von Miro, um Ihre Favoriten zu wählen. Jeder Teilnehmende hat **eine bestimmte Anzahl von Stimmen**, die er auf die Post-its der verschiedenen Gruppen verteilen kann.
+
+## Weiter
+[[30 Tag 3/30 Lerndokumentation und Bildungsbericht/03 Best Practices Lerndokumentation\|03 Best Practices Lerndokumentation]]

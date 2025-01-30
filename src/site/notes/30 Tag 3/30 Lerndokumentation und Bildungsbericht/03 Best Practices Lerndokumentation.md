@@ -30,3 +30,5 @@
     
     - Auf dem Miro-Board entsteht eine **Sammlung von Checkpunkten**, die an die unterschiedlichen beruflichen Kontexte der Teilnehmenden angepasst sind. Diese Sammlung dient Ihnen und den anderen als **Inspiration für die Erstellung einer eigenen Checkliste**, die an die Bedürfnisse der Lernenden in Ihrem jeweiligen Beruf angepasst ist.
 
+## Weiter
+[[30 Tag 3/30 Lerndokumentation und Bildungsbericht/04 Fazit Lerndokumentation\|04 Fazit Lerndokumentation]]
