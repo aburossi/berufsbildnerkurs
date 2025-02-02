@@ -4,18 +4,18 @@
 
 ## Das Vier-Ohren-Modell im Detail
 
-> [!abstract] ### Kommunikation und Feedback
+> [!abstract] Kommunikation und Feedback
 > **Feedback** ist eine persönliche Rückmeldung über **die Auswirkungen von Gesprächen, Diskussionen oder gemeinsamen Erlebnissen**. Es ist **keine Beurteilung von Personen**, sondern eine **Beschreibung der eigenen Eindrücke und Empfindungen**. Ein erfolgreiches Feedback erfordert, dass die Regeln bekannt sind und der Feedbackgeber sich der Subjektivität seiner Wahrnehmung bewusst ist.
 >>[!info]- Sender-Empfänger-Modell
 >>![Pasted image 20241204191742.png](/img/user/Pasted%20image%2020241204191742.png)
-
->[!quote] Paul Watzlawick zur Kommunikation
 >
-> *"Man kann nicht nicht kommunizieren."*
->
-> *"Jeder meint, dass seine Wirklichkeit die wirkliche Wirklichkeit ist."*
->
-> *"Der Andersdenkende ist kein Idiot, er hat sich eben eine andere Wirklichkeit konstruiert."*
+>>[!quote] Paul Watzlawick zur Kommunikation
+>>
+>> *"Man kann nicht nicht kommunizieren."*
+>>
+>> *"Jeder meint, dass seine Wirklichkeit die wirkliche Wirklichkeit ist."*
+>>
+>> *"Der Andersdenkende ist kein Idiot, er hat sich eben eine andere Wirklichkeit konstruiert."*
 
 
 ### Grundlagen des Vier-Ohren-Modells
