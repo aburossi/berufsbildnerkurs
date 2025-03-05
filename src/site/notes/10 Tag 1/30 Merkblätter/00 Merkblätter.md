@@ -4,6 +4,9 @@
 
 ### Übersicht Merkblätter
 
-- [ ] [[10 Tag 1/30 Merkblätter/01 Gleiche Chancen und korrekter Umgang\|01 Gleiche Chancen und korrekter Umgang]]
-- [ ] [[10 Tag 1/30 Merkblätter/02 Fürsorgepflicht des Betriebs\|02 Fürsorgepflicht des Betriebs]]
-- [ ] [[10 Tag 1/30 Merkblätter/03 Podcast-Reihe\|03 Podcast-Reihe]]
+- [[10 Tag 1/30 Merkblätter/01 Gleiche Chancen und korrekter Umgang\|01 Gleiche Chancen und korrekter Umgang]]
+- [[10 Tag 1/30 Merkblätter/02 Fürsorgepflicht des Betriebs\|02 Fürsorgepflicht des Betriebs]]
+- [[10 Tag 1/30 Merkblätter/03 Podcast-Reihe\|03 Podcast-Reihe]]
+- [[10 Tag 1/30 Merkblätter/04 Fazit Merkblätter\|04 Fazit Merkblätter]]
+
+{ .block-language-dataview}
