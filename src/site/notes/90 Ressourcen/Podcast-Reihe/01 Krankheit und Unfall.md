@@ -26,6 +26,9 @@ Die Episode beleuchtet die **Pflichten von Berufsbildnern** und zeigt auf, wie s
 >>[14:00] - Präventionsmassnahmen im Betrieb: Wie Berufsbildner und Lernende gemeinsam Unfälle vermeiden
 >>[16:00] - Verantwortungsübernahme durch den Lehrbetrieb: Konsequenzen bei Vernachlässigung der Sorgfaltspflicht
 
+>[!bug] Pinboard
+><iframe src="https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+
 >[! tip] **Links & Ressourcen:**
 >- [Merkblatt 203 zur Prävention und Handhabung von Krankheit und Unfall](https://www.berufsbildung.ch/de/dokumente/merkblatt-203-krankheit-und-unfall)
 >- Informationen zur [Unfallversicherung]([Unfallversicherung](https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html)) und [Krankentaggeldversicherung]([Krankenversicherung: Die freiwillige Taggeldversicherung](https://www.bag.admin.ch/bag/de/home/versicherungen/krankenversicherung/krankenversicherung-versicherte-mit-wohnsitz-in-der-schweiz/freiwillige-taggeldversicherung.html))

@@ -35,6 +35,9 @@ Die **zweite Episode** basiert auf dem **Merkblatt 209 „Sexuelle Belästigung�
 >>[07:10] - Rechtliche Konsequenzen und Dokumentationspflicht bei Vorfällen  
 >>[09:30] - Zivilrechtliche Möglichkeiten für Betroffene und Unterstützung durch Beratungsstellen
 
+>[!bug] Pinboard
+><iframe src="https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+
 >[! tip] **Links & Ressourcen:**
 >- [Merkblatt 202 – Gleichstellung in der Berufsbildung](https://www.berufsbildung.ch/de/dokumente/merkblatt-202-gleichstellung)
 >- [Bundesgesetz über die Gleichstellung von Frau und Mann](https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/de))

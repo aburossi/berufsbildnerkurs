@@ -30,6 +30,9 @@ Beide **Episoden** behandeln Themen in Zusammenhang mit dem **Nachteilausgleich*
 >>[08:00] - Visuelle Hilfen und klare Anweisungen im Arbeitsalltag  
 >>[09:00] - Einsatz von Hilfsmitteln bei spezifischen Lernschwierigkeiten
 
+>[!bug] Pinboard
+><iframe src="https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+
 >[! tip] **Links & Ressourcen:**
 >- [Merkblatt Legasthenie und Dyskalkulie](http://www.berufsbildung.ch)
 >- [Merkblatt Nachteilsausgleich](https://www.berufsbildung.ch/de/dokumente/merkblatt-213-nachteilsausgleich-fuer-menschen-mit-behinderung-der-berufsbildung)  

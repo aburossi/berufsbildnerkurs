@@ -10,7 +10,7 @@
 > > Das Ziel des Auftrags ist, dass Sie...
 > > * ...das Thema **Gleiche Chancen und korrekter Umgang** aus verschiedenen Perspektiven kennenlernen und reflektieren.
 > > * ...**konkrete Ideen und Massnahmen** entwickeln, um Chancengleichheit und respektvollen Umgang in Ihrer Ausbildungspraxis zu fördern.
-> > * ...Ihre **Erkenntnisse visuell** auf dem Miro-Board teilen und im Austausch mit anderen vertiefen.
+> > * ...Ihre **Erkenntnisse visuell** auf dem Pinboard teilen und im Austausch mit anderen vertiefen.
 
 ---
 ## Themen
@@ -26,10 +26,9 @@
    - Hören Sie den Podcast aufmerksam an und notieren Sie sich **wichtige Erkenntnisse und Empfehlungen**, die im Podcast vorgestellt werden.
    
 2. **Bearbeitung auf dem Miro-Board (10 Minuten):**
-   - Suchen Sie auf dem [Miro-Board den Bereich](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764613274960583&cot=14), der Ihrem gewählten Thema entspricht.
-   - Arbeiten Sie gemeinsam mit den anderen Teilnehmenden, die dasselbe Thema gewählt haben, an diesem Bereich.
-   - Sammeln Sie Ihre **Erkenntnisse, Ideen und Empfehlungen** auf Post-its und ordnen Sie sie so an, dass sie für andere klar verständlich sind.
-   - Strukturieren Sie die Post-its in Kategorien wie **Schlüsselideen**, **Herausforderungen** und **Empfehlungen**, um eine übersichtliche Darstellung zu ermöglichen.
+   - Suchen Sie auf dem [Pinboard den Bereich](https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00), der Ihrem gewählten Thema entspricht.
+   - Sammeln Sie Ihre **Erkenntnisse, Ideen und Empfehlungen** auf Karten und formulieren Sie sie so, dass sie für andere klar verständlich sind.
+   - Strukturieren Sie die Karten in Kategorien wie **Schlüsselideen**, **Herausforderungen** und **Empfehlungen**, um eine übersichtliche Darstellung zu ermöglichen.
 
 3. **Präsentation und Austausch im Plenum (10 Minuten):**
    - Jeder Themenbereich wird kurz vorgestellt, sodass alle Teilnehmenden die wichtigsten Punkte und Handlungsempfehlungen aus jedem Podcast kennenlernen.
@@ -41,9 +40,9 @@
 >Denken Sie daran, dass es beim Thema „Gleiche Chancen und korrekter Umgang“ wichtig ist, **Respekt und Sensibilität** im Austausch zu bewahren. Unterschiedliche Perspektiven sind willkommen und können eine wertvolle Erweiterung des eigenen Verständnisses sein.
 
 
-**Miro-Übung:**  
-- Die Themenbereiche sind auf dem Miro-Board durch eigene Sektionen für jedes Thema gekennzeichnet.
-- Platzieren Sie Ihre Post-its unter dem entsprechenden Thema und ordnen Sie sie nach den Kategorien **Schlüsselideen**, **Herausforderungen** und **Empfehlungen** an.
+**Pinboard:**  
+- Die Themenbereiche sind auf dem Pinboard durch eigene Sektionen für jedes Thema gekennzeichnet.
+- Platzieren Sie Ihre Karten unter dem entsprechenden Thema und ordnen Sie sie nach den Kategorien **Schlüsselideen**, **Herausforderungen** und **Empfehlungen** an.
 - Nutzen Sie verschiedene Farben für die Kategorien, um eine klare Struktur zu schaffen und das Lesen zu erleichtern.
 ---
 
