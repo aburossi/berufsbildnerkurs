@@ -8,8 +8,8 @@
 Navigieren Sie links durch die Einheiten des Kurses. 
 >[!info] Internet-Zugang
 >Netz: BBW-Guest
->Benutzername: Berufsbildnerkurs
->Passwort: BBK2HG2025
+>Benutzername: **Berufsbildnerkurs**
+>Passwort: **BBK2HG2025**
 ### [[00 Allgemeine Infos/Daten und Termine\|Daten und Termine]]
 
 | **Tag 1**                                                             | **Tag 2** | **Tag 3** |
