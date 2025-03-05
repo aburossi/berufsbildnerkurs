@@ -12,9 +12,9 @@
 >* Ein **gutes Verhältnis** und eine **unterstützende Lernumgebung** sind wichtig, damit der/die Lernende **Vertrauen entwickelt und sich wohlfühlt**.
 >>[!question]- Diskussion: Vorbildwirkung im Berufsalltag
 >>Die Rolle als Berufsbildner/in fordert nicht nur fachliche Kompetenz, sondern auch persönliche Stärke. Diskutieren Sie die folgenden Fragen in Ihrer Gruppe:
->>* Welche Ihrer *täglichen Verhaltensweisen und Einstellungen beeinflussen die Lernenden* besonders?
->>* Welche Herausforderungen haben Sie in Ihrer Vorbildfunktion erlebt?
->>* Wie stellen Sie sicher, auch in schwierigen Momenten ein positives Vorbild für die Lernenden zu sein?
+>>* Welche Ihrer *täglichen Verhaltensweisen* und *Einstellungen* **beeinflussen die Lernenden** besonders?
+>>* Welche *Herausforderungen* haben Sie in Ihrer **Vorbildfunktion** erlebt?
+>>* Wie stellen Sie sicher, auch in *schwierigen Momenten* ein **positives Vorbild für die Lernenden** zu sein?
 
 > [!success]- Lernziele
 >In diesem Modul beschäftigen wir uns mit der **Vorbilderrolle** und der Bedeutung des Coachings für die Entwicklung von Lernenden. Wir betrachten, wie Ihre Einstellung und Verhaltensweisen die Lernenden beeinflussen, und erarbeiten Strategien zur individuellen Förderung. Das Ziel dieses Moduls ist, dass…
