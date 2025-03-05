@@ -23,8 +23,8 @@
    - Es gibt **drei Situationen**, die nacheinander durchgespielt werden. Jede Gruppe beginnt mit Situation 1.
 
 4. **Vorbereitung:**
-   - **Beobachter/in**: Verteilt die Karte dem Lernende und liest die **Situationsbeschreibung** laut vor, um dem/der Berufsbildner/in den Anstoss für das Gespräch zu geben.
-   - **Lernende/r**: Erhält die **Materialkarte** mit Anweisungen zum Verhalten in der Rolle.
+   - **Beobachter/in**: Verteilt die **rote Materialkarte** dem Lernende und liest die **Situationsbeschreibung** (orange Karte) laut vor, um dem/der Berufsbildner/in den Anstoss für das Gespräch zu geben.
+   - **Lernende/r**: Erhält die **rote Materialkarte**  mit Anweisungen zum Verhalten in der Rolle als Lernende.
    - **Beobachter/in**: Bekommt spezifische **Beobachtungskriterien**, um während des Rollenspiels Notizen zu machen.
 
 5. **Rollenspiel:** 10-15 Minuten
@@ -35,6 +35,13 @@
    - Nach drei Rollenspiele geben sich die Teilnehmer Feedback (10') basierend auf den Beobachtungskriterien.
    - **Rollenspieler/innen** reflektieren ihre Erfahrungen und diskutieren alternative Handlungsmöglichkeiten.
    - Jede Gruppe füllt auf dem [Pinboard](https://tools.fobizz.com/pinboard/public_boards/1617194e-414a-4c2b-b963-8c2b1b3b999d?token=285c9c3ebd0aa8e230879a4e9034f192) für jede Situation einen Bereich mit je einer Karte zu **Herausforderungen**, **Strategien Berufsbildner*in*** und **Verhaltensweisen Lernende** aus.
+
+7. Reflexion auf dem Pinboard
+- Nach der Diskussion füllt jede Gruppe auf dem [Pinboard](https://tools.fobizz.com/pinboard/public_boards/1617194e-414a-4c2b-b963-8c2b1b3b999d?token=285c9c3ebd0aa8e230879a4e9034f192) für jede Situation einen Bereich mit je einer Karte aus:
+
+- **Herausforderungen:** Welche Schwierigkeiten sind in der Situation aufgetreten?
+- **Strategien:** Welche Methoden wurden eingesetzt, um die Situation zu bewältigen?
+- **Verhaltensweisen:** Wie haben sich die Beteiligten verhalten? Was war hilfreich, was weniger?
 
 7. **Plenumsdiskussion:**
    - Gemeinsam reflektieren wir:
@@ -187,9 +194,9 @@
 
 ---
 
-### Reflexion auf dem Miro-Board
+### Reflexion auf dem Pinboard
 
-Nach den Rollenspielen füllt jede Gruppe auf dem Miro-Board für jede Situation einen Bereich mit je einem Post-it aus:
+Nach den Rollenspielen füllt jede Gruppe auf dem [Pinboard](https://tools.fobizz.com/pinboard/public_boards/1617194e-414a-4c2b-b963-8c2b1b3b999d?token=285c9c3ebd0aa8e230879a4e9034f192) für jede Situation einen Bereich mit je einer Karte aus:
 
 - **Herausforderungen:** Welche Schwierigkeiten sind in der Situation aufgetreten?
 - **Strategien:** Welche Methoden wurden eingesetzt, um die Situation zu bewältigen?
@@ -210,8 +217,6 @@ Zum Abschluss diskutieren wir gemeinsam:
 
 ---
 
-> [!quote]- **Miro-Board**
-> <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVLKN6QrM=/?moveToViewport=-7076,-5840,14566,7810&embedId=687871178949" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ---
 
