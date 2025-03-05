@@ -12,14 +12,14 @@ Navigieren Sie links durch die Einheiten des Kurses.
 >Passwort: BBK2HG2025
 ### [[00 Allgemeine Infos/Daten und Termine\|Daten und Termine]]
 
-| **Tag 1**                                                                                                                | **Tag 2** | **Tag 3** |
-| ------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |
-| [[00 Allgemeine Infos/Vorstellungsrunde\|Vorstellungsrunde]]                                                                                                    |           |           |
-| [[10 Tag 1/10 Rolle BerufsbildnerIn/00 Rolle Berufsbildnerin\|00 Rolle Berufsbildnerin]]                                                                                             |           |           |
-| [[10 Tag 1/20 Eigenheiten junger Erwachsener/00 Eigenheiten junger Erwachsener\|00 Eigenheiten junger Erwachsener]]                                                                                    |           |           |
-| [[10 Tag 1/30 Merkblätter/00 Merkblätter\|00 Merkblätter]]                                                                                                       |           |           |
-| [[10 Tag 1/40 Führen & Motivieren/00 Führen & Motivieren\|00 Führen & Motivieren]]                                                                                               |           |           |
-| [Aufträge asynchroner Tag](https://berufsbildnerkurs.vercel.app/90%20Ressourcen/Dokumentenmappe/00%20Rahmenbedingungen/) |           |           |
+| **Tag 1**                                                             | **Tag 2** | **Tag 3** |
+| --------------------------------------------------------------------- | --------- | --------- |
+| [[00 Allgemeine Infos/Vorstellungsrunde\|Vorstellungsrunde]]                                                 |           |           |
+| [[10 Tag 1/10 Rolle BerufsbildnerIn/00 Rolle Berufsbildnerin\|Rolle Berufsbildnerin]]                   |           |           |
+| [[10 Tag 1/20 Eigenheiten junger Erwachsener/00 Eigenheiten junger Erwachsener\|Eigenheiten junger Erwachsener]] |           |           |
+| [[10 Tag 1/30 Merkblätter/00 Merkblätter\|Merkblätter]]                                       |           |           |
+| [[10 Tag 1/40 Führen & Motivieren/00 Führen & Motivieren\|Führen & Motivieren]]                       |           |           |
+| [[90 Ressourcen/Dokumentenmappe/00 Rahmenbedingungen\|Aufträge asynchroner Tag]]                    |           |           |
 
 
 ---
