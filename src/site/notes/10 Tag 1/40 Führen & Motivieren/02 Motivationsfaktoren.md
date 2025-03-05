@@ -38,7 +38,7 @@
 >- Teilen Sie **verschiedene Ideen** innerhalb Ihrer Gruppe, wie **Sie mit der Situation im Betrieb umgehen würden**.
 
 
->[!note]- Material **Fallbeispiel 1: Die unmotivierte Kauffrau**
+>[!note]- **Fallbeispiel Rot: Die unmotivierte Kauffrau**
 >Sarah ist eine Lernende im 2. Lehrjahr als Kauffrau in einem mittelgrossen Unternehmen. Seit einigen Wochen zeigt sie eine starke Unlust. Sie erledigt ihre Aufgaben nur noch widerwillig, wirkt oft abwesend und macht vermehrt Fehler. Ihre Kollegen berichten, dass sie sich zurückzieht und wenig kommuniziert. Im Gespräch mit ihrer Berufsbildnerin gibt Sarah an, dass sie keine Motivation mehr hat und den Beruf wechseln möchte. Sie fühlt sich unterfordert und gelangweilt von den immer gleichen Aufgaben und sieht keinen Sinn mehr in ihrer Tätigkeit. Ausserdem erwähnt sie persönliche Probleme zu Hause, die sie zusätzlich belasten.
 >
 >**Hinweise zur Unterstützung:**
@@ -50,7 +50,7 @@
 >[!bug]- Pinboard
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/3fd1fa99-9b40-4861-a39f-bf0ea956cd4d?token=e5a64d64e0b6dbd73cf35f2ff77b9e22" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
->[!note]- Material **Fallbeispiel 2: Der frustrierte Polymechaniker**
+>[!note]- **Fallbeispiel Grün: Der frustrierte Polymechaniker**
 >Marco ist ein Lernender im 1. Lehrjahr als Polymechaniker in einem technischen Betrieb. Er ist oft frustriert und wirkt niedergeschlagen. Marco hat Schwierigkeiten, die komplexen theoretischen Grundlagen zu verstehen, die für seine Aufgaben notwendig sind. Trotz Bemühungen kann er die geforderten Arbeiten nicht zufriedenstellend ausführen. Er fühlt sich überfordert und hat das Gefühl, dass er den Anforderungen nicht gewachsen ist. Seine Motivation sinkt zunehmend, und er zieht sich immer mehr zurück. Seine Berufsbildnerin bemerkt, dass er häufig fehlt und sich kaum noch am Unterricht beteiligt.
 >
 >**Hinweise zur Unterstützung:**
@@ -62,7 +62,7 @@
 >[!bug]- Pinboard
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/3fd1fa99-9b40-4861-a39f-bf0ea956cd4d?token=e5a64d64e0b6dbd73cf35f2ff77b9e22" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
->[!note]- Material **Fallbeispiel 3: Die konfliktscheue Detailhandelsfachfrau**
+>[!note]- **Fallbeispiel Grau: Die konfliktscheue Detailhandelsfachfrau**
 >Lisa ist im 3. Lehrjahr ihrer Ausbildung zur Detailhandelsfachfrau in einem grossen Kaufhaus. Sie ist zuverlässig und freundlich zu den Kunden, hat aber Schwierigkeiten im Team. Es gab wiederholt Konflikte mit einer Kollegin, die Lisa jedoch nicht anspricht. Stattdessen zieht sie sich zurück und meidet die Zusammenarbeit mit dieser Kollegin. Ihre Motivation sinkt, und sie wirkt gestresst. Im Gespräch mit ihrem Berufsbildner erwähnt sie, dass sie sich im Team nicht wohlfühlt und überlegt, die Ausbildung abzubrechen.
 >
 >**Hinweise zur Unterstützung:**
@@ -75,7 +75,7 @@
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/3fd1fa99-9b40-4861-a39f-bf0ea956cd4d?token=e5a64d64e0b6dbd73cf35f2ff77b9e22" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
 
->[!note]- Material **Fallbeispiel 4: Der unkonzentrierte Informatiker**
+>[!note]- **Fallbeispiel Orange: Der unkonzentrierte Informatiker**
 >Daniel ist ein Lernender im 2. Lehrjahr als Informatiker in einem Softwareunternehmen. In letzter Zeit ist seine Leistung deutlich zurückgegangen. Er wirkt oft müde und unkonzentriert, verpasst Deadlines und macht Fehler in seinen Programmierungen. Auf Nachfragen gibt er an, dass er Schwierigkeiten hat, sich zu konzentrieren, und nachts schlecht schläft. Er verbringt viel Zeit mit Online-Spielen und sozialen Medien. Seine Motivation für die Ausbildung scheint nachzulassen, obwohl er ursprünglich sehr engagiert war.
 >
 >**Hinweise zur Unterstützung:**
@@ -87,7 +87,7 @@
 >[!bug]- Pinboard
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/3fd1fa99-9b40-4861-a39f-bf0ea956cd4d?token=e5a64d64e0b6dbd73cf35f2ff77b9e22" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
->[!note]- Material **Fallbeispiel 5: Die ehrgeizige Köchin**
+>[!note]- **Fallbeispiel Blau: Die ehrgeizige Köchin**
 >Nina ist im 1. Lehrjahr ihrer Ausbildung zur Köchin in einem renommierten Restaurant. Sie ist sehr ehrgeizig und hat hohe Erwartungen an sich selbst. Bei kleinsten Fehlern reagiert sie stark selbstkritisch und ist schnell enttäuscht von sich. Sie übernimmt zusätzliche Aufgaben und arbeitet oft über ihre Grenzen hinaus. Ihre Berufsbildner bemerken, dass sie zunehmend erschöpft wirkt und ihre Freude an der Arbeit verliert. Sie hat Angst, den hohen Anforderungen nicht gerecht zu werden, und ihre Motivation beginnt zu schwinden.
 >
 >**Hinweise zur Unterstützung:**
