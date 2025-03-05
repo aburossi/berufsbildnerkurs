@@ -31,25 +31,17 @@
 > > 
 > > - **Frage:** Welche **Herausforderungen** sehen Sie in Bezug auf die drei Ansätze und wie könnten Sie diese **meistern**?
 
-**Ergebnisse festhalten:** Auf dem Miro-Board finden Sie **[vier beschriftete Bereiche](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965271&cot=14)**, die den Reflexionsfragen entsprechen:
+**Ergebnisse festhalten:** Auf dem Pinboard finden Sie **[vier beschriftete Bereiche](https://tools.fobizz.com/pinboard/public_boards/d08684f4-97a1-4bce-9c79-772c0b01a871?token=919642dc5532154ffb797cf06da1c76b)**, die den Reflexionsfragen entsprechen:
 
 - **Positives Vorbild**
 - **Coaching-Methoden**
 - **Massgebender Führungsstil**
 - **Herausforderungen und Lösungen**
 
-Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest. Verwenden Sie die Post-its auf Miro, um Ihre wichtigsten Gedanken und Ideen prägnant zu notieren.
+Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest. Erstellen Sie eine neue Karte in der jeweiligen Bereich, um Ihre wichtigsten Gedanken und Ideen prägnant zu notieren.
 
----
-
-**Zusätzliche Schritte:**
-
-1. **Abstimmung (ca. 5 Minuten)**  
-    Nach der Diskussion überfliegen alle Teilnehmenden die Post-its der verschiedenen Bereiche. Anschliessend geben Sie Ihre Stimmen für die besten Ansätze ab. Nutzen Sie das Polling-Tool von Miro, um Ihre Favoriten zu wählen. Jeder Teilnehmende hat **eine bestimmte Anzahl von Stimmen**, die er auf die Post-its der verschiedenen Bereiche verteilen kann.
-    
-2. **Kommentierung der Ergebnisse (ca. 5 Minuten)**  
-    Nach der Abstimmung werden die Ergebnisse visualisiert. Die Ansätze, die die meisten Stimmen erhalten haben, werden als „Best Practices“ hervorgehoben.
-    
+>[!bug]- Pinboard
+><iframe src="https://tools.fobizz.com/pinboard/public_boards/d08684f4-97a1-4bce-9c79-772c0b01a871?token=919642dc5532154ffb797cf06da1c76b" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
 ---
 ## Weiter

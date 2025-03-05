@@ -34,13 +34,17 @@
 6. **Feedbackrunde:**
    - Nach drei Rollenspiele geben sich die Teilnehmer Feedback (10') basierend auf den Beobachtungskriterien.
    - **Rollenspieler/innen** reflektieren ihre Erfahrungen und diskutieren alternative Handlungsmöglichkeiten.
-   - Jede Gruppe füllt auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965273&cot=14) für jede Situation einen Bereich mit je einem Post-it zu **Herausforderungen**, **Strategien Berufsbildner*in*** und **Verhaltensweisen Lernende** aus.
+   - Jede Gruppe füllt auf dem [Pinboard](https://tools.fobizz.com/pinboard/public_boards/1617194e-414a-4c2b-b963-8c2b1b3b999d?token=285c9c3ebd0aa8e230879a4e9034f192) für jede Situation einen Bereich mit je einer Karte zu **Herausforderungen**, **Strategien Berufsbildner*in*** und **Verhaltensweisen Lernende** aus.
 
 7. **Plenumsdiskussion:**
    - Gemeinsam reflektieren wir:
      - Wie können wir uns auf solche Situationen vorbereiten?
      - Welche allgemeinen Strategien lassen sich ableiten?
      - Welche allgemeinen Strategien lassen sich ableiten?
+
+>[!bug]- Pinboard
+><iframe src="https://tools.fobizz.com/pinboard/public_boards/1617194e-414a-4c2b-b963-8c2b1b3b999d?token=285c9c3ebd0aa8e230879a4e9034f192" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+
 
 ---
 

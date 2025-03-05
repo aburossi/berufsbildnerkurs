@@ -10,11 +10,12 @@
 #### Ablauf
 
 1. **Einzelarbeit (10 Minuten):**
-   - Zeichnen Sie auf dem [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965297&cot=14) Ihre **persönliche Lebenskurve** sowie Ihre **Lebenskurve in der Ausbildung**.
+   - Zeichnen Sie direkt unten Ihre **persönliche Lebenskurve** sowie Ihre **Lebenskurve in der Ausbildung**.
    - Markieren Sie besondere **Erfahrungen und Ereignisse**, die für Sie prägend waren.
-   - Reflektieren Sie darüber, wie Sie mit diesen Situationen umgegangen sind.
+   - Laden Sie die Kurven als Bild herunter
 
 2. **Reflexion (10 Minuten):**
+   - Laden Sie das Bild auf dem Pinboard hoch
    - Beantworten Sie die folgenden Fragen:
 
 >[!note]- Reflexionsfragen
@@ -26,6 +27,9 @@
    - Diskussion über Gemeinsamkeiten und Unterschiede in den persönlichen Erfahrungen.
 
 ---
+
+>[!bug]- Lebenskurve zeichnen
+><iframe src="https://bbk-bbw.github.io/canvas/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="1200px" allowfullscreen></iframe>
 
 **Miro-Übung:**  
 - Suchen Sie Ihrem Bereich auf das [Miro-Board](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965297&cot=14), um Ihre **Lebenskurven** zu zeichnen:

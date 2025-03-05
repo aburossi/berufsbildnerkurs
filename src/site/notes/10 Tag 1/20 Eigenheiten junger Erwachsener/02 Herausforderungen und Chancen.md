@@ -12,7 +12,7 @@
 
 >[!note] Überfliegen Sie die Seite(n) 267-268 im Handbuch. Machen Sie sich mit den **wichtigsten Aspekten des Reifeprozesses**, des **Spannungsfeldes zwischen Kindheit und Erwachsenenalter**, der **Ablösung von zu Hause** und der **Bedeutung des Experimentierens in der Adoleszenz** vertraut.
 >
->Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Miro-Board fest.
+>Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Pinboard fest.
 >
 >---
 >
@@ -35,21 +35,17 @@
 
 **Ergebnisse festhalten:**
 
-Auf dem Miro-Board finden Sie **[vier beschriftete Bereiche](https://miro.com/app/board/uXjVLKN6QrM=/?moveToWidget=3458764605551965274&cot=14)**, die den Reflexionsfragen entsprechen:
+Auf dem Pinboard finden Sie **[vier beschriftete Bereiche](https://tools.fobizz.com/pinboard/public_boards/a9d339a9-054f-4a8c-a319-61304fd5a8e5?token=830e6af7c1488139695d8ef4536b670b)**, die den Reflexionsfragen entsprechen:
 
 - **Ansätze und Methoden in der Ausbildungspraxis**
 - **Herausforderungen im Umgang mit Jugendlichen**
 - **Lösungsansätze für Konflikte**
 - **Best Practices aus Ihrem Berufsfeld**
 
-Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest. Verwenden Sie die Post-its auf Miro, um Ihre wichtigsten Gedanken und Ideen prägnant zu notieren.
+Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest. Verwenden Sie die neuen Karten auf dem Pinboard, um Ihre wichtigsten Gedanken und Ideen prägnant zu notieren.
 
-**Zusätzliche Schritte:**
-
-1. **Abstimmung (ca. 5 Minuten)**  
-   Nach der Diskussion überfliegen alle Teilnehmenden die Post-its der verschiedenen Bereiche. Anschliessend geben Sie Ihre Stimmen für die besten Ansätze ab. Nutzen Sie das Polling-Tool von Miro, um Ihre Favoriten zu wählen. Jeder Teilnehmende hat **eine bestimmte Anzahl von Stimmen**, die er auf die Post-its der verschiedenen Bereiche verteilen kann.
-2. **Kommentierung der Ergebnisse (ca. 5 Minuten)**
-   Nach der Abstimmung werden die Ergebnisse visualisiert. Die Ansätze, die die meisten Stimmen erhalten haben, werden als „Best Practices“ hervorgehoben.
+>[!bug]- Pinboard
+><iframe src="https://tools.fobizz.com/pinboard/public_boards/a9d339a9-054f-4a8c-a319-61304fd5a8e5?token=830e6af7c1488139695d8ef4536b670b" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
 ---
 ## Weiter
