@@ -25,7 +25,7 @@
    - Wählen Sie ein **Thema** aus der Liste der verfügbaren Podcasts aus, das für Ihre Rolle als Berufsbildner/in besonders relevant ist.
    - Hören Sie den Podcast aufmerksam an und notieren Sie sich **wichtige Erkenntnisse und Empfehlungen**, die im Podcast vorgestellt werden.
    
-2. **Bearbeitung auf dem Miro-Board (10 Minuten):**
+2. **Bearbeitung auf dem PinBoard (10 Minuten):**
    - Suchen Sie auf dem [Pinboard den Bereich](https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00), der Ihrem gewählten Thema entspricht.
    - Sammeln Sie Ihre **Erkenntnisse, Ideen und Empfehlungen** auf Karten und formulieren Sie sie so, dass sie für andere klar verständlich sind.
    - Strukturieren Sie die Karten in Kategorien wie **Schlüsselideen**, **Herausforderungen** und **Empfehlungen**, um eine übersichtliche Darstellung zu ermöglichen.
