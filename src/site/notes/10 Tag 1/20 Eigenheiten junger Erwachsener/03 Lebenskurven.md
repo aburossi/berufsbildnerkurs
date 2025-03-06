@@ -15,6 +15,7 @@
    - Laden Sie die Kurven als Bild herunter
 
 >[!bug]- Lebenskurve zeichnen
+>[👉 Direkter Link zu Lebenskurven](https://bbk-bbw.github.io/canvas/)
 ><iframe src="https://bbk-bbw.github.io/canvas/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="1200px" allowfullscreen></iframe>
 
 2. **Reflexion (10 Minuten):**
