@@ -19,17 +19,17 @@
 >>[!Question] **Reflexionsfragen:**
 >>
 >>1. **Ansätze und Methoden in der Ausbildungspraxis:**
->>   - **Frage:** Wie können Sie als Berufsbildner die Lernenden in dieser Entwicklungsphase optimal unterstützen und ihre Motivation fördern?
+>>   - *Wie können Sie als Berufsbildner die Lernenden in dieser Entwicklungsphase optimal unterstützen und ihre Motivation fördern?*
 >>
 >>2. **Herausforderungen im Umgang mit Jugendlichen:**
->>   - **Frage:** Wie gehen Sie mit den Stimmungsschwankungen und dem unberechenbaren Verhalten von Jugendlichen um?
->>   - **Frage:** Wie setzen Sie klare Regeln und Grenzen, ohne die Selbstständigkeit der Lernenden einzuschränken?
+>>   - *Wie gehen Sie mit den Stimmungsschwankungen und dem unberechenbaren Verhalten von Jugendlichen um?*
+>>   - *Wie setzen Sie klare Regeln und Grenzen, ohne die Selbstständigkeit der Lernenden einzuschränken?*
 >>
 >>3. **Lösungsansätze für Konflikte:**
->>   - **Frage:** Wie können Sie Konflikte mit Lernenden konstruktiv lösen?
+>>   - *Wie können Sie Konflikte mit Lernenden konstruktiv lösen?*
 >>
 >>4. **Best Practices aus Ihrem Berufsfeld:**
->>   - **Frage:** Welche Best Practices aus Ihrem Berufsfeld haben sich im Umgang mit 15- bis 20-jährigen Lernenden bewährt?
+>>   - *Welche Best Practices aus Ihrem Berufsfeld haben sich im Umgang mit 15- bis 20-jährigen Lernenden bewährt?*
 
 ---
 
@@ -42,7 +42,7 @@ Auf dem Pinboard finden Sie **[vier beschriftete Bereiche](https://tools.fobizz.
 - **Lösungsansätze für Konflikte**
 - **Best Practices aus Ihrem Berufsfeld**
 
-Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest. Verwenden Sie die neuen Karten auf dem Pinboard, um Ihre wichtigsten Gedanken und Ideen prägnant zu notieren.
+*Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest. Verwenden Sie die **neuen Karten** auf dem Pinboard, um Ihre **wichtigsten Gedanken und Ideen aus der Diskussion** zu notieren.*
 
 >[!bug]- Pinboard
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/a9d339a9-054f-4a8c-a319-61304fd5a8e5?token=830e6af7c1488139695d8ef4536b670b" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>

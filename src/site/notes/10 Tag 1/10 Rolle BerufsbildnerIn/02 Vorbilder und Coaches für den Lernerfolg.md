@@ -8,28 +8,21 @@
 
 ## Auftrag
 
->[!note] Überfliegen Sie die Seiten 252-253 im Handbuch. Merken Sie sich die **vier Merkmale eines positiven Vorbilds**. Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Miro-Board fest.
+>[!note] Überfliegen Sie die Seiten 252-253 im Handbuch. Merken Sie sich die **vier Merkmale eines positiven Vorbilds**. Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Pinboard fest.
 > 
-> > [!Question] **Reflexionsfragen:**
-> > 
-> > 1. **Positives Vorbild:**
-> > 
-> > - **Frage:** Wie können Sie im Berufsalltag als **positives Vorbild** für Ihre Lernenden agieren?
-> >     
-> > 
-> > 2. **Coaching-Methoden:**
-> > 
-> > - **Frage:** Mit welchen **konkreten Methoden** können Sie Ihre Lernenden im Sinne des **Coachings** unterstützen?
-> >     
-> > 
-> > 3. **Massgebender Führungsstil:**
-> > 
-> > - **Frage:** Was zeichnet einen **massgebenden Führungsstil** in der Berufsausbildung aus?
-> >     
-> > 
-> > 4. **Herausforderungen und Lösungen:**
-> > 
-> > - **Frage:** Welche **Herausforderungen** sehen Sie in Bezug auf die drei Ansätze und wie könnten Sie diese **meistern**?
+>> [!Question] **Reflexionsfragen:**
+>> 
+>> **Positives Vorbild:**
+>> - Wie können Sie im Berufsalltag als **positives Vorbild** für Ihre Lernenden agieren?
+>> 
+>> **Coaching-Methoden:**
+>> - Mit welchen **konkreten Methoden** können Sie Ihre Lernenden im Sinne des **Coachings** unterstützen?
+>> 
+>> **Massgebender Führungsstil:**
+>> - Was zeichnet einen **massgebenden Führungsstil** in der Berufsausbildung aus?
+>>
+>> **Herausforderungen und Lösungen:**
+>> - Welche **Herausforderungen** sehen Sie in Bezug auf die drei Ansätze und wie könnten Sie diese **meistern**?
 
 **Ergebnisse festhalten:** Auf dem Pinboard finden Sie **[vier beschriftete Bereiche](https://tools.fobizz.com/pinboard/public_boards/d08684f4-97a1-4bce-9c79-772c0b01a871?token=919642dc5532154ffb797cf06da1c76b)**, die den Reflexionsfragen entsprechen:
 
