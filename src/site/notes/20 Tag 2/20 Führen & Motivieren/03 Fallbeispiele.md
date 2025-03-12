@@ -44,7 +44,7 @@
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/3ce4930d-899e-45af-88c1-9fc637bc7dd5?token=4180450e128bc9752f1ecc62a2b078f3" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
 
 >[!note]- **Fallbeispiel Blau: Die ehrgeizige Köchin**
-<iframe src="https://tools.fobizz.com/pinboard/public_boards/ce76b5e9-c6ec-41ac-9a9b-e41580719de9?token=2b48613957de5e43be0e3ea74560f27c" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+><iframe src="https://tools.fobizz.com/pinboard/public_boards/ce76b5e9-c6ec-41ac-9a9b-e41580719de9?token=2b48613957de5e43be0e3ea74560f27c" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
 
 ---
 
