@@ -45,7 +45,7 @@
 > - **Intrinsische Motivation:** Überlegen Sie, wie Sie das Projekt so gestalten können, dass es die persönlichen Interessen und Ziele der Lernenden anspricht.
 
 > [!quote]- PinBoard
-> <iframe width="1000px" height="600" src="https://tools.fobizz.com/pinboard/public_boards/0e5ff357-9352-4ad5-99aa-7510825d6fcb?token=331af06dcbdcbccbbc554e707ec11ecf" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+> <iframe width="100%" height="600" src="https://tools.fobizz.com/pinboard/public_boards/0e5ff357-9352-4ad5-99aa-7510825d6fcb?token=331af06dcbdcbccbbc554e707ec11ecf" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ---
 

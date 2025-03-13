@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/20 Tag 2/20 Führen & Motivieren/01 Motivation fördern und pflegen/"}
 ---
 
-## Motivation fördern und pflegen
 
 >[!abstract] Einführung
 >Stellen Sie sich vor, eine neue Lernende beginnt ihre Ausbildung in Ihrem Betrieb. Sie ist voller **Enthusiasmus** und **Tatendrang**. Nach einigen Wochen jedoch lässt ihre **Motivation** merklich nach.  Die Aufgaben erscheinen ihr langweilig und sinnlos. Wie können Sie als Berufsbildner/-in dieser Entwicklung entgegenwirken und die Lernende wieder für ihre Ausbildung **begeistern**?
