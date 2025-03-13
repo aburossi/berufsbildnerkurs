@@ -14,7 +14,7 @@
 > 2. Führen Sie eine Diskussion zu diesen Bereichen in Ihrer Gruppe.
 >    - Schreiben Sie während der Diskussion zu jedem dieser Themen Ihre wichtigsten Gedanken, Beispiele oder Ansätze als **Stichworte oder kurze Sätze auf neue Karten**. Färben Sie die Karte wie die Farbe Ihrer Gruppe. 
 >   
->>[!Questions] **Reflexionsfragen**
+>>[!Question] **Reflexionsfragen**
 >>1. **Anwendung von Instruktionsmethoden in Ihrem Betrieb:**
 >>- Welche Instruktionsmethoden werden in Ihrem Betrieb angewendet? 
 >>- Nennen Sie konkrete Beispiele, bei denen die Instruktionsmethode und die 6-Schritte-Methode zum Einsatz kommen.
@@ -26,10 +26,7 @@
 >> 3. **Förderung des autonomen Lernens:**
 >>- Wie können Sie das selbstständige Lernen Ihrer Lernenden fördern? 
 >>- Welche Massnahmen könnten Sie ergreifen, um die Selbstständigkeit und Eigeninitiative zu stärken?
->
-> **Ergebnisse festhalten:**
->
-> Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest.
+
 
 ---
 
@@ -38,4 +35,4 @@
 
 
 ## Weiter
-[[20 Tag 2/30 Wissen & Können vermitteln/material/03 Ausbildungsschritten\|03 Ausbildungsschritten]]
+[[20 Tag 2/30 Wissen & Können vermitteln/03 Praxisübung\|03 Praxisübung]]

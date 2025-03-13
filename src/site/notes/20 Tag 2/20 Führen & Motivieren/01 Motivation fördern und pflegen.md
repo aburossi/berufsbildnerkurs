@@ -27,4 +27,4 @@
 [Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/fuehrenundmotivieren)
 ---
 ## Weiter
-[[20 Tag 2/20 Führen & Motivieren/03 Fallbeispiele\|03 Fallbeispiele]]
+[[20 Tag 2/20 Führen & Motivieren/02 Motivationsfaktoren\|02 Motivationsfaktoren]]

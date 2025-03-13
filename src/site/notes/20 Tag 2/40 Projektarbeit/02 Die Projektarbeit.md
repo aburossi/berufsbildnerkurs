@@ -5,7 +5,7 @@
 >[!note] Überfliegen Sie die **Seiten 246-250 im Handbuch**. Merken Sie sich die **Definition von Projektarbeit** und die **6-Schritte-Methode**.
 >Diskutieren Sie in Ihrer Gruppe, welche **Projekte** sich für Ihre jeweiligen Ausbildungsberufe eignen und welche **Herausforderungen** dabei auftreten könnten.
 
->#### Ablauf
+#### Ablauf
 1. Nutzen Sie das bereitgestellte Pinboard um Ihre Ergebnisse zu erfassen. Das Pinboard ist in separate Bereiche unterteilt, die jeweils eine Branche repräsentieren:
 2. In jedem Branchenbereich tragen Sie mithilfe auf neuen Karten Ihre Ideen in drei Kategorien ein:
 - **Projektideen:**  
